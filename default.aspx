@@ -77,11 +77,35 @@
           <div class="card-header">
             PDB Viewer for <%=classname %>
           </div>
-          <div class="card-body">
+          
+             <table style="overflow: hidden">
+                 <tr>
+                     <td width="160" valign="top">
+                         <script type="text/javascript"><!--
+                             google_ad_client = "pub-6435000594396515";
+                             /* network.programming-in.net */
+                             google_ad_slot = "3902760999";
+                             google_ad_width = 160;
+                             google_ad_height = 600;
+                             //-->
+                         </script>
+                         <script type="text/javascript"
+                                 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                         </script>
+                     </td>
+                     <td>
+<div class="card-body">
 <pre>
 <%=file %>
 </pre>
-          </div>
+</div>
+                     </td>
+                 </tr>
+                 
+             </table>
+
+          
+          
         </div>
         <!-- /.card -->
 
