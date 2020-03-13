@@ -1,0 +1,17 @@
+Summary for C:\temp\symbols\System.Web.Routing.pdb\F3EA1655CE184D0A9E4706D76B4F67B41\System.Web.Routing.pdb
+  Size: 61440 bytes
+  Guid: {5516EAF3-18CE-0A4D-9E47-06D76B4F67B4}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+---GLOBALS---
+---EXTERNALS---
+  
+  

@@ -1,0 +1,622 @@
+Summary for C:\temp\symbols\ISymWrapper.pdb\09ED8C8C05FE4C88AA98D00384D3E0132\ISymWrapper.pdb
+  Size: 159744 bytes
+  Guid: {8C8CED09-FE05-884C-AA98-D00384D3E013}
+  Age: 2
+  Attributes: 
+---COMPILANDS---
+  * CIL *
+  f:\binaries\Intermediate\clr\isymwrapper.nativeproj_1630150763\objr\x86\BaseClassesWithDtor.netmodule
+  f:\binaries\Intermediate\clr\isymwrapper.nativeproj_1630150763\objr\x86\Native.res
+  f:\binaries\Intermediate\clr\isymwrapper.nativeproj_1630150763\objr\x86\AssemblyAttributes.obj
+  f:\binaries\Intermediate\clr\isymwrapper.nativeproj_1630150763\objr\x86\ISymWrapper.obj
+  KERNEL32.dll
+  Import:KERNEL32.dll
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\_cpu_disp_.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\_initsect_.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\_sehprolg4_.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\_chandler4gs_.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\_secchk_.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\gs_cookie.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\gs_report.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\gs_support.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\checkcfg.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\guard_support.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\loadcfg.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\dyn_tls_init.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\ucrt_detection.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\argv_mode.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\default_local_stdio_options.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\std_type_info_static.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\tncleanup.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\delete_array.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\delete_scalar.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\delete_scalar_size.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\new_array.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\new_scalar.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\throw_bad_alloc.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\dll_dllmain.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\dll_dllmain_stub.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\initializers.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\utility.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\ucrt_stubs.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\utility_desktop.obj
+  Import:VCRUNTIME140_CLR0400.dll
+  VCRUNTIME140_CLR0400.dll
+  Import:ucrtbase_clr0400.dll
+  ucrtbase_clr0400.dll
+  f:\binaries\Intermediate\vctools\msvcmrt.nativeproj_1130085516\objr\x86\msilexit.obj
+  f:\binaries\Intermediate\vctools\msvcmrt.nativeproj_1130085516\objr\x86\mstartup.obj
+  f:\binaries\Intermediate\vctools\msvcmrt.nativeproj_1130085516\objr\x86\pureMSILcode.obj
+  f:\binaries\Intermediate\vctools\msvcmrt.nativeproj_1130085516\objr\x86\managdeh.obj
+  ole32.dll
+  Import:ole32.dll
+  Import:mscoree.dll
+  mscoree.dll
+  * Linker *
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  * CIL *
+  f:\binaries\Intermediate\clr\isymwrapper.nativeproj_1630150763\objr\x86\BaseClassesWithDtor.netmodule
+  f:\binaries\Intermediate\clr\isymwrapper.nativeproj_1630150763\objr\x86\Native.res
+  f:\binaries\Intermediate\clr\isymwrapper.nativeproj_1630150763\objr\x86\AssemblyAttributes.obj
+  f:\binaries\Intermediate\clr\isymwrapper.nativeproj_1630150763\objr\x86\ISymWrapper.obj
+  KERNEL32.dll
+  Import:KERNEL32.dll
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\_cpu_disp_.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\_initsect_.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\_sehprolg4_.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\_chandler4gs_.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\_secchk_.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\gs_cookie.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\gs_report.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\gs_support.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\checkcfg.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\guard_support.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\loadcfg.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\dyn_tls_init.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\ucrt_detection.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\argv_mode.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\default_local_stdio_options.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\std_type_info_static.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\tncleanup.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\delete_array.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\delete_scalar.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\delete_scalar_size.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\new_array.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\new_scalar.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\throw_bad_alloc.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\dll_dllmain.obj
+    func [0x0000342a+ 3 - 0x0000347d- 4 | sizeof= 83] (NONE) dllmain_crt_dispatch
+    func [0x0000347d+12 - 0x00003577- 0 | sizeof=250] (NONE) dllmain_crt_process_attach
+    func [0x00003577+12 - 0x000035fe- 0 | sizeof=135] (NONE) dllmain_crt_process_detach
+    func [0x000035fe+12 - 0x000036fa- 6 | sizeof=252] (NONE) dllmain_dispatch
+    func [0x000036fa+ 4 - 0x00003724- 4 | sizeof= 42] (NONE) dllmain_raw
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\dll_dllmain_stub.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\initializers.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\utility.obj
+    func [0x00003846+ 7 - 0x0000388a- 0 | sizeof= 68] (NONE) find_pe_section
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\ucrt_stubs.obj
+  f:\binaries\Intermediate\vctools\msvcrt.nativeproj__1807492184\objr\x86\utility_desktop.obj
+  Import:VCRUNTIME140_CLR0400.dll
+  VCRUNTIME140_CLR0400.dll
+  Import:ucrtbase_clr0400.dll
+  ucrtbase_clr0400.dll
+  f:\binaries\Intermediate\vctools\msvcmrt.nativeproj_1130085516\objr\x86\msilexit.obj
+  f:\binaries\Intermediate\vctools\msvcmrt.nativeproj_1130085516\objr\x86\mstartup.obj
+  f:\binaries\Intermediate\vctools\msvcmrt.nativeproj_1130085516\objr\x86\pureMSILcode.obj
+  f:\binaries\Intermediate\vctools\msvcmrt.nativeproj_1130085516\objr\x86\managdeh.obj
+  ole32.dll
+  Import:ole32.dll
+  Import:mscoree.dll
+  mscoree.dll
+  * Linker *
+---GLOBALS---
+  func [0x00003846+ 7 - 0x0000388a- 0 | sizeof= 68] (NONE) find_pe_section
+  func [0x000036fa+ 4 - 0x00003724- 4 | sizeof= 42] (NONE) dllmain_raw
+  func [0x0000342a+ 3 - 0x0000347d- 4 | sizeof= 83] (NONE) dllmain_crt_dispatch
+  func [0x000035fe+12 - 0x000036fa- 6 | sizeof=252] (NONE) dllmain_dispatch
+  func [0x00003577+12 - 0x000035fe- 0 | sizeof=135] (NONE) dllmain_crt_process_detach
+  func [0x0000347d+12 - 0x00003577- 0 | sizeof=250] (NONE) dllmain_crt_process_attach
+---EXTERNALS---
+  public [0x000014a8] ?get@Attributes@SymVariable@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAVObject@5@XZ
+  public [0x000052be] ?what@exception@std@@UBEPBDXZ
+  public [0x00003805] ?__scrt_initialize_type_info@@YAXXZ
+  public [0x00001320] ?get@Token@SymMethod@SymbolStore@Diagnostics@System@@$$FU$AAM?AVSymbolToken@345@XZ
+  public [0x0000252c] ?GetSequencePoints@SymMethod@SymbolStore@Diagnostics@System@@$$FU$AAMXP$01AHP$01AP$AAUISymbolDocument@234@0000@Z
+  public [0x00005165] ___scrt_stub_for_is_c_termination_complete
+  public [0x00003cb0] @_guard_check_icall@4
+  public [0x000022bc] ?CloseNamespace@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXXZ
+  public [0x00004460] ?DoCallBackInDefaultDomain@<CrtImplementationDetails>@@$$FYAXP6GJPAX@Z0@Z
+  public [0x00000004] ?__onexitbegin_app_domain@@$$Q3PAP6MXXZA
+  public [0x0000450c] ?DoNothing@DefaultDomain@<CrtImplementationDetails>@@$$FCGJPAX@Z
+  public [0x00003160] ?<Finalize>@SymMethod@SymbolStore@Diagnostics@System@@$$FM$AAMXXZ
+  public [0x0000f10c] ___scrt_native_startup_lock
+  public [0x00006054] VCRUNTIME140_CLR0400_NULL_THUNK_DATA
+  public [0x00003224] ?<Dispose>@SymVariable@SymbolStore@Diagnostics@System@@$$FM$AAMX_N@Z
+  public [0x0000e100] ??_R4type_info@@6B@
+  public [0x00005162] ___acrt_thread_attach
+  public [0x00004058] __execute_onexit_table
+  public [0x00004638] ?NeedsUninitialization@DefaultDomain@<CrtImplementationDetails>@@$$FSA_NXZ
+  public [0x00006198] ??_7exception@std@@6B@
+  public [0x0000485c] ?InitializeDefaultAppDomain@LanguageSupport@<CrtImplementationDetails>@@$$FAAEXXZ
+  public [0x0000f054] ___security_cookie
+  public [0x00003eee] @__security_check_cookie@4
+  public [0x000061d4] ??_7bad_array_new_length@std@@6B@
+  public [0x00006078] __imp___initterm_e
+  public [0x00001c8c] ?<Finalizer>@SymWriter@SymbolStore@Diagnostics@System@@$$FA$AAMXXZ
+  public [0x0000e048] ??_R1A@?0A@EA@exception@std@@8
+  public [0x000047b8] ??0ModuleLoadExceptionHandlerException@<CrtImplementationDetails>@@$$FQ$AAM@P$AAVString@System@@P$AAVException@3@1@Z
+  public [0x00005308] ___std_exception_destroy
+  public [0x000017b4] ?SetCheckSum@SymDocumentWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXVGuid@4@P$01AE@Z
+  public [0x0000397a] ___scrt_dllmain_uninitialize_critical
+  public [0x00006014] __imp__QueryPerformanceCounter@4
+  public [0x0000e588] __CTA3?AVbad_array_new_length@std@@
+  public [0x000019dc] ?GetParameters@SymMethod@SymbolStore@Diagnostics@System@@$$FU$AAMP$01AP$AAUISymbolVariable@234@XZ
+  public [0x00006038] __imp____std_exception_copy
+  public [0x0000179c] ?SetSource@SymDocumentWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXP$01AE@Z
+  public [0x00003d06] __SEH_epilog4
+  public [0x00006020] __imp__Sleep@4
+  public [0x00003ee1] ___scrt_is_ucrt_dll_in_use
+  public [0x00002c3c] ??1SymScope@SymbolStore@Diagnostics@System@@$$FA$AAM@XZ
+  public [0x0000490c] ?InitializePerProcess@LanguageSupport@<CrtImplementationDetails>@@$$FAAEXXZ
+  public [0x00003d3e] ___isa_available_init
+  public [0x000031b8] ?<Finalize>@SymReader@SymbolStore@Diagnostics@System@@$$FM$AAMXXZ
+  public [0x00002408] ?Allocate@?$NewIUnknownArrayHolder@UISymUnmanagedScope@Private@SymbolStore@Diagnostics@System@@@@$$FQAEXK@Z
+  public [0x00005162] ___scrt_stub_for_acrt_uninitialize_critical
+  public [0x00006030] __imp__IsDebuggerPresent@0
+  public [0x000032d4] ?<Dispose>@SymBinder@SymbolStore@Diagnostics@System@@$$FM$AAMX_N@Z
+  public [0x00005162] ___scrt_stub_for_acrt_thread_detach
+  public [0x00005314] ?abort@@$$J0YAXXZ
+  public [0x00004208] ?AddHandler@ModuleUninitializer@<CrtImplementationDetails>@@$$FQ$AAMXP$AAVEventHandler@System@@@Z
+  public [0x0000f06c] ___scrt_ucrt_dll_is_in_use
+  public [0x00005284] ?__scrt_throw_std_bad_alloc@@YAXXZ
+  public [0x00005162] ___acrt_initialize
+  public [0x0000e5b4] __IMPORT_DESCRIPTOR_VCRUNTIME140_CLR0400
+  public [0x00003cc0] __SEH_prolog4
+  public [0x000019dc] ?GetNamespace@SymMethod@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAUISymbolNamespace@234@XZ
+  public [0x0000404c] __initialize_narrow_environment
+  public [0x00005468] ?System.Diagnostics.SymbolStore.SymVariableBase.{dtor}@@200001
+  public [0x00004fe4] ?__alloc_global_lock@?A0xa26b76d5@@$$FYA_NXZ
+  public [0x00004d28] ?_lock_Set@AtExitLock@<CrtImplementationDetails>@@$$FCMXP$AAVObject@System@@@Z
+  public [0x00004ec0] ?_app_exit_callback@@$$J0YMXXZ
+  public [0x000043e4] ?__release_appdomain@@$$FYAXPAUIUnknown@@@Z
+  public [0x00004174] ?GetObjectData@ModuleLoadExceptionHandlerException@<CrtImplementationDetails>@@$$FU$AAMXP$AAVSerializationInfo@Serialization@Runtime@System@@VStreamingContext@456@@Z
+  public [0x00000004] ?InitializedVtables@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+  public [0x0000309c] ?<Finalize>@SymDocument@SymbolStore@Diagnostics@System@@$$FM$AAMXXZ
+  public [0x0000e604] __IMPORT_DESCRIPTOR_mscoree
+  public [0x00001a44] ?ReplaceSymbolStore@SymReader@SymbolStore@Diagnostics@System@@$$FU$AAMXP$AAVString@4@VIntPtr@4@@Z
+  public [0x00006064] ole32_NULL_THUNK_DATA
+  public [0x000015e4] ?get@StartOffset@SymVariable@SymbolStore@Diagnostics@System@@$$FU$AAMHXZ
+  public [0x000033a0] ?<Dispose>@SymReader@SymbolStore@Diagnostics@System@@$$FU$AAMXXZ
+  public [0x00006060] __imp__CoCreateInstance@20
+  public [0x00004078] ??0ModuleLoadException@<CrtImplementationDetails>@@$$FQ$AAM@P$AAVString@System@@P$AAVException@3@@Z
+  public [0x00005162] ___scrt_stub_for_acrt_uninitialize
+  public [0x000041a4] ??0ModuleLoadExceptionHandlerException@<CrtImplementationDetails>@@$$FI$AAM@P$AAVSerializationInfo@Serialization@Runtime@System@@VStreamingContext@345@@Z
+  public [0x000052cb] ??3@YAXPAXI@Z
+  public [0x00004090] ??0ModuleLoadException@<CrtImplementationDetails>@@$$FI$AAM@P$AAVSerializationInfo@Serialization@Runtime@System@@VStreamingContext@345@@Z
+  public [0x00003957] ___scrt_dllmain_uninitialize_c
+  public [0x0000334c] ?<Dispose>@SymDocument@SymbolStore@Diagnostics@System@@$$FU$AAMXXZ
+  public [0x00005320] _malloc
+  public [0x0000f030] ?IID_ISymUnmanagedWriter@@3U_GUID@@A
+  public [0x0000e498] ___rtc_iaa
+  public [0x00004046] __configure_narrow_argv
+  public [0x00002e3c] ??1SymWriter@SymbolStore@Diagnostics@System@@$$FA$AAM@XZ
+  public [0x000038f8] ___scrt_dllmain_crt_thread_attach
+  public [0x00002e04] ??0SymWriter@SymbolStore@Diagnostics@System@@$$FQ$AAM@XZ
+  public [0x00006024] __imp__TerminateProcess@8
+  public [0x00001064] ???__E?InitializedPerProcess@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ@?A0x9616faf2@@$$FYMXXZ
+  public [0x0000f45a] ?InitializedNativeFromCCTOR@DefaultDomain@<CrtImplementationDetails>@@2_NA
+  public [0x0000609c] ___guard_check_icall_fptr
+  public [0x00005162] ___vcrt_thread_detach
+  public [0x00001708] ?FindClosestLine@SymDocument@SymbolStore@Diagnostics@System@@$$FU$AAMHH@Z
+  public [0x00004c84] ?.cctor@ModuleUninitializer@<CrtImplementationDetails>@@$$FCMXXZ
+  public [0x00003747] ?__security_init_cookie@@$$J0YAXXZ
+  public [0x00004988] ?InitializeUninitializer@LanguageSupport@<CrtImplementationDetails>@@$$FAAEXXZ
+  public [0x000030b0] ?<Dispose>@SymDocumentWriter@SymbolStore@Diagnostics@System@@$$FM$AAMX_N@Z
+  public [0x000014dc] ?get@AddressKind@SymVariable@SymbolStore@Diagnostics@System@@$$FU$AAM?AW4SymAddressKind@345@XZ
+  public [0x000037e3] _DllMain@12
+  public [0x0000f08c] ??_R0?AVexception@std@@@8
+  public [0x0000e114] ??_R3type_info@@8
+  public [0x0000e124] ??_R2type_info@@8
+  public [0x00006094] __imp___seh_filter_dll
+  public [0x00006008] __imp__GetSystemTimeAsFileTime@4
+  public [0x000040d0] ?ToString@ModuleLoadExceptionHandlerException@<CrtImplementationDetails>@@$$FU$AAMP$AAVString@System@@XZ
+  public [0x000039c0] ___scrt_initialize_onexit_tables
+  public [0x00001cb0] ?Initialize@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXVIntPtr@4@P$AAVString@4@_N@Z
+  public [0x00001090] ?GetUnmanaged@SymDocument@SymbolStore@Diagnostics@System@@$$FQ$AAMPAUISymUnmanagedDocument@Private@234@XZ
+  public [0x00005162] ___vcrt_uninitialize
+  public [0x000047d4] ?ThrowNestedModuleLoadException@<CrtImplementationDetails>@@$$FYMXP$AAVException@System@@0@Z
+  public [0x0000f060] ?hasNative@DefaultDomain@<CrtImplementationDetails>@@0W4TriBool@2@A
+  public [0x00005162] ___vcrt_uninitialize_critical
+  public [0x00000004] ?Initialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA
+  public [0x00002274] ?OpenNamespace@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXP$AAVString@4@@Z
+  public [0x000060f0] ___xi_vt_z
+  public [0x00002df0] ??1SymVariable@SymbolStore@Diagnostics@System@@$$FA$AAM@XZ
+  public [0x00006090] __imp___cexit
+  public [0x00004b64] ??1LanguageSupport@<CrtImplementationDetails>@@$$FQAE@XZ
+  public [0x00004400] ?GetDefaultDomain@<CrtImplementationDetails>@@$$FYMP$AAVAppDomain@System@@XZ
+  public [0x00001c44] ?GetWriter@SymWriter@SymbolStore@Diagnostics@System@@$$FQ$AAMPAUISymUnmanagedWriter@Private@234@XZ
+  public [0x00004b4c] ??0LanguageSupport@<CrtImplementationDetails>@@$$FQAE@XZ
+  public [0x00002408] ?Allocate@?$NewIUnknownArrayHolder@UISymUnmanagedDocument@Private@SymbolStore@Diagnostics@System@@@@$$FQAEXK@Z
+  public [0x000020c0] ?DefineLocalVariable@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXP$AAVString@4@W4FieldAttributes@Reflection@4@P$01AEW4SymAddressKind@234@HHHHH@Z
+  public [0x00006004] __imp__DisableThreadLibraryCalls@4
+  public [0x0000f12c] ___scrt_debugger_hook_flag
+  public [0x00001028] ???__E?IsDefaultDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2_NA@@YMXXZ@?A0x9616faf2@@$$FYMXXZ
+  public [0x0000601c] __imp__SetUnhandledExceptionFilter@4
+  public [0x00004b78] ?Initialize@LanguageSupport@<CrtImplementationDetails>@@$$FQAEXXZ
+  public [0x00005165] __is_c_termination_complete
+  public [0x00005246] ??1bad_alloc@std@@UAE@XZ
+  public [0x000040bc] ?set@NestedException@ModuleLoadExceptionHandlerException@<CrtImplementationDetails>@@$$FQ$AAMXP$AAVException@System@@@Z
+  public [0x00003924] ___scrt_dllmain_exception_filter
+  public [0x0000e598] __CT??_R0?AVbad_array_new_length@std@@@8??0bad_array_new_length@std@@QAE@ABV01@@Z12
+  public [0x000060e8] ___xc_mp_z
+  public [0x000019c4] ?GetSymAttribute@SymReader@SymbolStore@Diagnostics@System@@$$FU$AAMP$01AEVSymbolToken@234@P$AAVString@4@@Z
+  public [0x000019dc] ?GetCheckSum@SymDocument@SymbolStore@Diagnostics@System@@$$FU$AAMP$01AEXZ
+  public [0x00003811] ?__scrt_uninitialize_type_info@@YAXXZ
+  public [0x00005162] ___acrt_uninitialize
+  public [0x00006010] __imp__GetCurrentProcessId@0
+  public [0x00006098] ucrtbase_clr0400_NULL_THUNK_DATA
+  public [0x0000403a] __initterm_e
+  public [0x00005162] ___acrt_uninitialize_critical
+  public [0x0000f0a8] ??_R0?AVbad_array_new_length@std@@@8
+  public [0x0000430c] ?RegisterModuleUninitializer@<CrtImplementationDetails>@@$$FYMXP$AAVEventHandler@System@@@Z
+  public [0x0000e4a4] ___rtc_tzz
+  public [0x0000618c] __unep@?DoNothing@DefaultDomain@<CrtImplementationDetails>@@$$FCGJPAX@Z
+  public [0x00001b2c] ?GetSignature@SymVariable@SymbolStore@Diagnostics@System@@$$FU$AAMP$01AEXZ
+  public [0x00000004] ?_lock@AtExitLock@<CrtImplementationDetails>@@$$Q0PAXA
+  public [0x00005177] ??_V@$$FYAXPAX@Z
+  public [0x00005364] ?System.Diagnostics.SymbolStore.SymDocumentBase..ctor@@200001
+  public [0x00005257] ??_Eexception@std@@UAEPAXI@Z
+  public [0x00002ab0] ?GetMethod@SymReader@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAUISymbolMethod@234@VSymbolToken@234@@Z
+  public [0x0000f459] ?InitializedNative@DefaultDomain@<CrtImplementationDetails>@@2_NA
+  public [0x000051cf] ??0bad_alloc@std@@QAE@XZ
+  public [0x000024f0] ??1SymDocument@SymbolStore@Diagnostics@System@@$$FA$AAM@XZ
+  public [0x00003829] ___scrt_initialize_default_local_stdio_options
+  public [0x0000603c] __imp____std_exception_destroy
+  public [0x0000f108] ___scrt_current_native_startup_state
+  public [0x00006000] __imp__InitializeSListHead@4
+  public [0x000061c0] ??_C@_0P@GHFPNOJB@bad?5allocation?$AA@
+  public [0x00006048] __imp__memset
+  public [0x00002c50] ?GetChildren@SymScope@SymbolStore@Diagnostics@System@@$$FU$AAMP$01AP$AAUISymbolScope@234@XZ
+  public [0x0000e0c4] ??_R3bad_array_new_length@std@@8
+  public [0x0000e0d4] ??_R2bad_array_new_length@std@@8
+  public [0x00004324] ?FromGUID@<CrtImplementationDetails>@@$$FYM?AVGuid@System@@ABU_GUID@@@Z
+  public [0x000060e0] ___xc_ma_z
+  public [0x0000617c] __GUID_90f1a06e_7712_4762_86b5_7a5eba6bdb02
+  public [0x00004ffc] ?_initatexit_m@@$$J0YMHXZ
+  public [0x0000f458] ?Entered@DefaultDomain@<CrtImplementationDetails>@@2_NA
+  public [0x0000183c] ?GetOffset@SymMethod@SymbolStore@Diagnostics@System@@$$FU$AAMHP$AAUISymbolDocument@234@HH@Z
+  public [0x00004268] ?SingletonDomainUnload@ModuleUninitializer@<CrtImplementationDetails>@@$$FA$AAMXP$AAVObject@System@@P$AAVEventArgs@4@@Z
+  public [0x0000f068] __mep@?_UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@$$FCGJPAX@Z
+  public [0x00002444] ??1?$ReleaseHolder@UISymUnmanagedDocumentWriter@Private@SymbolStore@Diagnostics@System@@@@$$FQAE@XZ
+  public [0x00001388] ?get@UserEntryPoint@SymReader@SymbolStore@Diagnostics@System@@$$FU$AAM?AVSymbolToken@345@XZ
+  public [0x00004cf8] ?_handle@AtExitLock@<CrtImplementationDetails>@@$$FCMP$AA__ZVGCHandle@InteropServices@Runtime@System@@XZ
+  public [0x00001000] ???__E?Initialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA@@YMXXZ@?A0x9616faf2@@$$FYMXXZ
+  public [0x00002f6c] ?GetReader@SymBinder@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAUISymbolReader@234@VIntPtr@4@P$AAVString@4@1@Z
+  public [0x0000e030] ??_R3exception@std@@8
+  public [0x0000e040] ??_R2exception@std@@8
+  public [0x000028d8] ?GetDocument@SymReader@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAUISymbolDocument@234@P$AAVString@4@VGuid@4@11@Z
+  public [0x00000100] ___guard_flags
+  public [0x00004cb4] ?___CxxCallUnwindDtor@@$$J0YMXP6MXPAX@Z0@Z
+  public [0x0000f454] ?Count@AllDomains@<CrtImplementationDetails>@@2HA
+  public [0x00004040] __seh_filter_dll
+  public [0x00005162] ___acrt_thread_detach
+  public [0x00004d9c] ?_lock_Destruct@AtExitLock@<CrtImplementationDetails>@@$$FCAXXZ
+  public [0x0000607c] __imp___initterm
+  public [0x0000e0e4] ??_R1A@?0A@EA@bad_array_new_length@std@@8
+  public [0x00005177] ??_V@YAXPAX@Z
+  public [0x0000616c] __GUID_90f1a06c_7712_4762_86b5_7a5eba6bdb02
+  public [0x00006034] KERNEL32_NULL_THUNK_DATA
+  public [0x00000000] ___guard_fids_count
+  public [0x00001288] ?get@CheckSumAlgorithmId@SymDocument@SymbolStore@Diagnostics@System@@$$FU$AAM?AVGuid@5@XZ
+  public [0x0000516e] ??_U@YAPAXI@Z
+  public [0x000033d8] ?<Dispose>@SymVariable@SymbolStore@Diagnostics@System@@$$FU$AAMXXZ
+  public [0x000028c4] ??1SymReader@SymbolStore@Diagnostics@System@@$$FA$AAM@XZ
+  public [0x00003210] ?<Finalize>@SymScope@SymbolStore@Diagnostics@System@@$$FM$AAMXXZ
+  public [0x00005314] _abort
+  public [0x00003c5a] __RTC_Initialize
+  public [0x00005130] ?_initterm_m@@$$FYMXPBQ6MPBXXZ0@Z
+  public [0x00002030] ?OpenScope@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMHH@Z
+  public [0x00001614] ?get@EndOffset@SymVariable@SymbolStore@Diagnostics@System@@$$FU$AAMHXZ
+  public [0x00005044] ?_initatexit_app_domain@@$$J0YMHXZ
+  public [0x00002464] ?get@Method@SymScope@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAUISymbolMethod@345@XZ
+  public [0x000051e7] ??0bad_array_new_length@std@@QAE@ABV01@@Z
+  public [0x00006058] __imp___CorDllMain@12
+  public [0x00002188] ?DefineParameter@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXP$AAVString@4@W4ParameterAttributes@Reflection@4@HW4SymAddressKind@234@HHH@Z
+  public [0x000033f4] ?<Dispose>@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXXZ
+  public [0x000046b0] ?UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@$$FCAXXZ
+  public [0x00005162] ___scrt_stub_for_acrt_thread_attach
+  public [0x00005168] ?Sleep@@$$J14YGXK@Z
+  public [0x0000516e] ??_U@$$FYAPAXI@Z
+  public [0x00002188] ?DefineGlobalVariable@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXP$AAVString@4@W4FieldAttributes@Reflection@4@P$01AEW4SymAddressKind@234@HHH@Z
+  public [0x00005162] ___vcrt_initialize
+  public [0x00005257] ??_Gexception@std@@UAEPAXI@Z
+  public [0x00004e1c] ?_exit_callback@@$$J0YMXXZ
+  public [0x0000130c] ?GetUnmanaged@SymDocumentWriter@SymbolStore@Diagnostics@System@@$$FQ$AAMPAUISymUnmanagedDocumentWriter@Private@234@XZ
+  public [0x000053c4] ?System.Diagnostics.SymbolStore.SymMethodBase..ctor@@200001
+  public [0x00001874] ?GetRanges@SymMethod@SymbolStore@Diagnostics@System@@$$FU$AAMP$01AHP$AAUISymbolDocument@234@HH@Z
+  public [0x0000487c] ?InitializeNative@LanguageSupport@<CrtImplementationDetails>@@$$FAAEXXZ
+  public [0x00005408] ?System.Diagnostics.SymbolStore.SymReaderBase.{dtor}@@200001
+  public [0x00001d84] ?CloseMethod@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXXZ
+  public [0x000061a0] ??_C@_0BC@EOODALEL@Unknown?5exception?$AA@
+  public [0x00004500] ?_getFiberPtrId@@$$FYAPAXXZ
+  public [0x00006140] __pDefaultRawDllMain
+  public [0x00001980] ?<Finalizer>@SymReader@SymbolStore@Diagnostics@System@@$$FA$AAMXXZ
+  public [0x000049b4] ?_Initialize@LanguageSupport@<CrtImplementationDetails>@@$$FAAEXXZ
+  public [0x00005302] ___std_exception_copy
+  public [0x0000332c] ?GetReader@SymBinder@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAUISymbolReader@234@HP$AAVString@4@0@Z
+  public [0x00006044] __imp___except_handler4_common
+  public [0x00004678] ?_UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@$$FCGJPAX@Z
+  public [0x000053f4] ?System.Diagnostics.SymbolStore.SymReaderBase..ctor@@200001
+  public [0x0000f058] ___isa_enabled
+  public [0x0000e5f0] __IMPORT_DESCRIPTOR_ole32
+  public [0x000053d8] ?System.Diagnostics.SymbolStore.SymMethodBase.{dtor}@@200001
+  public [0x000052a1] ?__scrt_throw_std_bad_array_new_length@@YAXXZ
+  public [0x00002330] ?SetMethodSourceRange@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXP$AAUISymbolDocumentWriter@234@HH0HH@Z
+  public [0x0000e01c] ??_R4exception@std@@6B@
+  public [0x00001d1c] ?SetUserEntryPoint@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXVSymbolToken@234@@Z
+  public [0x00003a6a] ___scrt_is_nonwritable_in_current_image
+  public [0x00003058] ?<Dispose>@SymDocument@SymbolStore@Diagnostics@System@@$$FM$AAMX_N@Z
+  public [0x000013c0] ?get@StartOffset@SymScope@SymbolStore@Diagnostics@System@@$$FU$AAMHXZ
+  public [0x00003917] ___scrt_dllmain_crt_thread_detach
+  public [0x00000004] ?InitializedPerProcess@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+  public [0x0000452c] ?HasPerProcess@DefaultDomain@<CrtImplementationDetails>@@$$FSA_NXZ
+  public [0x00005168] _Sleep@4
+  public [0x00002064] ?CloseScope@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXH@Z
+  public [0x00006084] __imp___callnewh
+  public [0x00004ad8] ?Cleanup@LanguageSupport@<CrtImplementationDetails>@@$$FAAMXP$AAVException@System@@@Z
+  public [0x00005162] ___vcrt_thread_attach
+  public [0x00003747] ___security_init_cookie
+  public [0x000051b4] ??0bad_alloc@std@@QAE@ABV01@@Z
+  public [0x0000112c] ?get@DocumentType@SymDocument@SymbolStore@Diagnostics@System@@$$FU$AAM?AVGuid@5@XZ
+  public [0x000041dc] ?ThrowModuleLoadException@<CrtImplementationDetails>@@$$FYMXP$AAVString@System@@@Z
+  public [0x000060b4] ___xp_z
+  public [0x000060a8] ___xi_a
+  public [0x000060bc] ___xt_z
+  public [0x000060a0] ___xc_a
+  public [0x00001a94] ??0SymScope@SymbolStore@Diagnostics@System@@$$FQ$AAM@PAUISymUnmanagedScope@Private@123@@Z
+  public [0x000060a4] ___xc_z
+  public [0x000060ac] ___xi_z
+  public [0x000060b0] ___xp_a
+  public [0x0000311c] ?<Dispose>@SymMethod@SymbolStore@Diagnostics@System@@$$FM$AAMX_N@Z
+  public [0x000060b8] ___xt_a
+  public [0x0000606c] __imp___initialize_onexit_table
+  public [0x00005484] ?System.Diagnostics.SymbolStore.SymWriterBase..ctor@@200001
+  public [0x00005334] ?System.Diagnostics.SymbolStore.SymBinderBase..ctor@@200001
+  public [0x00000004] ?__exit_list_size_app_domain@@$$Q3IA
+  public [0x000023c4] ??1?$NewIUnknownArrayHolder@UISymUnmanagedScope@Private@SymbolStore@Diagnostics@System@@@@$$FQAE@XZ
+  public [0x0000605c] mscoree_NULL_THUNK_DATA
+  public [0x00003d1b] __except_handler4
+  public [0x00006040] __imp___CxxThrowException@8
+  public [0x0000517c] ??2@YAPAXI@Z
+  public [0x0000405e] ?_cexit@@$$J0YAXXZ
+  public [0x00005202] ??0bad_array_new_length@std@@QAE@XZ
+  public [0x000060ec] ___xi_vt_a
+  public [0x000015b4] ?get@AddressField3@SymVariable@SymbolStore@Diagnostics@System@@$$FU$AAMHXZ
+  public [0x0000f064] __mep@?DoNothing@DefaultDomain@<CrtImplementationDetails>@@$$FCGJPAX@Z
+  public [0x00002504] ??1SymDocumentWriter@SymbolStore@Diagnostics@System@@$$FA$AAM@XZ
+  public [0x00006028] __imp__GetCurrentProcess@0
+  public [0x0000f050] ___security_cookie_complement
+  public [0x000040a8] ?get@NestedException@ModuleLoadExceptionHandlerException@<CrtImplementationDetails>@@$$FQ$AAMP$AAVException@System@@XZ
+  public [0x00004fb4] ?AddRef@AtExitLock@<CrtImplementationDetails>@@$$FSAXXZ
+  public [0x000023c4] ??1?$NewIUnknownArrayHolder@UISymUnmanagedVariable@Private@SymbolStore@Diagnostics@System@@@@$$FQAE@XZ
+  public [0x0000f020] ?CLSID_CorSymWriter_SxS@@3U_GUID@@A
+  public [0x00001d50] ?OpenMethod@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXVSymbolToken@234@@Z
+  public [0x0000f130] ___isa_available
+  public [0x0000436c] ?__get_default_appdomain@@$$FYAJPAPAUIUnknown@@@Z
+  public [0x0000608c] __imp__free
+  public [0x00004de0] ?RemoveRef@AtExitLock@<CrtImplementationDetails>@@$$FSAXXZ
+  public [0x00005454] ?System.Diagnostics.SymbolStore.SymVariableBase..ctor@@200001
+  public [0x000047f0] ??0ModuleUninitializer@<CrtImplementationDetails>@@$$FA$AAM@XZ
+  public [0x0000604c] __imp____std_type_info_destroy_list
+  public [0x00004c34] ?.cctor@@$$FYMXXZ
+  public [0x000012dc] ?get@SourceLength@SymDocument@SymbolStore@Diagnostics@System@@$$FU$AAMHXZ
+  public [0x0000327c] ?<Dispose>@SymWriter@SymbolStore@Diagnostics@System@@$$FM$AAMX_N@Z
+  public [0x0000464c] ?Initialize@DefaultDomain@<CrtImplementationDetails>@@$$FSAXXZ
+  public [0x00001214] ?get@LanguageVendor@SymDocument@SymbolStore@Diagnostics@System@@$$FU$AAM?AVGuid@5@XZ
+  public [0x00004ca5] __t2m@?DoNothing@DefaultDomain@<CrtImplementationDetails>@@CGJPAX@Z
+  public [0x000033bc] ?<Dispose>@SymScope@SymbolStore@Diagnostics@System@@$$FU$AAMXXZ
+  public [0x00004e08] ?__dealloc_global_lock@?A0xa26b76d5@@$$FYAXXZ
+  public [0x000061f8] ??_7type_info@@6B@
+  public [0x00003384] ?<Dispose>@SymMethod@SymbolStore@Diagnostics@System@@$$FU$AAMXXZ
+  public [0x0000e49c] ___rtc_izz
+  public [0x000051af] ??3@YAXPAX@Z
+  public [0x00001584] ?get@AddressField2@SymVariable@SymbolStore@Diagnostics@System@@$$FU$AAMHXZ
+  public [0x0000e534] __CTA2?AVbad_alloc@std@@
+  public [0x0000e094] ??_R1A@?0A@EA@bad_alloc@std@@8
+  public [0x000052fc] ?__FrameUnwindFilter@@$$J0YAHPAU_EXCEPTION_POINTERS@@@Z
+  public [0x000021cc] ?SetSymAttribute@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXVSymbolToken@234@P$AAVString@4@P$01AE@Z
+  public [0x00001358] ?get@SequencePointCount@SymMethod@SymbolStore@Diagnostics@System@@$$FU$AAMHXZ
+  public [0x00002bb8] ?GetMethodFromDocumentPosition@SymReader@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAUISymbolMethod@234@P$AAUISymbolDocument@234@HH@Z
+  public [0x00004028] _memset
+  public [0x00005257] ??_Ebad_array_new_length@std@@UAEPAXI@Z
+  public [0x0000f070] ??_R0?AVbad_alloc@std@@@8
+  public [0x00005348] ?System.Diagnostics.SymbolStore.SymBinderBase.{dtor}@@200001
+  public [0x00005498] ?System.Diagnostics.SymbolStore.SymWriterBase.{dtor}@@200001
+  public [0x0000532c] ?CoCreateInstance@@$$J220YGJABU_GUID@@PAUIUnknown@@K0PAPAX@Z
+  public [0x00002880] ?GetScope@SymMethod@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAUISymbolScope@234@H@Z
+  public [0x0000f000] ?CLSID_CorSymBinder_SxS@@3U_GUID@@A
+  public [0x000019ac] ?GetVariables@SymReader@SymbolStore@Diagnostics@System@@$$FU$AAMP$01AP$AAUISymbolVariable@234@VSymbolToken@234@@Z
+  public [0x00001078] ???__E?InitializedPerAppDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ@?A0x9616faf2@@$$FYMXXZ
+  public [0x0000494c] ?InitializePerAppDomain@LanguageSupport@<CrtImplementationDetails>@@$$FAAEXXZ
+  public [0x00000004] ?__onexitend_app_domain@@$$Q3PAP6MXXZA
+  public [0x000030f4] ?<Finalize>@SymDocumentWriter@SymbolStore@Diagnostics@System@@$$FM$AAMXXZ
+  public [0x00000004] ?_ref_count@AtExitLock@<CrtImplementationDetails>@@$$Q0HA
+  public [0x00006050] __imp____FrameUnwindFilter
+  public [0x000010a4] ?get@URL@SymDocument@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAVString@5@XZ
+  public [0x000050b8] ?_initterm@@$$FYMXPAP6AXXZ0@Z
+  public [0x000050e0] ?Handle@ThisModule@<CrtImplementationDetails>@@$$FCM?AVModuleHandle@System@@XZ
+  public [0x00001778] ?<Finalizer>@SymDocumentWriter@SymbolStore@Diagnostics@System@@$$FA$AAMXXZ
+  public [0x00003eed] @_guard_check_icall_nop@4
+  public [0x00005438] ?System.Diagnostics.SymbolStore.SymScopeBase.{dtor}@@200001
+  public [0x00001554] ?get@AddressField1@SymVariable@SymbolStore@Diagnostics@System@@$$FU$AAMHXZ
+  public [0x000054b2] __CorDllMain@12
+  public [0x00001050] ???__E?InitializedNative@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ@?A0x9616faf2@@$$FYMXXZ
+  public [0x00005104] ??$ResolveMethod@$$A6MPBXXZ@ThisModule@<CrtImplementationDetails>@@$$FSMP6MPBXXZP6MPBXXZ@Z
+  public [0x000038bf] ___scrt_dllmain_after_initialize_c
+  public [0x0000402e] __except_handler4_common
+  public [0x000013f0] ?get@EndOffset@SymScope@SymbolStore@Diagnostics@System@@$$FU$AAMHXZ
+  public [0x0000531a] __callnewh
+  public [0x0000f05c] ?hasPerProcess@DefaultDomain@<CrtImplementationDetails>@@0W4TriBool@2@A
+  public [0x00001014] ???__E?Uninitialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA@@YMXXZ@?A0x9616faf2@@$$FYMXXZ
+  public [0x00004034] __initterm
+  public [0x00004828] ?InitializeVtables@LanguageSupport@<CrtImplementationDetails>@@$$FAAEXXZ
+  public [0x000022e8] ?UsingNamespace@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXP$AAVString@4@@Z
+  public [0x0000f134] ___favor
+  public [0x0000f0d0] ??_R0?AVtype_info@@@8
+  public [0x00001abc] ?<Finalizer>@SymScope@SymbolStore@Diagnostics@System@@$$FA$AAMXXZ
+  public [0x00003af4] ___scrt_release_startup_lock
+  public [0x00000000] ___guard_fids_table
+  public [0x000024a8] ?get@Parent@SymScope@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAUISymbolScope@345@XZ
+  public [0x000023a0] ?<Finalizer>@SymBinder@SymbolStore@Diagnostics@System@@$$FA$AAMXXZ
+  public [0x000041f0] ?ThrowModuleLoadException@<CrtImplementationDetails>@@$$FYMXP$AAVString@System@@P$AAVException@3@@Z
+  public [0x0000e0b0] ??_R4bad_array_new_length@std@@6B@
+  public [0x00004dc4] ?IsInitialized@AtExitLock@<CrtImplementationDetails>@@$$FSA_NXZ
+  public [0x00002090] ?SetScopeRange@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXHHH@Z
+  public [0x0000602c] __imp__IsProcessorFeaturePresent@4
+  public [0x0000f040] ___scrt_native_dllmain_reason
+  public [0x00004cab] __t2m@?_UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@CGJPAX@Z
+  public [0x00003b11] ___scrt_uninitialize_crt
+  public [0x0000e12c] ??_R1A@?0A@EA@type_info@@8
+  public [0x00006018] __imp__UnhandledExceptionFilter@4
+  public [0x0000e524] __TI2?AVbad_alloc@std@@
+  public [0x0000f010] ?IID_ISymUnmanagedBinder@@3U_GUID@@A
+  public [0x00006080] __imp__abort
+  public [0x00001b08] ?<Finalizer>@SymVariable@SymbolStore@Diagnostics@System@@$$FA$AAMXXZ
+  public [0x000061b8] ??_7bad_alloc@std@@6B@
+  public [0x00003823] ___local_stdio_scanf_options
+  public [0x00005257] ??_Gbad_array_new_length@std@@UAEPAXI@Z
+  public [0x00003edd] __get_startup_argv_mode
+  public [0x00003f27] ___report_gsfailure
+  public [0x00002348] ??0SymBinder@SymbolStore@Diagnostics@System@@$$FQ$AAM@XZ
+  public [0x0000f0f8] ?_OptionsStorage@?1??__local_stdio_printf_options@@9@4_KA
+  public [0x00002f58] ??1SymBinder@SymbolStore@Diagnostics@System@@$$FA$AAM@XZ
+  public [0x00003c85] __RTC_Terminate
+  public [0x000019dc] ?GetNamespaces@SymReader@SymbolStore@Diagnostics@System@@$$FU$AAMP$01AP$AAUISymbolNamespace@234@XZ
+  public [0x0000515c] _IsProcessorFeaturePresent@4
+  public [0x00006088] __imp__malloc
+  public [0x00000001] ___safe_se_handler_count
+  public [0x000016bc] ??0SymDocument@SymbolStore@Diagnostics@System@@$$FQ$AAM@PAUISymUnmanagedDocument@Private@123@@Z
+  public [0x00002170] ?DefineField@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXVSymbolToken@234@P$AAVString@4@W4FieldAttributes@Reflection@4@P$01AEW4SymAddressKind@234@HHH@Z
+  public [0x00005394] ?System.Diagnostics.SymbolStore.SymDocumentWriterBase..ctor@@200001
+  public [0x00004cab] ?_UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@CGJPAX@Z
+  public [0x00005088] ?_initterm_e@@$$FYMHPAP6AHXZ0@Z
+  public [0x00002444] ??1?$ReleaseHolder@UISymUnmanagedDocument@Private@SymbolStore@Diagnostics@System@@@@$$FQAE@XZ
+  public [0x00005246] ??1bad_array_new_length@std@@UAE@XZ
+  public [0x0000e078] ??_R3bad_alloc@std@@8
+  public [0x0000e088] ??_R2bad_alloc@std@@8
+  public [0x000062a8] __load_config_used
+  public [0x0000476c] ??1?$gcroot@P$AAVString@System@@@@$$FQAE@XZ
+  public [0x00002d20] ?GetLocals@SymScope@SymbolStore@Diagnostics@System@@$$FU$AAMP$01AP$AAUISymbolVariable@234@XZ
+  public [0x00003368] ?<Dispose>@SymDocumentWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXXZ
+  public [0x00004794] ??0?$gcroot@P$AAVString@System@@@@$$FQAE@XZ
+  public [0x00006074] __imp___configure_narrow_argv
+  public [0x000019dc] ?GetGlobalVariables@SymReader@SymbolStore@Diagnostics@System@@$$FU$AAMP$01AP$AAUISymbolVariable@234@XZ
+  public [0x000038ea] ___scrt_dllmain_before_initialize_c
+  public [0x00003108] ?get@RootScope@SymMethod@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAUISymbolScope@345@XZ
+  public [0x000012a8] ?get@HasEmbeddedSource@SymDocument@SymbolStore@Diagnostics@System@@$$FU$AAM_NXZ
+  public [0x00002e50] ?DefineDocument@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAUISymbolDocumentWriter@234@P$AAVString@4@VGuid@4@11@Z
+  public [0x00002e20] ??0SymWriter@SymbolStore@Diagnostics@System@@$$FQ$AAM@_N@Z
+  public [0x00006140] __pRawDllMain
+  public [0x000019f4] ?UpdateSymbolStore@SymReader@SymbolStore@Diagnostics@System@@$$FU$AAMXP$AAVString@4@VIntPtr@4@@Z
+  public [0x00000004] ?InitializedPerAppDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+  public [0x0000e5c8] __IMPORT_DESCRIPTOR_ucrtbase_clr0400
+  public [0x00005326] _free
+  public [0x00004052] __initialize_onexit_table
+  public [0x00002838] ?RootScopeInternal@SymMethod@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAUISymbolScope@234@XZ
+  public [0x00005162] ___scrt_stub_for_acrt_initialize
+  public [0x00001db0] ?DefineSequencePoints@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXP$AAUISymbolDocumentWriter@234@P$01AH1111@Z
+  public [0x00005378] ?System.Diagnostics.SymbolStore.SymDocumentBase.{dtor}@@200001
+  public [0x0000f45b] ?InitializedPerProcess@DefaultDomain@<CrtImplementationDetails>@@2_NA
+  public [0x00002444] ??1?$ReleaseHolder@UISymUnmanagedMethod@Private@SymbolStore@Diagnostics@System@@@@$$FQAE@XZ
+  public [0x0000e150] ___safe_se_handler_table
+  public [0x00004022] ___std_type_info_destroy_list
+  public [0x00002518] ??1SymMethod@SymbolStore@Diagnostics@System@@$$FA$AAM@XZ
+  public [0x000017f0] ??0SymMethod@SymbolStore@Diagnostics@System@@$$FQ$AAM@PAUISymUnmanagedMethod@Private@123@@Z
+  public [0x00001958] ??0SymReader@SymbolStore@Diagnostics@System@@$$FQ$AAM@PAUISymUnmanagedReader@Private@123@@Z
+  public [0x00001750] ??0SymDocumentWriter@SymbolStore@Diagnostics@System@@$$FQ$AAM@PAUISymUnmanagedDocumentWriter@Private@123@@Z
+  public [0x00003268] ?<Finalize>@SymVariable@SymbolStore@Diagnostics@System@@$$FM$AAMXXZ
+  public [0x000052d9] ??_Etype_info@@UAEPAXI@Z
+  public [0x00001be8] ?InitWriter@SymWriter@SymbolStore@Diagnostics@System@@$$FQ$AAMX_N@Z
+  public [0x00001ae0] ??0SymVariable@SymbolStore@Diagnostics@System@@$$FQ$AAM@PAUISymUnmanagedVariable@Private@123@@Z
+  public [0x000053a8] ?System.Diagnostics.SymbolStore.SymDocumentWriterBase.{dtor}@@200001
+  public [0x00004ca5] ?DoNothing@DefaultDomain@<CrtImplementationDetails>@@CGJPAX@Z
+  public [0x000019dc] ?GetNamespaces@SymScope@SymbolStore@Diagnostics@System@@$$FU$AAMP$01AP$AAUISymbolNamespace@234@XZ
+  public [0x000011a0] ?get@Language@SymDocument@SymbolStore@Diagnostics@System@@$$FU$AAM?AVGuid@5@XZ
+  public [0x0000e5dc] __IMPORT_DESCRIPTOR_KERNEL32
+  public [0x00003724] __DllMainCRTStartup@12
+  public [0x00005257] ??_Gbad_alloc@std@@UAEPAXI@Z
+  public [0x000052fc] ___FrameUnwindFilter
+  public [0x0000521a] ??0exception@std@@QAE@ABV01@@Z
+  public [0x000016e4] ?<Finalizer>@SymDocument@SymbolStore@Diagnostics@System@@$$FA$AAMXXZ
+  public [0x0000530e] __CxxThrowException@8
+  public [0x0000e064] ??_R4bad_alloc@std@@6B@
+  public [0x000060c0] ___xc_ma_a
+  public [0x00004580] ?HasNative@DefaultDomain@<CrtImplementationDetails>@@$$FSA_NXZ
+  public [0x0000381d] ___local_stdio_printf_options
+  public [0x0000e578] __TI3?AVbad_array_new_length@std@@
+  public [0x00003318] ?<Finalize>@SymBinder@SymbolStore@Diagnostics@System@@$$FM$AAMXXZ
+  public [0x00004500] ?_getFiberPtrId@@YAPAXXZ
+  public [0x000032c0] ?<Finalize>@SymWriter@SymbolStore@Diagnostics@System@@$$FM$AAMXXZ
+  public [0x0000615c] __GUID_cb2f6723_ab3a_11d2_9c40_00c04fa30a3e
+  public [0x00001818] ?<Finalizer>@SymMethod@SymbolStore@Diagnostics@System@@$$FA$AAMXXZ
+  public [0x0000e540] __CT??_R0?AVbad_alloc@std@@@8??0bad_alloc@std@@QAE@ABV01@@Z12
+  public [0x0000e55c] __CT??_R0?AVexception@std@@@8??0exception@std@@QAE@ABV01@@Z12
+  public [0x0000614c] __GUID_cb2f6722_ab3a_11d2_9c40_00c04fa30a3e
+  public [0x00003eff] ___raise_securityfailure
+  public [0x00000004] ?Uninitialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA
+  public [0x0000103c] ???__E?InitializedVtables@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ@?A0x9616faf2@@$$FYMXXZ
+  public [0x00004720] ??B?$gcroot@P$AAVString@System@@@@$$FQBMP$AAVString@System@@XZ
+  public [0x0000f598] ___dyn_tls_init_callback
+  public [0x00004d78] ?_lock_Get@AtExitLock@<CrtImplementationDetails>@@$$FCMP$AAVObject@System@@XZ
+  public [0x00002b34] ?GetMethod@SymReader@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAUISymbolMethod@234@VSymbolToken@234@H@Z
+  public [0x00001c64] ?SetUnderlyingWriter@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXVIntPtr@4@@Z
+  public [0x00004744] ??4?$gcroot@P$AAVString@System@@@@$$FQAMAAU0@P$AAVString@System@@@Z
+  public [0x000061dc] ??_C@_0BF@KINCDENJ@bad?5array?5new?5length?$AA@
+  public [0x0000600c] __imp__GetCurrentThreadId@0
+  public [0x0000532c] _CoCreateInstance@20
+  public [0x00000004] ?InitializedNative@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+  public [0x00006190] __unep@?_UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@$$FCGJPAX@Z
+  public [0x00001690] ?GetPtr@PinHolder@@$$FQAEPAEXZ
+  public [0x00004064] ??0ModuleLoadException@<CrtImplementationDetails>@@$$FQ$AAM@P$AAVString@System@@@Z
+  public [0x00000001] ?IsDefaultDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2_NA
+  public [0x00004f98] ?_lock_Construct@AtExitLock@<CrtImplementationDetails>@@$$FCMXP$AAVObject@System@@@Z
+  public [0x0000f0f0] ?__type_info_root_node@@3U__type_info_node@@A
+  public [0x000044e4] ?__scrt_is_safe_for_managed_code@@$$FYA_NXZ
+  public [0x000060e4] ___xc_mp_a
+  public [0x00006068] __imp___execute_onexit_table
+  public [0x00003b3f] ___scrt_fastfail
+  public [0x00003b39] ___scrt_get_dyn_tls_init_callback
+  public [0x0000e4a0] ___rtc_taa
+  public [0x00001644] ??0PinHolder@@$$FQAE@XZ
+  public [0x00003174] ?<Dispose>@SymReader@SymbolStore@Diagnostics@System@@$$FM$AAMX_N@Z
+  public [0x00001420] ?get@Name@SymVariable@SymbolStore@Diagnostics@System@@$$FU$AAMP$AAVString@5@XZ
+  public [0x00004600] ?NeedsInitialization@DefaultDomain@<CrtImplementationDetails>@@$$FSA_NXZ
+  public [0x00004664] ?UninitializeAppDomain@LanguageSupport@<CrtImplementationDetails>@@$$FCAXXZ
+  public [0x00003987] ___scrt_initialize_crt
+  public [0x00001670] ??1PinHolder@@$$FQAE@XZ
+  public [0x0000405e] __cexit
+  public [0x000052d9] ??_Gtype_info@@UAEPAXI@Z
+  public [0x00005424] ?System.Diagnostics.SymbolStore.SymScopeBase..ctor@@200001
+  public [0x000023c4] ??1?$NewIUnknownArrayHolder@UISymUnmanagedDocument@Private@SymbolStore@Diagnostics@System@@@@$$FQAE@XZ
+  public [0x00002408] ?Allocate@?$NewIUnknownArrayHolder@UISymUnmanagedVariable@Private@SymbolStore@Diagnostics@System@@@@$$FQAEXK@Z
+  public [0x000021a0] ?Close@SymWriter@SymbolStore@Diagnostics@System@@$$FU$AAMXXZ
+  public [0x000031cc] ?<Dispose>@SymScope@SymbolStore@Diagnostics@System@@$$FM$AAMX_N@Z
+  public [0x0000388a] ___scrt_acquire_startup_lock
+  public [0x00001738] ?GetSourceRange@SymDocument@SymbolStore@Diagnostics@System@@$$FU$AAMP$01AEHHHH@Z
+  public [0x00006070] __imp___initialize_narrow_environment
+  public [0x00001940] ?GetSourceStartEnd@SymMethod@SymbolStore@Diagnostics@System@@$$FU$AAM_NP$01AP$AAUISymbolDocument@234@P$01AH1@Z
+  public [0x00005257] ??_Ebad_alloc@std@@UAEPAXI@Z
+  public [0x000046e4] ?DomainUnload@LanguageSupport@<CrtImplementationDetails>@@$$FCMXP$AAVObject@System@@P$AAVEventArgs@4@@Z
+  public [0x00002444] ??1?$ReleaseHolder@UISymUnmanagedReader@Private@SymbolStore@Diagnostics@System@@@@$$FQAE@XZ
+  public [0x000029e0] ?GetDocuments@SymReader@SymbolStore@Diagnostics@System@@$$FU$AAMP$01AP$AAUISymbolDocument@234@XZ
+  public [0x0000e618] __NULL_IMPORT_DESCRIPTOR
+  public [0x00003410] ?<Dispose>@SymBinder@SymbolStore@Diagnostics@System@@$$FU$AAMXXZ
+  public [0x0000f100] ?_OptionsStorage@?1??__local_stdio_scanf_options@@9@4_KA
+  
+  

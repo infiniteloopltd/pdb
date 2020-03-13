@@ -1,0 +1,149 @@
+Summary for C:\temp\symbols\System.AddIn.pdb\346F01053A804B458C0AFAA19B4C33791\System.AddIn.pdb
+  Size: 94208 bytes
+  Guid: {05016F34-803A-454B-8C0A-FAA19B4C3379}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.Res
+  System.Collections.ObjectModel.ReadOnlyDictionary`2
+  System.AddIn.AddInAttribute
+  System.AddIn.AddIn
+  System.AddIn.AddInAdapter
+  System.AddIn.AddInBase
+  System.AddIn.ContractComponent
+  System.AddIn.HostAdapter
+  System.AddIn.PipelineComponent
+  System.AddIn.Pipeline.HostAdapterAttribute
+  System.AddIn.Pipeline.AddInAdapterAttribute
+  System.AddIn.Pipeline.AddInBaseAttribute
+  System.AddIn.Pipeline.CollectionAdapters
+  System.AddIn.Pipeline.ContractAdapter
+  System.AddIn.Pipeline.ContractBase
+  System.AddIn.Pipeline.ContractHandle
+  System.AddIn.Pipeline.ContractListAdapter`2
+  System.AddIn.Pipeline.ContractEnumeratorAdapter`2
+  System.AddIn.Pipeline.ListContractAdapter`2
+  System.AddIn.Pipeline.ListEnumeratorAdapter`2
+  System.AddIn.MiniReflection.MiniAssembly
+  System.AddIn.MiniReflection.MiniConstructorInfo
+  System.AddIn.MiniReflection.MiniCustomAttributeInfo
+  System.AddIn.MiniReflection.MiniCustomAttributeNamedArgInfo
+  System.AddIn.MiniReflection.MiniCustomAttributeFixedArgInfo
+  System.AddIn.MiniReflection.MiniModule
+  System.AddIn.MiniReflection.MiniParameterInfo
+  System.AddIn.MiniReflection.TypeInfo
+  System.AddIn.MiniReflection.GenericsNotImplementedException
+  System.AddIn.MiniReflection.MetadataReader.AssemblyInfo
+  System.AddIn.MiniReflection.MetadataReader.MetadataToken
+  System.AddIn.MiniReflection.MetadataReader.MDTables
+  System.AddIn.MiniReflection.MetadataReader.StreamDesc
+  System.AddIn.MiniReflection.MetadataReader.PEFileReader
+  System.AddIn.Hosting.ActivationWorker
+  System.AddIn.Hosting.AddInActivator
+  System.AddIn.Hosting.AddInSegmentDirectoryNotFoundException
+  System.AddIn.Hosting.AddInController
+  System.AddIn.Hosting.AddInControllerImpl
+  System.AddIn.Hosting.AddInDeploymentState
+  System.AddIn.Hosting.AddInEnvironment
+  System.AddIn.Hosting.AddInProcess
+  System.AddIn.Hosting.AddInIpcChannel
+  System.AddIn.Hosting.AddInBinaryServerFormaterSinkProvider
+  System.AddIn.Hosting.AddInBinaryServerSink
+  System.AddIn.Hosting.AddInBinaryClientFormaterSinkProvider
+  System.AddIn.Hosting.AddInBinaryClientFormaterSink
+  System.AddIn.Hosting.QualificationDataItem
+  System.AddIn.Hosting.AddInStore
+  System.AddIn.Hosting.AddInBaseInAddInFolderException
+  System.AddIn.Hosting.AddInServer
+  System.AddIn.Hosting.AddInServerWorker
+  System.AddIn.Hosting.EventWorker
+  System.AddIn.Hosting.AddInToken
+  System.AddIn.Hosting.ContravarianceAdapter`2
+  System.AddIn.Hosting.InspectionWorker
+  System.AddIn.Hosting.InvalidPipelineStoreException
+  System.AddIn.Hosting.PartialToken
+  System.AddIn.Hosting.PipelineDeploymentState
+  System.AddIn.Hosting.RemotingHelper
+  System.AddIn.Hosting.Utils
+  System.AddIn.MiniReflection.MetadataReader.MDTables.EncodingDesc
+  System.AddIn.MiniReflection.MetadataReader.PEFileReader.SectionDesc
+  System.AddIn.Hosting.AddInActivator.ResolverHelper
+  System.AddIn.Hosting.AddInControllerImpl.HAVControllerPair
+  System.AddIn.Hosting.ContravarianceAdapter`2.ContravariantEnumerator
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.Res
+  System.Collections.ObjectModel.ReadOnlyDictionary`2
+  System.AddIn.AddInAttribute
+  System.AddIn.AddIn
+  System.AddIn.AddInAdapter
+  System.AddIn.AddInBase
+  System.AddIn.ContractComponent
+  System.AddIn.HostAdapter
+  System.AddIn.PipelineComponent
+  System.AddIn.Pipeline.HostAdapterAttribute
+  System.AddIn.Pipeline.AddInAdapterAttribute
+  System.AddIn.Pipeline.AddInBaseAttribute
+  System.AddIn.Pipeline.CollectionAdapters
+  System.AddIn.Pipeline.ContractAdapter
+  System.AddIn.Pipeline.ContractBase
+  System.AddIn.Pipeline.ContractHandle
+  System.AddIn.Pipeline.ContractListAdapter`2
+  System.AddIn.Pipeline.ContractEnumeratorAdapter`2
+  System.AddIn.Pipeline.ListContractAdapter`2
+  System.AddIn.Pipeline.ListEnumeratorAdapter`2
+  System.AddIn.MiniReflection.MiniAssembly
+  System.AddIn.MiniReflection.MiniConstructorInfo
+  System.AddIn.MiniReflection.MiniCustomAttributeInfo
+  System.AddIn.MiniReflection.MiniCustomAttributeNamedArgInfo
+  System.AddIn.MiniReflection.MiniCustomAttributeFixedArgInfo
+  System.AddIn.MiniReflection.MiniModule
+  System.AddIn.MiniReflection.MiniParameterInfo
+  System.AddIn.MiniReflection.TypeInfo
+  System.AddIn.MiniReflection.GenericsNotImplementedException
+  System.AddIn.MiniReflection.MetadataReader.AssemblyInfo
+  System.AddIn.MiniReflection.MetadataReader.MetadataToken
+  System.AddIn.MiniReflection.MetadataReader.MDTables
+  System.AddIn.MiniReflection.MetadataReader.StreamDesc
+  System.AddIn.MiniReflection.MetadataReader.PEFileReader
+  System.AddIn.Hosting.ActivationWorker
+  System.AddIn.Hosting.AddInActivator
+  System.AddIn.Hosting.AddInSegmentDirectoryNotFoundException
+  System.AddIn.Hosting.AddInController
+  System.AddIn.Hosting.AddInControllerImpl
+  System.AddIn.Hosting.AddInDeploymentState
+  System.AddIn.Hosting.AddInEnvironment
+  System.AddIn.Hosting.AddInProcess
+  System.AddIn.Hosting.AddInIpcChannel
+  System.AddIn.Hosting.AddInBinaryServerFormaterSinkProvider
+  System.AddIn.Hosting.AddInBinaryServerSink
+  System.AddIn.Hosting.AddInBinaryClientFormaterSinkProvider
+  System.AddIn.Hosting.AddInBinaryClientFormaterSink
+  System.AddIn.Hosting.QualificationDataItem
+  System.AddIn.Hosting.AddInStore
+  System.AddIn.Hosting.AddInBaseInAddInFolderException
+  System.AddIn.Hosting.AddInServer
+  System.AddIn.Hosting.AddInServerWorker
+  System.AddIn.Hosting.EventWorker
+  System.AddIn.Hosting.AddInToken
+  System.AddIn.Hosting.ContravarianceAdapter`2
+  System.AddIn.Hosting.InspectionWorker
+  System.AddIn.Hosting.InvalidPipelineStoreException
+  System.AddIn.Hosting.PartialToken
+  System.AddIn.Hosting.PipelineDeploymentState
+  System.AddIn.Hosting.RemotingHelper
+  System.AddIn.Hosting.Utils
+  System.AddIn.MiniReflection.MetadataReader.MDTables.EncodingDesc
+  System.AddIn.MiniReflection.MetadataReader.PEFileReader.SectionDesc
+  System.AddIn.Hosting.AddInActivator.ResolverHelper
+  System.AddIn.Hosting.AddInControllerImpl.HAVControllerPair
+  System.AddIn.Hosting.ContravarianceAdapter`2.ContravariantEnumerator
+---GLOBALS---
+---EXTERNALS---
+  
+  

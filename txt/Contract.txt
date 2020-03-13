@@ -1,0 +1,25 @@
+Summary for C:\temp\symbols\System.AddIn.Contract.pdb\478F2880EA134B1AAB33FF404205938F1\System.AddIn.Contract.pdb
+  Size: 69632 bytes
+  Guid: {80288F47-13EA-1A4B-AB33-FF404205938F}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.AddIn.Pipeline.AddInContractAttribute
+  System.AddIn.Pipeline.QualificationDataAttribute
+  System.AddIn.Contract.RemoteArgument
+  System.AddIn.Contract.Collections.RemoteArgumentDictionaryEntry
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.AddIn.Pipeline.AddInContractAttribute
+  System.AddIn.Pipeline.QualificationDataAttribute
+  System.AddIn.Contract.RemoteArgument
+  System.AddIn.Contract.Collections.RemoteArgumentDictionaryEntry
+---GLOBALS---
+---EXTERNALS---
+  
+  

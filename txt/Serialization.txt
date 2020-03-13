@@ -1,0 +1,17 @@
+Summary for C:\temp\symbols\System.Xml.Serialization.pdb\755D0B2F0C0E4AE7BFCB38C59D80510A1\System.Xml.Serialization.pdb
+  Size: 61440 bytes
+  Guid: {2F0B5D75-0E0C-E74A-BFCB-38C59D80510A}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+---GLOBALS---
+---EXTERNALS---
+  
+  

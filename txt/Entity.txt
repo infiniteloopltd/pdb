@@ -1,0 +1,109 @@
+Summary for C:\temp\symbols\System.Web.Entity.pdb\4B2B5F287F5E499AA282D0FB3EB514FA1\System.Web.Entity.pdb
+  Size: 86016 bytes
+  Guid: {285F2B4B-5E7F-9A49-A282-D0FB3EB514FA}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.Web.UI.WebControlsResDescriptionAttribute
+  System.Web.UI.WebControlsResCategoryAttribute
+  System.Web.UI.WebControlsRes
+  System.Web.UI.WebControls.Strings
+  System.Web.UI.WebControls.Error
+  System.Web.UI.WebControls.EntityDataSource
+  System.Web.UI.WebControls.EntityDataSourceChangedEventArgs
+  System.Web.UI.WebControls.EntityDataSourceChangingEventArgs
+  System.Web.UI.WebControls.EntityDataSourceColumn
+  System.Web.UI.WebControls.EntityDataSourcePropertyColumn
+  System.Web.UI.WebControls.EntityDataSourceReferenceKeyColumn
+  System.Web.UI.WebControls.EntityDataSourceReferenceValueColumn
+  System.Web.UI.WebControls.EntityDataSourceReferenceValueColumn`1
+  System.Web.UI.WebControls.EntityDataSourceContextCreatedEventArgs
+  System.Web.UI.WebControls.EntityDataSourceContextCreatingEventArgs
+  System.Web.UI.WebControls.EntityDataSourceContextDisposingEventArgs
+  System.Web.UI.WebControls.EntityDataSourceMemberPath
+  System.Web.UI.WebControls.EntityDataSourceQueryBuilder`1
+  System.Web.UI.WebControls.EntityDataSourceObjectQueryBuilder`1
+  System.Web.UI.WebControls.EntityDataSourceRecordQueryBuilder
+  System.Web.UI.WebControls.QueryBuilderUtils
+  System.Web.UI.WebControls.EntityDataSourceReferenceGroup
+  System.Web.UI.WebControls.EntityDataSourceReferenceGroup`1
+  System.Web.UI.WebControls.EntityDataSourceSelectedEventArgs
+  System.Web.UI.WebControls.EntityDataSourceSelectingEventArgs
+  System.Web.UI.WebControls.EntityDataSourceUtil
+  System.Web.UI.WebControls.EntityDataSourceValidationException
+  System.Web.UI.WebControls.EntityDataSourceView
+  System.Web.UI.WebControls.EntityDataSourceViewSchema
+  System.Web.UI.WebControls.EntityDataSourceWrapper
+  System.Web.UI.WebControls.EntityDataSourceWrapperCollection
+  System.Web.UI.WebControls.EntityDataSourceWrapperPropertyDescriptor
+  System.Web.UI.WebControls.OrderByBuilder
+  System.Web.UI.WebControls.ResourceDescriptionAttribute
+  System.Web.UI.WebControls.ResourceDisplayNameAttribute
+  System.Web.UI.WebControls.WebControlParameterProxy
+  System.Web.UI.WebControls.EntityDataSourceUtil.<GetTypeAndSubtypesOf>d__7
+  System.Web.UI.WebControls.EntityDataSourceUtil.<GetTypeAndSubtypesOf>d__17`1
+  System.Web.UI.WebControls.EntityDataSourceUtil.<>c
+  System.Web.UI.WebControls.EntityDataSourceUtil.<GetReferenceEnds>d__31
+  System.Web.UI.WebControls.EntityDataSourceUtil.<>c__DisplayClass33_0
+  System.Web.UI.WebControls.EntityDataSourceUtil.<>c__DisplayClass34_0
+  System.Web.UI.WebControls.EntityDataSourceValidationException.EntityDataSourceValidationExceptionState
+  System.Web.UI.WebControls.EntityDataSourceView.WrapperCollectionManager
+  System.Web.UI.WebControls.EntityDataSourceView.<>c
+  System.Web.UI.WebControls.EntityDataSourceWrapper.<>c
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.Web.UI.WebControlsResDescriptionAttribute
+  System.Web.UI.WebControlsResCategoryAttribute
+  System.Web.UI.WebControlsRes
+  System.Web.UI.WebControls.Strings
+  System.Web.UI.WebControls.Error
+  System.Web.UI.WebControls.EntityDataSource
+  System.Web.UI.WebControls.EntityDataSourceChangedEventArgs
+  System.Web.UI.WebControls.EntityDataSourceChangingEventArgs
+  System.Web.UI.WebControls.EntityDataSourceColumn
+  System.Web.UI.WebControls.EntityDataSourcePropertyColumn
+  System.Web.UI.WebControls.EntityDataSourceReferenceKeyColumn
+  System.Web.UI.WebControls.EntityDataSourceReferenceValueColumn
+  System.Web.UI.WebControls.EntityDataSourceReferenceValueColumn`1
+  System.Web.UI.WebControls.EntityDataSourceContextCreatedEventArgs
+  System.Web.UI.WebControls.EntityDataSourceContextCreatingEventArgs
+  System.Web.UI.WebControls.EntityDataSourceContextDisposingEventArgs
+  System.Web.UI.WebControls.EntityDataSourceMemberPath
+  System.Web.UI.WebControls.EntityDataSourceQueryBuilder`1
+  System.Web.UI.WebControls.EntityDataSourceObjectQueryBuilder`1
+  System.Web.UI.WebControls.EntityDataSourceRecordQueryBuilder
+  System.Web.UI.WebControls.QueryBuilderUtils
+  System.Web.UI.WebControls.EntityDataSourceReferenceGroup
+  System.Web.UI.WebControls.EntityDataSourceReferenceGroup`1
+  System.Web.UI.WebControls.EntityDataSourceSelectedEventArgs
+  System.Web.UI.WebControls.EntityDataSourceSelectingEventArgs
+  System.Web.UI.WebControls.EntityDataSourceUtil
+  System.Web.UI.WebControls.EntityDataSourceValidationException
+  System.Web.UI.WebControls.EntityDataSourceView
+  System.Web.UI.WebControls.EntityDataSourceViewSchema
+  System.Web.UI.WebControls.EntityDataSourceWrapper
+  System.Web.UI.WebControls.EntityDataSourceWrapperCollection
+  System.Web.UI.WebControls.EntityDataSourceWrapperPropertyDescriptor
+  System.Web.UI.WebControls.OrderByBuilder
+  System.Web.UI.WebControls.ResourceDescriptionAttribute
+  System.Web.UI.WebControls.ResourceDisplayNameAttribute
+  System.Web.UI.WebControls.WebControlParameterProxy
+  System.Web.UI.WebControls.EntityDataSourceUtil.<GetTypeAndSubtypesOf>d__7
+  System.Web.UI.WebControls.EntityDataSourceUtil.<GetTypeAndSubtypesOf>d__17`1
+  System.Web.UI.WebControls.EntityDataSourceUtil.<>c
+  System.Web.UI.WebControls.EntityDataSourceUtil.<GetReferenceEnds>d__31
+  System.Web.UI.WebControls.EntityDataSourceUtil.<>c__DisplayClass33_0
+  System.Web.UI.WebControls.EntityDataSourceUtil.<>c__DisplayClass34_0
+  System.Web.UI.WebControls.EntityDataSourceValidationException.EntityDataSourceValidationExceptionState
+  System.Web.UI.WebControls.EntityDataSourceView.WrapperCollectionManager
+  System.Web.UI.WebControls.EntityDataSourceView.<>c
+  System.Web.UI.WebControls.EntityDataSourceWrapper.<>c
+---GLOBALS---
+---EXTERNALS---
+  
+  

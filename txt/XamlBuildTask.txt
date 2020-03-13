@@ -1,0 +1,99 @@
+Summary for C:\temp\symbols\XamlBuildTask.pdb\416DCF288AAC438BB1A61F26463DC3E11\XamlBuildTask.pdb
+  Size: 86016 bytes
+  Guid: {28CF6D41-AC8A-8B43-B1A6-1F26463DC3E1}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  XamlBuildTask.FxTrace
+  Microsoft.VisualStudio.Activities.VSDesignerPerfEventProvider
+  Microsoft.Build.Tasks.Xaml.AttributeData
+  Microsoft.Build.Tasks.Xaml.AttributeParameterData
+  Microsoft.Build.Tasks.Xaml.BuildExtensionContext
+  Microsoft.Build.Tasks.Xaml.ClassData
+  Microsoft.Build.Tasks.Xaml.ClassGenerator
+  Microsoft.Build.Tasks.Xaml.ClassImporter
+  Microsoft.Build.Tasks.Xaml.ClassValidator
+  Microsoft.Build.Tasks.Xaml.CodeDomExtensionMethods
+  Microsoft.Build.Tasks.Xaml.CompilationPass2Task
+  Microsoft.Build.Tasks.Xaml.CompilationPass2TaskInternal
+  Microsoft.Build.Tasks.Xaml.GenerateTemporaryAssemblyTask
+  Microsoft.Build.Tasks.Xaml.LogData
+  Microsoft.Build.Tasks.Xaml.LoggableException
+  Microsoft.Build.Tasks.Xaml.NamedObject
+  Microsoft.Build.Tasks.Xaml.PartialClassGenerationTask
+  Microsoft.Build.Tasks.Xaml.PartialClassGenerationTaskInternal
+  Microsoft.Build.Tasks.Xaml.PropertyData
+  Microsoft.Build.Tasks.Xaml.ResolveAssemblyHelper
+  Microsoft.Build.Tasks.Xaml.XamlBuildTaskServices
+  Microsoft.Build.Tasks.Xaml.XamlNsReplacingContext
+  Microsoft.Build.Tasks.Xaml.XamlNsReplacingType
+  Microsoft.Build.Tasks.Xaml.XamlBuildTypeGenerationExtensionContext
+  Microsoft.Build.Tasks.Xaml.XamlBuildTypeInspectionExtensionContext
+  Microsoft.Build.Tasks.Xaml.XamlValidatingReader
+  Microsoft.Build.Tasks.Xaml.XamlStackFrame
+  Microsoft.Build.Tasks.Xaml.XamlStackWriter
+  Microsoft.Build.Tasks.Xaml.XamlWrappingReader
+  Microsoft.Build.Tasks.Xaml.ValidationEventArgs
+  Microsoft.Build.Tasks.Xaml.NamespaceTable
+  Microsoft.Build.Tasks.Xaml.XamlBuildTaskLeaseLifetimeHelper
+  Microsoft.Build.Tasks.Xaml.DelegatingTaskItem
+  Microsoft.Build.Tasks.Xaml.SR
+  XamlBuildTask.FxTrace.<>c
+  Microsoft.Build.Tasks.Xaml.ClassData.PropertyDataCollection
+  Microsoft.Build.Tasks.Xaml.CompilationPass2Task.<>c
+  Microsoft.Build.Tasks.Xaml.GenerateTemporaryAssemblyTask.ProjectProperty
+  Microsoft.Build.Tasks.Xaml.PartialClassGenerationTask.<>c
+  Microsoft.Build.Tasks.Xaml.XamlValidatingReader.<>c__DisplayClass20_0
+  Microsoft.Build.Tasks.Xaml.XamlValidatingReader.<>c
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  XamlBuildTask.FxTrace
+  Microsoft.VisualStudio.Activities.VSDesignerPerfEventProvider
+  Microsoft.Build.Tasks.Xaml.AttributeData
+  Microsoft.Build.Tasks.Xaml.AttributeParameterData
+  Microsoft.Build.Tasks.Xaml.BuildExtensionContext
+  Microsoft.Build.Tasks.Xaml.ClassData
+  Microsoft.Build.Tasks.Xaml.ClassGenerator
+  Microsoft.Build.Tasks.Xaml.ClassImporter
+  Microsoft.Build.Tasks.Xaml.ClassValidator
+  Microsoft.Build.Tasks.Xaml.CodeDomExtensionMethods
+  Microsoft.Build.Tasks.Xaml.CompilationPass2Task
+  Microsoft.Build.Tasks.Xaml.CompilationPass2TaskInternal
+  Microsoft.Build.Tasks.Xaml.GenerateTemporaryAssemblyTask
+  Microsoft.Build.Tasks.Xaml.LogData
+  Microsoft.Build.Tasks.Xaml.LoggableException
+  Microsoft.Build.Tasks.Xaml.NamedObject
+  Microsoft.Build.Tasks.Xaml.PartialClassGenerationTask
+  Microsoft.Build.Tasks.Xaml.PartialClassGenerationTaskInternal
+  Microsoft.Build.Tasks.Xaml.PropertyData
+  Microsoft.Build.Tasks.Xaml.ResolveAssemblyHelper
+  Microsoft.Build.Tasks.Xaml.XamlBuildTaskServices
+  Microsoft.Build.Tasks.Xaml.XamlNsReplacingContext
+  Microsoft.Build.Tasks.Xaml.XamlNsReplacingType
+  Microsoft.Build.Tasks.Xaml.XamlBuildTypeGenerationExtensionContext
+  Microsoft.Build.Tasks.Xaml.XamlBuildTypeInspectionExtensionContext
+  Microsoft.Build.Tasks.Xaml.XamlValidatingReader
+  Microsoft.Build.Tasks.Xaml.XamlStackFrame
+  Microsoft.Build.Tasks.Xaml.XamlStackWriter
+  Microsoft.Build.Tasks.Xaml.XamlWrappingReader
+  Microsoft.Build.Tasks.Xaml.ValidationEventArgs
+  Microsoft.Build.Tasks.Xaml.NamespaceTable
+  Microsoft.Build.Tasks.Xaml.XamlBuildTaskLeaseLifetimeHelper
+  Microsoft.Build.Tasks.Xaml.DelegatingTaskItem
+  Microsoft.Build.Tasks.Xaml.SR
+  XamlBuildTask.FxTrace.<>c
+  Microsoft.Build.Tasks.Xaml.ClassData.PropertyDataCollection
+  Microsoft.Build.Tasks.Xaml.CompilationPass2Task.<>c
+  Microsoft.Build.Tasks.Xaml.GenerateTemporaryAssemblyTask.ProjectProperty
+  Microsoft.Build.Tasks.Xaml.PartialClassGenerationTask.<>c
+  Microsoft.Build.Tasks.Xaml.XamlValidatingReader.<>c__DisplayClass20_0
+  Microsoft.Build.Tasks.Xaml.XamlValidatingReader.<>c
+---GLOBALS---
+---EXTERNALS---
+  
+  

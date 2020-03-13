@@ -1,0 +1,67 @@
+Summary for C:\temp\symbols\System.Runtime.Serialization.Formatters.Soap.pdb\5C198A1B00FD4F9AA77F4B1C152346991\System.Runtime.Serialization.Formatters.Soap.pdb
+  Size: 77824 bytes
+  Guid: {1B8A195C-FD00-9A4F-A77F-4B1C15234699}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+  System.Runtime.Serialization.Formatters.Soap.SoapParser
+  System.Runtime.Serialization.Formatters.Soap.SoapHandler
+  System.Runtime.Serialization.Formatters.Soap.AttributeList
+  System.Runtime.Serialization.Formatters.Soap.SerStack
+  System.Runtime.Serialization.Formatters.Soap.NameCache
+  System.Runtime.Serialization.Formatters.Soap.SoapUtil
+  System.Runtime.Serialization.Formatters.Soap.SoapAssemblyInfo
+  System.Runtime.Serialization.Formatters.Soap.ParseRecord
+  System.Runtime.Serialization.Formatters.Soap.Util
+  System.Runtime.Serialization.Formatters.Soap.ValueFixup
+  System.Runtime.Serialization.Formatters.Soap.InternalSoapMessage
+  System.Runtime.Serialization.Formatters.Soap.SoapAttributeInfo
+  System.Runtime.Serialization.Formatters.Soap.NameInfo
+  System.Runtime.Serialization.Formatters.Soap.PrimitiveArray
+  System.Runtime.Serialization.Formatters.Soap.Converter
+  System.Runtime.Serialization.Formatters.Soap.SoapWriter
+  System.Runtime.Serialization.Formatters.Soap.ObjectReader
+  System.Runtime.Serialization.Formatters.Soap.ObjectWriter
+  System.Runtime.Serialization.Formatters.Soap.WriteObjectInfo
+  System.Runtime.Serialization.Formatters.Soap.ReadObjectInfo
+  System.Runtime.Serialization.Formatters.Soap.SerObjectInfoInit
+  System.Runtime.Serialization.Formatters.Soap.Attr
+  System.Runtime.Serialization.Formatters.Soap.SoapHandler.AttributeValueEntry
+  System.Runtime.Serialization.Formatters.Soap.SoapWriter.AssemblyInfo
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+  System.Runtime.Serialization.Formatters.Soap.SoapParser
+  System.Runtime.Serialization.Formatters.Soap.SoapHandler
+  System.Runtime.Serialization.Formatters.Soap.AttributeList
+  System.Runtime.Serialization.Formatters.Soap.SerStack
+  System.Runtime.Serialization.Formatters.Soap.NameCache
+  System.Runtime.Serialization.Formatters.Soap.SoapUtil
+  System.Runtime.Serialization.Formatters.Soap.SoapAssemblyInfo
+  System.Runtime.Serialization.Formatters.Soap.ParseRecord
+  System.Runtime.Serialization.Formatters.Soap.Util
+  System.Runtime.Serialization.Formatters.Soap.ValueFixup
+  System.Runtime.Serialization.Formatters.Soap.InternalSoapMessage
+  System.Runtime.Serialization.Formatters.Soap.SoapAttributeInfo
+  System.Runtime.Serialization.Formatters.Soap.NameInfo
+  System.Runtime.Serialization.Formatters.Soap.PrimitiveArray
+  System.Runtime.Serialization.Formatters.Soap.Converter
+  System.Runtime.Serialization.Formatters.Soap.SoapWriter
+  System.Runtime.Serialization.Formatters.Soap.ObjectReader
+  System.Runtime.Serialization.Formatters.Soap.ObjectWriter
+  System.Runtime.Serialization.Formatters.Soap.WriteObjectInfo
+  System.Runtime.Serialization.Formatters.Soap.ReadObjectInfo
+  System.Runtime.Serialization.Formatters.Soap.SerObjectInfoInit
+  System.Runtime.Serialization.Formatters.Soap.Attr
+  System.Runtime.Serialization.Formatters.Soap.SoapHandler.AttributeValueEntry
+  System.Runtime.Serialization.Formatters.Soap.SoapWriter.AssemblyInfo
+---GLOBALS---
+---EXTERNALS---
+  
+  

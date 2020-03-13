@@ -1,0 +1,49 @@
+Summary for C:\temp\symbols\System.Xaml.Hosting.pdb\06A710B4BA134ADBAFA0CC24C88E58551\System.Xaml.Hosting.pdb
+  Size: 69632 bytes
+  Guid: {B410A706-13BA-DB4A-AFA0-CC24C88E5855}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.Xaml.Hosting.XamlBuildProvider
+  System.Xaml.Hosting.XamlHttpHandlerFactory
+  System.Xaml.Hosting.HostingEnvironmentWrapper
+  System.Xaml.Hosting.SR
+  System.Xaml.Hosting.TD
+  System.Xaml.Hosting.FxTrace
+  System.Xaml.Hosting.Configuration.HandlerElement
+  System.Xaml.Hosting.Configuration.HandlerElementCollection
+  System.Xaml.Hosting.Configuration.XamlHostingSection
+  System.Xaml.Hosting.Configuration.XamlHostingSectionGroup
+  System.Xaml.Hosting.Configuration.XamlHostingConfiguration
+  System.Xaml.Hosting.XamlHttpHandlerFactory.PathCache
+  System.Xaml.Hosting.XamlHttpHandlerFactory.HandlerWrapper
+  System.Xaml.Hosting.XamlHttpHandlerFactory.PathInfo
+  System.Xaml.Hosting.FxTrace.<>c
+  System.Xaml.Hosting.XamlHttpHandlerFactory.HandlerWrapper.AsyncHandlerWrapper
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.Xaml.Hosting.XamlBuildProvider
+  System.Xaml.Hosting.XamlHttpHandlerFactory
+  System.Xaml.Hosting.HostingEnvironmentWrapper
+  System.Xaml.Hosting.SR
+  System.Xaml.Hosting.TD
+  System.Xaml.Hosting.FxTrace
+  System.Xaml.Hosting.Configuration.HandlerElement
+  System.Xaml.Hosting.Configuration.HandlerElementCollection
+  System.Xaml.Hosting.Configuration.XamlHostingSection
+  System.Xaml.Hosting.Configuration.XamlHostingSectionGroup
+  System.Xaml.Hosting.Configuration.XamlHostingConfiguration
+  System.Xaml.Hosting.XamlHttpHandlerFactory.PathCache
+  System.Xaml.Hosting.XamlHttpHandlerFactory.HandlerWrapper
+  System.Xaml.Hosting.XamlHttpHandlerFactory.PathInfo
+  System.Xaml.Hosting.FxTrace.<>c
+  System.Xaml.Hosting.XamlHttpHandlerFactory.HandlerWrapper.AsyncHandlerWrapper
+---GLOBALS---
+---EXTERNALS---
+  
+  

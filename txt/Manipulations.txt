@@ -1,0 +1,109 @@
+Summary for C:\temp\symbols\System.Windows.Input.Manipulations.pdb\CABF9CF5B4EC4DF9988505F967A5D90F1\System.Windows.Input.Manipulations.pdb
+  Size: 77824 bytes
+  Guid: {F59CBFCA-ECB4-F94D-9885-05F967A5D90F}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.Windows.Input.Manipulations.DoubleUtil
+  System.Windows.Input.Manipulations.Exceptions
+  System.Windows.Input.Manipulations.InertiaExpansionBehavior2D
+  System.Windows.Input.Manipulations.InertiaParameters2D
+  System.Windows.Input.Manipulations.InertiaProcessor2D
+  System.Windows.Input.Manipulations.InertiaRotationBehavior2D
+  System.Windows.Input.Manipulations.InertiaTranslationBehavior2D
+  System.Windows.Input.Manipulations.Lazy`1
+  System.Windows.Input.Manipulations.Manipulation2DCompletedEventArgs
+  System.Windows.Input.Manipulations.Manipulation2DDeltaEventArgs
+  System.Windows.Input.Manipulations.Manipulation2DStartedEventArgs
+  System.Windows.Input.Manipulations.ManipulationDelta2D
+  System.Windows.Input.Manipulations.ManipulationSequence
+  System.Windows.Input.Manipulations.ManipulationParameters2D
+  System.Windows.Input.Manipulations.ManipulationPivot2D
+  System.Windows.Input.Manipulations.ManipulationProcessor2D
+  System.Windows.Input.Manipulations.Manipulations2DUtil
+  System.Windows.Input.Manipulations.ManipulationVelocities2D
+  System.Windows.Input.Manipulations.Manipulator2D
+  System.Windows.Input.Manipulations.PointF
+  System.Windows.Input.Manipulations.Resources
+  System.Windows.Input.Manipulations.Validations
+  System.Windows.Input.Manipulations.VectorD
+  System.Windows.Input.Manipulations.VectorF
+  System.Windows.Input.Manipulations.InertiaExpansionBehavior2D.<>c__DisplayClass14_0
+  System.Windows.Input.Manipulations.InertiaExpansionBehavior2D.<>c__DisplayClass17_0
+  System.Windows.Input.Manipulations.InertiaExpansionBehavior2D.<>c__DisplayClass20_0
+  System.Windows.Input.Manipulations.InertiaExpansionBehavior2D.<>c__DisplayClass23_0
+  System.Windows.Input.Manipulations.InertiaExpansionBehavior2D.<>c__DisplayClass26_0
+  System.Windows.Input.Manipulations.InertiaExpansionBehavior2D.<>c__DisplayClass29_0
+  System.Windows.Input.Manipulations.InertiaProcessor2D.InitialState
+  System.Windows.Input.Manipulations.InertiaProcessor2D.ExtrapolationState
+  System.Windows.Input.Manipulations.InertiaProcessor2D.ExtrapolatedValue
+  System.Windows.Input.Manipulations.InertiaRotationBehavior2D.<>c__DisplayClass8_0
+  System.Windows.Input.Manipulations.InertiaRotationBehavior2D.<>c__DisplayClass11_0
+  System.Windows.Input.Manipulations.InertiaRotationBehavior2D.<>c__DisplayClass14_0
+  System.Windows.Input.Manipulations.InertiaTranslationBehavior2D.<>c__DisplayClass10_0
+  System.Windows.Input.Manipulations.InertiaTranslationBehavior2D.<>c__DisplayClass13_0
+  System.Windows.Input.Manipulations.InertiaTranslationBehavior2D.<>c__DisplayClass16_0
+  System.Windows.Input.Manipulations.InertiaTranslationBehavior2D.<>c__DisplayClass19_0
+  System.Windows.Input.Manipulations.ManipulationSequence.HistoryQueue
+  System.Windows.Input.Manipulations.ManipulationSequence.SmoothingQueue
+  System.Windows.Input.Manipulations.ManipulationSequence.ManipulatorState
+  System.Windows.Input.Manipulations.ManipulationSequence.ManipulationState
+  System.Windows.Input.Manipulations.ManipulationSequence.<>c
+  System.Windows.Input.Manipulations.ManipulationSequence.<>c__DisplayClass33_0
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.Windows.Input.Manipulations.DoubleUtil
+  System.Windows.Input.Manipulations.Exceptions
+  System.Windows.Input.Manipulations.InertiaExpansionBehavior2D
+  System.Windows.Input.Manipulations.InertiaParameters2D
+  System.Windows.Input.Manipulations.InertiaProcessor2D
+  System.Windows.Input.Manipulations.InertiaRotationBehavior2D
+  System.Windows.Input.Manipulations.InertiaTranslationBehavior2D
+  System.Windows.Input.Manipulations.Lazy`1
+  System.Windows.Input.Manipulations.Manipulation2DCompletedEventArgs
+  System.Windows.Input.Manipulations.Manipulation2DDeltaEventArgs
+  System.Windows.Input.Manipulations.Manipulation2DStartedEventArgs
+  System.Windows.Input.Manipulations.ManipulationDelta2D
+  System.Windows.Input.Manipulations.ManipulationSequence
+  System.Windows.Input.Manipulations.ManipulationParameters2D
+  System.Windows.Input.Manipulations.ManipulationPivot2D
+  System.Windows.Input.Manipulations.ManipulationProcessor2D
+  System.Windows.Input.Manipulations.Manipulations2DUtil
+  System.Windows.Input.Manipulations.ManipulationVelocities2D
+  System.Windows.Input.Manipulations.Manipulator2D
+  System.Windows.Input.Manipulations.PointF
+  System.Windows.Input.Manipulations.Resources
+  System.Windows.Input.Manipulations.Validations
+  System.Windows.Input.Manipulations.VectorD
+  System.Windows.Input.Manipulations.VectorF
+  System.Windows.Input.Manipulations.InertiaExpansionBehavior2D.<>c__DisplayClass14_0
+  System.Windows.Input.Manipulations.InertiaExpansionBehavior2D.<>c__DisplayClass17_0
+  System.Windows.Input.Manipulations.InertiaExpansionBehavior2D.<>c__DisplayClass20_0
+  System.Windows.Input.Manipulations.InertiaExpansionBehavior2D.<>c__DisplayClass23_0
+  System.Windows.Input.Manipulations.InertiaExpansionBehavior2D.<>c__DisplayClass26_0
+  System.Windows.Input.Manipulations.InertiaExpansionBehavior2D.<>c__DisplayClass29_0
+  System.Windows.Input.Manipulations.InertiaProcessor2D.InitialState
+  System.Windows.Input.Manipulations.InertiaProcessor2D.ExtrapolationState
+  System.Windows.Input.Manipulations.InertiaProcessor2D.ExtrapolatedValue
+  System.Windows.Input.Manipulations.InertiaRotationBehavior2D.<>c__DisplayClass8_0
+  System.Windows.Input.Manipulations.InertiaRotationBehavior2D.<>c__DisplayClass11_0
+  System.Windows.Input.Manipulations.InertiaRotationBehavior2D.<>c__DisplayClass14_0
+  System.Windows.Input.Manipulations.InertiaTranslationBehavior2D.<>c__DisplayClass10_0
+  System.Windows.Input.Manipulations.InertiaTranslationBehavior2D.<>c__DisplayClass13_0
+  System.Windows.Input.Manipulations.InertiaTranslationBehavior2D.<>c__DisplayClass16_0
+  System.Windows.Input.Manipulations.InertiaTranslationBehavior2D.<>c__DisplayClass19_0
+  System.Windows.Input.Manipulations.ManipulationSequence.HistoryQueue
+  System.Windows.Input.Manipulations.ManipulationSequence.SmoothingQueue
+  System.Windows.Input.Manipulations.ManipulationSequence.ManipulatorState
+  System.Windows.Input.Manipulations.ManipulationSequence.ManipulationState
+  System.Windows.Input.Manipulations.ManipulationSequence.<>c
+  System.Windows.Input.Manipulations.ManipulationSequence.<>c__DisplayClass33_0
+---GLOBALS---
+---EXTERNALS---
+  
+  

@@ -1,0 +1,73 @@
+Summary for C:\temp\symbols\System.ComponentModel.Composition.Registration.pdb\1330E26B630D48A7938472CB9F9E84BB1\System.ComponentModel.Composition.Registration.pdb
+  Size: 77824 bytes
+  Guid: {6BE23013-0D63-A748-9384-72CB9F9E84BB}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.ComponentModel.Composition.ExceptionBuilder
+  System.ComponentModel.Composition.Diagnostics.CompositionTrace
+  System.ComponentModel.Composition.Diagnostics.CompositionTraceSource
+  System.ComponentModel.Composition.Diagnostics.TraceSourceTraceWriter
+  System.ComponentModel.Composition.Registration.ExportBuilder
+  System.ComponentModel.Composition.Registration.ImportBuilder
+  System.ComponentModel.Composition.Registration.ParameterImportBuilder
+  System.ComponentModel.Composition.Registration.PartBuilder
+  System.ComponentModel.Composition.Registration.PartBuilder`1
+  System.ComponentModel.Composition.Registration.RegistrationBuilder
+  Microsoft.Internal.Assumes
+  Microsoft.Internal.Strings
+  Microsoft.Internal.AttributeServices
+  Microsoft.Internal.Requires
+  Microsoft.Internal.Lock
+  Microsoft.Internal.ReadLock
+  Microsoft.Internal.WriteLock
+  System.ComponentModel.Composition.Registration.PartBuilder.<>c
+  System.ComponentModel.Composition.Registration.PartBuilder.<FindLongestConstructors>d__44
+  System.ComponentModel.Composition.Registration.PartBuilder`1.PropertyExpressionAdapter
+  System.ComponentModel.Composition.Registration.PartBuilder`1.ConstructorExpressionAdapter
+  System.ComponentModel.Composition.Registration.RegistrationBuilder.InnerRC
+  System.ComponentModel.Composition.Registration.RegistrationBuilder.<>c__8`1
+  System.ComponentModel.Composition.Registration.RegistrationBuilder.<>c__DisplayClass9_0
+  System.ComponentModel.Composition.Registration.RegistrationBuilder.<>c__10`1
+  System.ComponentModel.Composition.Registration.RegistrationBuilder.<>c__DisplayClass11_0
+  System.ComponentModel.Composition.Registration.RegistrationBuilder.<>c__DisplayClass14_0
+  Microsoft.Internal.Assumes.InternalErrorException
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.ComponentModel.Composition.ExceptionBuilder
+  System.ComponentModel.Composition.Diagnostics.CompositionTrace
+  System.ComponentModel.Composition.Diagnostics.CompositionTraceSource
+  System.ComponentModel.Composition.Diagnostics.TraceSourceTraceWriter
+  System.ComponentModel.Composition.Registration.ExportBuilder
+  System.ComponentModel.Composition.Registration.ImportBuilder
+  System.ComponentModel.Composition.Registration.ParameterImportBuilder
+  System.ComponentModel.Composition.Registration.PartBuilder
+  System.ComponentModel.Composition.Registration.PartBuilder`1
+  System.ComponentModel.Composition.Registration.RegistrationBuilder
+  Microsoft.Internal.Assumes
+  Microsoft.Internal.Strings
+  Microsoft.Internal.AttributeServices
+  Microsoft.Internal.Requires
+  Microsoft.Internal.Lock
+  Microsoft.Internal.ReadLock
+  Microsoft.Internal.WriteLock
+  System.ComponentModel.Composition.Registration.PartBuilder.<>c
+  System.ComponentModel.Composition.Registration.PartBuilder.<FindLongestConstructors>d__44
+  System.ComponentModel.Composition.Registration.PartBuilder`1.PropertyExpressionAdapter
+  System.ComponentModel.Composition.Registration.PartBuilder`1.ConstructorExpressionAdapter
+  System.ComponentModel.Composition.Registration.RegistrationBuilder.InnerRC
+  System.ComponentModel.Composition.Registration.RegistrationBuilder.<>c__8`1
+  System.ComponentModel.Composition.Registration.RegistrationBuilder.<>c__DisplayClass9_0
+  System.ComponentModel.Composition.Registration.RegistrationBuilder.<>c__10`1
+  System.ComponentModel.Composition.Registration.RegistrationBuilder.<>c__DisplayClass11_0
+  System.ComponentModel.Composition.Registration.RegistrationBuilder.<>c__DisplayClass14_0
+  Microsoft.Internal.Assumes.InternalErrorException
+---GLOBALS---
+---EXTERNALS---
+  
+  

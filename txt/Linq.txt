@@ -1,0 +1,177 @@
+Summary for C:\temp\symbols\System.Xml.Linq.pdb\0AF22D9B2C444C5A83C0A6F0119C8BC12\System.Xml.Linq.pdb
+  Size: 94208 bytes
+  Guid: {9B2DF20A-442C-5A4C-83C0-A6F0119C8BC1}
+  Age: 2
+  Attributes: 
+---COMPILANDS---
+  System.Xml.Schema.XNodeValidator
+  System.Xml.Schema.XmlSchemaInfoEqualityComparer
+  System.Xml.Schema.Extensions
+  System.Xml.XPath.XNodeNavigator
+  System.Xml.XPath.XPathEvaluator
+  System.Xml.XPath.Extensions
+  System.Xml.XPath.XDocumentExtensions
+  System.Xml.Linq.XName
+  System.Xml.Linq.NameSerializer
+  System.Xml.Linq.XNamespace
+  System.Xml.Linq.XHashtable`1
+  System.Xml.Linq.XObject
+  System.Xml.Linq.BaseUriAnnotation
+  System.Xml.Linq.LineInfoAnnotation
+  System.Xml.Linq.LineInfoEndElementAnnotation
+  System.Xml.Linq.XObjectChangeAnnotation
+  System.Xml.Linq.XObjectChangeEventArgs
+  System.Xml.Linq.XNode
+  System.Xml.Linq.XNodeDocumentOrderComparer
+  System.Xml.Linq.XNodeEqualityComparer
+  System.Xml.Linq.XText
+  System.Xml.Linq.XCData
+  System.Xml.Linq.XContainer
+  System.Xml.Linq.Inserter
+  System.Xml.Linq.NamespaceCache
+  System.Xml.Linq.XElement
+  System.Xml.Linq.ElementWriter
+  System.Xml.Linq.NamespaceResolver
+  System.Xml.Linq.XDocument
+  System.Xml.Linq.XComment
+  System.Xml.Linq.XProcessingInstruction
+  System.Xml.Linq.XDeclaration
+  System.Xml.Linq.XDocumentType
+  System.Xml.Linq.XAttribute
+  System.Xml.Linq.XStreamingElement
+  System.Xml.Linq.StreamingElementWriter
+  System.Xml.Linq.Extensions
+  System.Xml.Linq.XNodeBuilder
+  System.Xml.Linq.XNodeReader
+  System.Xml.Linq.ResDescriptionAttribute
+  System.Xml.Linq.ResCategoryAttribute
+  System.Xml.Linq.Res
+  MS.Internal.Xml.Linq.ComponentModel.XTypeDescriptionProvider`1
+  MS.Internal.Xml.Linq.ComponentModel.XTypeDescriptor`1
+  MS.Internal.Xml.Linq.ComponentModel.XPropertyDescriptor`2
+  MS.Internal.Xml.Linq.ComponentModel.XElementAttributePropertyDescriptor
+  MS.Internal.Xml.Linq.ComponentModel.XElementDescendantsPropertyDescriptor
+  MS.Internal.Xml.Linq.ComponentModel.XElementElementPropertyDescriptor
+  MS.Internal.Xml.Linq.ComponentModel.XElementElementsPropertyDescriptor
+  MS.Internal.Xml.Linq.ComponentModel.XElementValuePropertyDescriptor
+  MS.Internal.Xml.Linq.ComponentModel.XElementXmlPropertyDescriptor
+  MS.Internal.Xml.Linq.ComponentModel.XAttributeValuePropertyDescriptor
+  MS.Internal.Xml.Linq.ComponentModel.XDeferredAxis`1
+  MS.Internal.Xml.Linq.ComponentModel.XDeferredSingleton`1
+  System.Xml.XPath.XPathEvaluator.<EvaluateIterator>d__1`1
+  System.Xml.XPath.XDocumentExtensions.XDocumentNavigable
+  System.Xml.Linq.XHashtable`1.XHashtableState
+  System.Xml.Linq.XObject.<AnnotationsIterator>d__15
+  System.Xml.Linq.XObject.<Annotations>d__16`1
+  System.Xml.Linq.XNode.<NodesAfterSelf>d__21
+  System.Xml.Linq.XNode.<NodesBeforeSelf>d__22
+  System.Xml.Linq.XNode.<GetAncestors>d__40
+  System.Xml.Linq.XNode.<GetElementsAfterSelf>d__41
+  System.Xml.Linq.XNode.<GetElementsBeforeSelf>d__42
+  System.Xml.Linq.XContainer.<Nodes>d__18
+  System.Xml.Linq.XContainer.<GetDescendantNodes>d__38
+  System.Xml.Linq.XContainer.<GetDescendants>d__39
+  System.Xml.Linq.XContainer.<GetElements>d__40
+  System.Xml.Linq.XElement.<GetAttributes>d__104
+  System.Xml.Linq.Extensions.<Nodes>d__6`1
+  System.Xml.Linq.Extensions.<>c__15`1
+  System.Xml.Linq.Extensions.<GetAttributes>d__18
+  System.Xml.Linq.Extensions.<GetAncestors>d__19`1
+  System.Xml.Linq.Extensions.<GetDescendantNodes>d__20`1
+  System.Xml.Linq.Extensions.<GetDescendants>d__21`1
+  System.Xml.Linq.Extensions.<GetElements>d__22`1
+  MS.Internal.Xml.Linq.ComponentModel.XElementAttributePropertyDescriptor.<>c
+  MS.Internal.Xml.Linq.ComponentModel.XElementDescendantsPropertyDescriptor.<>c
+  MS.Internal.Xml.Linq.ComponentModel.XElementElementPropertyDescriptor.<>c
+  MS.Internal.Xml.Linq.ComponentModel.XElementElementsPropertyDescriptor.<>c
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.Xml.Schema.XNodeValidator
+  System.Xml.Schema.XmlSchemaInfoEqualityComparer
+  System.Xml.Schema.Extensions
+  System.Xml.XPath.XNodeNavigator
+  System.Xml.XPath.XPathEvaluator
+  System.Xml.XPath.Extensions
+  System.Xml.XPath.XDocumentExtensions
+  System.Xml.Linq.XName
+  System.Xml.Linq.NameSerializer
+  System.Xml.Linq.XNamespace
+  System.Xml.Linq.XHashtable`1
+  System.Xml.Linq.XObject
+  System.Xml.Linq.BaseUriAnnotation
+  System.Xml.Linq.LineInfoAnnotation
+  System.Xml.Linq.LineInfoEndElementAnnotation
+  System.Xml.Linq.XObjectChangeAnnotation
+  System.Xml.Linq.XObjectChangeEventArgs
+  System.Xml.Linq.XNode
+  System.Xml.Linq.XNodeDocumentOrderComparer
+  System.Xml.Linq.XNodeEqualityComparer
+  System.Xml.Linq.XText
+  System.Xml.Linq.XCData
+  System.Xml.Linq.XContainer
+  System.Xml.Linq.Inserter
+  System.Xml.Linq.NamespaceCache
+  System.Xml.Linq.XElement
+  System.Xml.Linq.ElementWriter
+  System.Xml.Linq.NamespaceResolver
+  System.Xml.Linq.XDocument
+  System.Xml.Linq.XComment
+  System.Xml.Linq.XProcessingInstruction
+  System.Xml.Linq.XDeclaration
+  System.Xml.Linq.XDocumentType
+  System.Xml.Linq.XAttribute
+  System.Xml.Linq.XStreamingElement
+  System.Xml.Linq.StreamingElementWriter
+  System.Xml.Linq.Extensions
+  System.Xml.Linq.XNodeBuilder
+  System.Xml.Linq.XNodeReader
+  System.Xml.Linq.ResDescriptionAttribute
+  System.Xml.Linq.ResCategoryAttribute
+  System.Xml.Linq.Res
+  MS.Internal.Xml.Linq.ComponentModel.XTypeDescriptionProvider`1
+  MS.Internal.Xml.Linq.ComponentModel.XTypeDescriptor`1
+  MS.Internal.Xml.Linq.ComponentModel.XPropertyDescriptor`2
+  MS.Internal.Xml.Linq.ComponentModel.XElementAttributePropertyDescriptor
+  MS.Internal.Xml.Linq.ComponentModel.XElementDescendantsPropertyDescriptor
+  MS.Internal.Xml.Linq.ComponentModel.XElementElementPropertyDescriptor
+  MS.Internal.Xml.Linq.ComponentModel.XElementElementsPropertyDescriptor
+  MS.Internal.Xml.Linq.ComponentModel.XElementValuePropertyDescriptor
+  MS.Internal.Xml.Linq.ComponentModel.XElementXmlPropertyDescriptor
+  MS.Internal.Xml.Linq.ComponentModel.XAttributeValuePropertyDescriptor
+  MS.Internal.Xml.Linq.ComponentModel.XDeferredAxis`1
+  MS.Internal.Xml.Linq.ComponentModel.XDeferredSingleton`1
+  System.Xml.XPath.XPathEvaluator.<EvaluateIterator>d__1`1
+  System.Xml.XPath.XDocumentExtensions.XDocumentNavigable
+  System.Xml.Linq.XHashtable`1.XHashtableState
+  System.Xml.Linq.XObject.<AnnotationsIterator>d__15
+  System.Xml.Linq.XObject.<Annotations>d__16`1
+  System.Xml.Linq.XNode.<NodesAfterSelf>d__21
+  System.Xml.Linq.XNode.<NodesBeforeSelf>d__22
+  System.Xml.Linq.XNode.<GetAncestors>d__40
+  System.Xml.Linq.XNode.<GetElementsAfterSelf>d__41
+  System.Xml.Linq.XNode.<GetElementsBeforeSelf>d__42
+  System.Xml.Linq.XContainer.<Nodes>d__18
+  System.Xml.Linq.XContainer.<GetDescendantNodes>d__38
+  System.Xml.Linq.XContainer.<GetDescendants>d__39
+  System.Xml.Linq.XContainer.<GetElements>d__40
+  System.Xml.Linq.XElement.<GetAttributes>d__104
+  System.Xml.Linq.Extensions.<Nodes>d__6`1
+  System.Xml.Linq.Extensions.<>c__15`1
+  System.Xml.Linq.Extensions.<GetAttributes>d__18
+  System.Xml.Linq.Extensions.<GetAncestors>d__19`1
+  System.Xml.Linq.Extensions.<GetDescendantNodes>d__20`1
+  System.Xml.Linq.Extensions.<GetDescendants>d__21`1
+  System.Xml.Linq.Extensions.<GetElements>d__22`1
+  MS.Internal.Xml.Linq.ComponentModel.XElementAttributePropertyDescriptor.<>c
+  MS.Internal.Xml.Linq.ComponentModel.XElementDescendantsPropertyDescriptor.<>c
+  MS.Internal.Xml.Linq.ComponentModel.XElementElementPropertyDescriptor.<>c
+  MS.Internal.Xml.Linq.ComponentModel.XElementElementsPropertyDescriptor.<>c
+---GLOBALS---
+---EXTERNALS---
+  
+  

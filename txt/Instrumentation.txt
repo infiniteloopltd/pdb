@@ -1,0 +1,149 @@
+Summary for C:\temp\symbols\System.Management.Instrumentation.pdb\B9EA7416A29C4F99B9A180CF568DDB0D1\System.Management.Instrumentation.pdb
+  Size: 94208 bytes
+  Guid: {1674EAB9-9CA2-994F-B9A1-80CF568DDB0D}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  PublishProvider
+  UMPProvider
+  WmiNative.WbemProvider
+  System.Management.Instrumentation.ManagementQualifierAttribute
+  System.Management.Instrumentation.ClassMetadata
+  System.Management.Instrumentation.ManagedCommonProvider
+  System.Management.Instrumentation.ExceptionsTranslator
+  System.Management.Instrumentation.WMIManagementInstaller
+  System.Management.Instrumentation.DefaultManagementInstaller
+  System.Management.Instrumentation.HashedArrayList
+  System.Management.Instrumentation.ObjectDictionary
+  System.Management.Instrumentation.CaselessObjectDictionary
+  System.Management.Instrumentation.InstrumentationManager
+  System.Management.Instrumentation.CallContext
+  System.Management.Instrumentation.MethodInvoker
+  System.Management.Instrumentation.ConstructorInvoker
+  System.Management.Instrumentation.MgmtClassGen
+  System.Management.Instrumentation.DisposableBase
+  System.Management.Instrumentation.DisposableOnlyBase
+  System.Management.Instrumentation.COMHelp
+  System.Management.Instrumentation.CoImpersonator
+  System.Management.Instrumentation.ProviderManager
+  System.Management.Instrumentation.ProviderMetadata
+  System.Management.Instrumentation.ResultHandler
+  System.Management.Instrumentation.MetaParamInfo
+  System.Management.Instrumentation.MetaMethodInfo
+  System.Management.Instrumentation.MetaConstructorInfo
+  System.Management.Instrumentation.MetaPropertyInfo
+  System.Management.Instrumentation.AttrUtil
+  System.Management.Instrumentation.OrderedClassList
+  System.Management.Instrumentation.AssemblyInformation
+  System.Management.Instrumentation.AutomationType
+  System.Management.Instrumentation.TypeConverter
+  System.Management.Instrumentation.WbemMarshal
+  System.Management.Instrumentation.WbemRegistrar
+  System.Management.Instrumentation.WMIInfraException
+  System.Management.Instrumentation.WmiProviderInstallationException
+  System.Management.Instrumentation.Res
+  WmiNative.WbemProvider.WMIClassCacheEntry
+  System.Management.Instrumentation.MgmtClassGen.MethodSet
+  System.Management.Instrumentation.MgmtClassGen.Method
+  System.Management.Instrumentation.MgmtClassGen.QualifierSet
+  System.Management.Instrumentation.MgmtClassGen.Qualifier
+  System.Management.Instrumentation.MgmtClassGen.PropertySet
+  System.Management.Instrumentation.MgmtClassGen.Property
+  System.Management.Instrumentation.OrderedClassList.<GetEnumerator>d__7
+  System.Management.Instrumentation.AssemblyInformation.<InstrumentationTypes>d__4
+  System.Management.Instrumentation.AutomationType.<EnumMethods>d__27
+  System.Management.Instrumentation.AutomationType.<EnumerateLocalProperties>d__56
+  System.Management.Instrumentation.WbemMarshal.TypeHelper
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Byte
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_SByte
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Int16
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_UInt16
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Char
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Int32
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_UInt32
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Int64
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_UInt64
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Double
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Single
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_String
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Boolean
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_DateTime
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_TimeSpan
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  PublishProvider
+  UMPProvider
+  WmiNative.WbemProvider
+  System.Management.Instrumentation.ManagementQualifierAttribute
+  System.Management.Instrumentation.ClassMetadata
+  System.Management.Instrumentation.ManagedCommonProvider
+  System.Management.Instrumentation.ExceptionsTranslator
+  System.Management.Instrumentation.WMIManagementInstaller
+  System.Management.Instrumentation.DefaultManagementInstaller
+  System.Management.Instrumentation.HashedArrayList
+  System.Management.Instrumentation.ObjectDictionary
+  System.Management.Instrumentation.CaselessObjectDictionary
+  System.Management.Instrumentation.InstrumentationManager
+  System.Management.Instrumentation.CallContext
+  System.Management.Instrumentation.MethodInvoker
+  System.Management.Instrumentation.ConstructorInvoker
+  System.Management.Instrumentation.MgmtClassGen
+  System.Management.Instrumentation.DisposableBase
+  System.Management.Instrumentation.DisposableOnlyBase
+  System.Management.Instrumentation.COMHelp
+  System.Management.Instrumentation.CoImpersonator
+  System.Management.Instrumentation.ProviderManager
+  System.Management.Instrumentation.ProviderMetadata
+  System.Management.Instrumentation.ResultHandler
+  System.Management.Instrumentation.MetaParamInfo
+  System.Management.Instrumentation.MetaMethodInfo
+  System.Management.Instrumentation.MetaConstructorInfo
+  System.Management.Instrumentation.MetaPropertyInfo
+  System.Management.Instrumentation.AttrUtil
+  System.Management.Instrumentation.OrderedClassList
+  System.Management.Instrumentation.AssemblyInformation
+  System.Management.Instrumentation.AutomationType
+  System.Management.Instrumentation.TypeConverter
+  System.Management.Instrumentation.WbemMarshal
+  System.Management.Instrumentation.WbemRegistrar
+  System.Management.Instrumentation.WMIInfraException
+  System.Management.Instrumentation.WmiProviderInstallationException
+  System.Management.Instrumentation.Res
+  WmiNative.WbemProvider.WMIClassCacheEntry
+  System.Management.Instrumentation.MgmtClassGen.MethodSet
+  System.Management.Instrumentation.MgmtClassGen.Method
+  System.Management.Instrumentation.MgmtClassGen.QualifierSet
+  System.Management.Instrumentation.MgmtClassGen.Qualifier
+  System.Management.Instrumentation.MgmtClassGen.PropertySet
+  System.Management.Instrumentation.MgmtClassGen.Property
+  System.Management.Instrumentation.OrderedClassList.<GetEnumerator>d__7
+  System.Management.Instrumentation.AssemblyInformation.<InstrumentationTypes>d__4
+  System.Management.Instrumentation.AutomationType.<EnumMethods>d__27
+  System.Management.Instrumentation.AutomationType.<EnumerateLocalProperties>d__56
+  System.Management.Instrumentation.WbemMarshal.TypeHelper
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Byte
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_SByte
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Int16
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_UInt16
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Char
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Int32
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_UInt32
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Int64
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_UInt64
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Double
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Single
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_String
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_Boolean
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_DateTime
+  System.Management.Instrumentation.WbemMarshal.TypeHelper.KnownTypeHandler_TimeSpan
+---GLOBALS---
+---EXTERNALS---
+  
+  

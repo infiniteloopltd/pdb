@@ -1,0 +1,123 @@
+Summary for C:\temp\symbols\System.IdentityModel.Selectors.pdb\A5E5EF9F12E1443AAA87BE96CCB3D7B41\System.IdentityModel.Selectors.pdb
+  Size: 86016 bytes
+  Guid: {9FEFE5A5-E112-3A44-AA87-BE96CCB3D7B4}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  Microsoft.InfoCards.InfoCardBaseException
+  Microsoft.InfoCards.UserCancelledException
+  Microsoft.InfoCards.InfoCardArgumentException
+  Microsoft.InfoCards.HGlobalSafeHandle
+  Microsoft.InfoCards.GlobalAllocSafeHandle
+  Microsoft.InfoCards.InfoCardCryptoHelper
+  Microsoft.InfoCards.SRDescriptionAttribute
+  Microsoft.InfoCards.SRCategoryAttribute
+  Microsoft.InfoCards.SR
+  Microsoft.InfoCards.Diagnostics.DiagnosticUtility
+  Microsoft.InfoCards.Diagnostics.InfoCardTrace
+  Microsoft.InfoCards.Diagnostics.InfoCardTraceRecord
+  System.IdentityModel.Selectors.AsymmetricCryptoHandle
+  System.IdentityModel.Selectors.CryptoHandle
+  System.IdentityModel.Selectors.InternalRefCountedHandle
+  System.IdentityModel.Selectors.HashCryptoHandle
+  System.IdentityModel.Selectors.InfoCardAsymmetricCrypto
+  System.IdentityModel.Selectors.CardSpaceSelector
+  System.IdentityModel.Selectors.ExceptionHelper
+  System.IdentityModel.Selectors.CardSpaceException
+  System.IdentityModel.Selectors.InfoCardKeyedHashAlgorithm
+  System.IdentityModel.Selectors.InfoCardProofToken
+  System.IdentityModel.Selectors.InfoCardRSACryptoProvider
+  System.IdentityModel.Selectors.InfoCardRSAOAEPKeyExchangeDeformatter
+  System.IdentityModel.Selectors.InfoCardRSAOAEPKeyExchangeFormatter
+  System.IdentityModel.Selectors.InfoCardRSAPKCS1KeyExchangeDeformatter
+  System.IdentityModel.Selectors.InfoCardRSAPKCS1KeyExchangeFormatter
+  System.IdentityModel.Selectors.InfoCardRSAPKCS1SignatureDeformatter
+  System.IdentityModel.Selectors.InfoCardRSAPKCS1SignatureFormatter
+  System.IdentityModel.Selectors.InfoCardSymmetricAlgorithm
+  System.IdentityModel.Selectors.InfoCardSymmetricCrypto
+  System.IdentityModel.Selectors.InternalPolicyElement
+  System.IdentityModel.Selectors.NativeMethods
+  System.IdentityModel.Selectors.PolicyChain
+  System.IdentityModel.Selectors.ProofTokenCryptoHandle
+  System.IdentityModel.Selectors.ServiceNotStartedException
+  System.IdentityModel.Selectors.StsCommunicationException
+  System.IdentityModel.Selectors.SymmetricCryptoHandle
+  System.IdentityModel.Selectors.ThrowOnMultipleAssignment`1
+  System.IdentityModel.Selectors.TransformCryptoHandle
+  System.IdentityModel.Selectors.UntrustedRecipientException
+  System.IdentityModel.Selectors.UserCancellationException
+  System.IdentityModel.Selectors.ServiceBusyException
+  System.IdentityModel.Selectors.IdentityValidationException
+  System.IdentityModel.Selectors.PolicyValidationException
+  System.IdentityModel.Selectors.UnsupportedPolicyOptionsException
+  System.IdentityModel.Selectors.UIInitializationException
+  System.IdentityModel.Selectors.SafeTokenHandle
+  System.IdentityModel.Selectors.CardSpacePolicyElement
+  System.IdentityModel.Selectors.CardSpaceShim
+  System.IdentityModel.Selectors.SafeLibraryHandle
+  Microsoft.InfoCards.Diagnostics.InfoCardTrace.SafeEventLogHandle
+  System.IdentityModel.Selectors.InfoCardSymmetricAlgorithm.CryptoTransform
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  Microsoft.InfoCards.InfoCardBaseException
+  Microsoft.InfoCards.UserCancelledException
+  Microsoft.InfoCards.InfoCardArgumentException
+  Microsoft.InfoCards.HGlobalSafeHandle
+  Microsoft.InfoCards.GlobalAllocSafeHandle
+  Microsoft.InfoCards.InfoCardCryptoHelper
+  Microsoft.InfoCards.SRDescriptionAttribute
+  Microsoft.InfoCards.SRCategoryAttribute
+  Microsoft.InfoCards.SR
+  Microsoft.InfoCards.Diagnostics.DiagnosticUtility
+  Microsoft.InfoCards.Diagnostics.InfoCardTrace
+  Microsoft.InfoCards.Diagnostics.InfoCardTraceRecord
+  System.IdentityModel.Selectors.AsymmetricCryptoHandle
+  System.IdentityModel.Selectors.CryptoHandle
+  System.IdentityModel.Selectors.InternalRefCountedHandle
+  System.IdentityModel.Selectors.HashCryptoHandle
+  System.IdentityModel.Selectors.InfoCardAsymmetricCrypto
+  System.IdentityModel.Selectors.CardSpaceSelector
+  System.IdentityModel.Selectors.ExceptionHelper
+  System.IdentityModel.Selectors.CardSpaceException
+  System.IdentityModel.Selectors.InfoCardKeyedHashAlgorithm
+  System.IdentityModel.Selectors.InfoCardProofToken
+  System.IdentityModel.Selectors.InfoCardRSACryptoProvider
+  System.IdentityModel.Selectors.InfoCardRSAOAEPKeyExchangeDeformatter
+  System.IdentityModel.Selectors.InfoCardRSAOAEPKeyExchangeFormatter
+  System.IdentityModel.Selectors.InfoCardRSAPKCS1KeyExchangeDeformatter
+  System.IdentityModel.Selectors.InfoCardRSAPKCS1KeyExchangeFormatter
+  System.IdentityModel.Selectors.InfoCardRSAPKCS1SignatureDeformatter
+  System.IdentityModel.Selectors.InfoCardRSAPKCS1SignatureFormatter
+  System.IdentityModel.Selectors.InfoCardSymmetricAlgorithm
+  System.IdentityModel.Selectors.InfoCardSymmetricCrypto
+  System.IdentityModel.Selectors.InternalPolicyElement
+  System.IdentityModel.Selectors.NativeMethods
+  System.IdentityModel.Selectors.PolicyChain
+  System.IdentityModel.Selectors.ProofTokenCryptoHandle
+  System.IdentityModel.Selectors.ServiceNotStartedException
+  System.IdentityModel.Selectors.StsCommunicationException
+  System.IdentityModel.Selectors.SymmetricCryptoHandle
+  System.IdentityModel.Selectors.ThrowOnMultipleAssignment`1
+  System.IdentityModel.Selectors.TransformCryptoHandle
+  System.IdentityModel.Selectors.UntrustedRecipientException
+  System.IdentityModel.Selectors.UserCancellationException
+  System.IdentityModel.Selectors.ServiceBusyException
+  System.IdentityModel.Selectors.IdentityValidationException
+  System.IdentityModel.Selectors.PolicyValidationException
+  System.IdentityModel.Selectors.UnsupportedPolicyOptionsException
+  System.IdentityModel.Selectors.UIInitializationException
+  System.IdentityModel.Selectors.SafeTokenHandle
+  System.IdentityModel.Selectors.CardSpacePolicyElement
+  System.IdentityModel.Selectors.CardSpaceShim
+  System.IdentityModel.Selectors.SafeLibraryHandle
+  Microsoft.InfoCards.Diagnostics.InfoCardTrace.SafeEventLogHandle
+  System.IdentityModel.Selectors.InfoCardSymmetricAlgorithm.CryptoTransform
+---GLOBALS---
+---EXTERNALS---
+  
+  

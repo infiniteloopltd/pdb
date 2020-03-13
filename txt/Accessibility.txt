@@ -1,0 +1,17 @@
+Summary for C:\temp\symbols\Accessibility.pdb\F42BB57BA10B44478619BE3440E344DB1\Accessibility.pdb
+  Size: 61440 bytes
+  Guid: {7BB52BF4-0BA1-4744-8619-BE3440E344DB}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+---GLOBALS---
+---EXTERNALS---
+  
+  

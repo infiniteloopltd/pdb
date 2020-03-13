@@ -1,0 +1,157 @@
+Summary for C:\temp\symbols\System.Net.pdb\4BA7688C25A5498EBA0431D603C2BA021\System.Net.pdb
+  Size: 94208 bytes
+  Guid: {8C68A74B-A525-8E49-BA04-31D603C2BA02}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.SRDescriptionAttribute
+  System.SRCategoryAttribute
+  System.SR
+  System.Net.NetworkProgressChangedEventArgs
+  System.Net.UiSynchronizationContext
+  System.Net.IPEndPointCollection
+  System.Net.Logging
+  System.Net.P2PTraceSource
+  System.Net.SafeLoadLibrary
+  System.Net.Sockets.UdpAnySourceMulticastClient
+  System.Net.Sockets.UdpSingleSourceMulticastClient
+  System.Net.Sockets.HttpPolicyDownloaderProtocol
+  System.Net.PeerToPeer.Cloud
+  System.Net.PeerToPeer.CloudCollection
+  System.Net.PeerToPeer.PeerName
+  System.Net.PeerToPeer.PeerNameRecord
+  System.Net.PeerToPeer.PeerNameRecordCollection
+  System.Net.PeerToPeer.PeerNameRegistration
+  System.Net.PeerToPeer.ResolveProgressChangedEventArgs
+  System.Net.PeerToPeer.ResolveCompletedEventArgs
+  System.Net.PeerToPeer.PeerNameResolverHelper
+  System.Net.PeerToPeer.PeerNameResolver
+  System.Net.PeerToPeer.PeerToPeerException
+  System.Net.PeerToPeer.PnrpPermissionAttribute
+  System.Net.PeerToPeer.PnrpPermission
+  System.Net.PeerToPeer.SystemNetHelpers
+  System.Net.PeerToPeer.UnsafeP2PNativeMethods
+  System.Net.PeerToPeer.SafePeerData
+  System.Net.PeerToPeer.SafePeerNameUnregister
+  System.Net.PeerToPeer.SafePeerNameEndResolve
+  System.Net.PeerToPeer.PeerToPeerOSHelper
+  System.Net.PeerToPeer.Collaboration.CollaborationHelperFunctions
+  System.Net.PeerToPeer.Collaboration.CreateContactCompletedEventArgs
+  System.Net.PeerToPeer.Collaboration.SubscriptionListChangedEventArgs
+  System.Net.PeerToPeer.Collaboration.ContactManager
+  System.Net.PeerToPeer.Collaboration.MyContact
+  System.Net.PeerToPeer.Collaboration.ObjectChangedEventArgs
+  System.Net.PeerToPeer.Collaboration.PresenceChangedEventArgs
+  System.Net.PeerToPeer.Collaboration.SubscribeCompletedEventArgs
+  System.Net.PeerToPeer.Collaboration.RefreshDataCompletedEventArgs
+  System.Net.PeerToPeer.Collaboration.InviteCompletedEventArgs
+  System.Net.PeerToPeer.Collaboration.Peer
+  System.Net.PeerToPeer.Collaboration.InviteAsyncHelper
+  System.Net.PeerToPeer.Collaboration.PeerApplication
+  System.Net.PeerToPeer.Collaboration.PeerApplicationCollection
+  System.Net.PeerToPeer.Collaboration.PeerApplicationLaunchInfo
+  System.Net.PeerToPeer.Collaboration.PeerCollaboration
+  System.Net.PeerToPeer.Collaboration.PeerCollaborationPermissionAttribute
+  System.Net.PeerToPeer.Collaboration.PeerCollaborationPermission
+  System.Net.PeerToPeer.Collaboration.ApplicationChangedEventArgs
+  System.Net.PeerToPeer.Collaboration.PeerContact
+  System.Net.PeerToPeer.Collaboration.PeerContactCollection
+  System.Net.PeerToPeer.Collaboration.NameChangedEventArgs
+  System.Net.PeerToPeer.Collaboration.PeerEndPoint
+  System.Net.PeerToPeer.Collaboration.PeerEndPointCollection
+  System.Net.PeerToPeer.Collaboration.PeerInvitationResponse
+  System.Net.PeerToPeer.Collaboration.PeerNearMeChangedEventArgs
+  System.Net.PeerToPeer.Collaboration.PeerNearMe
+  System.Net.PeerToPeer.Collaboration.PeerNearMeCollection
+  System.Net.PeerToPeer.Collaboration.PeerObject
+  System.Net.PeerToPeer.Collaboration.PeerObjectCollection
+  System.Net.PeerToPeer.Collaboration.PeerPresenceInfo
+  System.Net.PeerToPeer.Collaboration.SafeCollabData
+  System.Net.PeerToPeer.Collaboration.SafeCollabEnum
+  System.Net.PeerToPeer.Collaboration.SafeCollabInvite
+  System.Net.PeerToPeer.Collaboration.SafeCertStore
+  System.Net.PeerToPeer.Collaboration.SafeCollabMemory
+  System.Net.PeerToPeer.Collaboration.SafeCollabEvent
+  System.Net.PeerToPeer.Collaboration.PEER_COLLAB_EVENT_DATA
+  System.Net.PeerToPeer.Collaboration.ContactManager.CreateContactAsyncState
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.SRDescriptionAttribute
+  System.SRCategoryAttribute
+  System.SR
+  System.Net.NetworkProgressChangedEventArgs
+  System.Net.UiSynchronizationContext
+  System.Net.IPEndPointCollection
+  System.Net.Logging
+  System.Net.P2PTraceSource
+  System.Net.SafeLoadLibrary
+  System.Net.Sockets.UdpAnySourceMulticastClient
+  System.Net.Sockets.UdpSingleSourceMulticastClient
+  System.Net.Sockets.HttpPolicyDownloaderProtocol
+  System.Net.PeerToPeer.Cloud
+  System.Net.PeerToPeer.CloudCollection
+  System.Net.PeerToPeer.PeerName
+  System.Net.PeerToPeer.PeerNameRecord
+  System.Net.PeerToPeer.PeerNameRecordCollection
+  System.Net.PeerToPeer.PeerNameRegistration
+  System.Net.PeerToPeer.ResolveProgressChangedEventArgs
+  System.Net.PeerToPeer.ResolveCompletedEventArgs
+  System.Net.PeerToPeer.PeerNameResolverHelper
+  System.Net.PeerToPeer.PeerNameResolver
+  System.Net.PeerToPeer.PeerToPeerException
+  System.Net.PeerToPeer.PnrpPermissionAttribute
+  System.Net.PeerToPeer.PnrpPermission
+  System.Net.PeerToPeer.SystemNetHelpers
+  System.Net.PeerToPeer.UnsafeP2PNativeMethods
+  System.Net.PeerToPeer.SafePeerData
+  System.Net.PeerToPeer.SafePeerNameUnregister
+  System.Net.PeerToPeer.SafePeerNameEndResolve
+  System.Net.PeerToPeer.PeerToPeerOSHelper
+  System.Net.PeerToPeer.Collaboration.CollaborationHelperFunctions
+  System.Net.PeerToPeer.Collaboration.CreateContactCompletedEventArgs
+  System.Net.PeerToPeer.Collaboration.SubscriptionListChangedEventArgs
+  System.Net.PeerToPeer.Collaboration.ContactManager
+  System.Net.PeerToPeer.Collaboration.MyContact
+  System.Net.PeerToPeer.Collaboration.ObjectChangedEventArgs
+  System.Net.PeerToPeer.Collaboration.PresenceChangedEventArgs
+  System.Net.PeerToPeer.Collaboration.SubscribeCompletedEventArgs
+  System.Net.PeerToPeer.Collaboration.RefreshDataCompletedEventArgs
+  System.Net.PeerToPeer.Collaboration.InviteCompletedEventArgs
+  System.Net.PeerToPeer.Collaboration.Peer
+  System.Net.PeerToPeer.Collaboration.InviteAsyncHelper
+  System.Net.PeerToPeer.Collaboration.PeerApplication
+  System.Net.PeerToPeer.Collaboration.PeerApplicationCollection
+  System.Net.PeerToPeer.Collaboration.PeerApplicationLaunchInfo
+  System.Net.PeerToPeer.Collaboration.PeerCollaboration
+  System.Net.PeerToPeer.Collaboration.PeerCollaborationPermissionAttribute
+  System.Net.PeerToPeer.Collaboration.PeerCollaborationPermission
+  System.Net.PeerToPeer.Collaboration.ApplicationChangedEventArgs
+  System.Net.PeerToPeer.Collaboration.PeerContact
+  System.Net.PeerToPeer.Collaboration.PeerContactCollection
+  System.Net.PeerToPeer.Collaboration.NameChangedEventArgs
+  System.Net.PeerToPeer.Collaboration.PeerEndPoint
+  System.Net.PeerToPeer.Collaboration.PeerEndPointCollection
+  System.Net.PeerToPeer.Collaboration.PeerInvitationResponse
+  System.Net.PeerToPeer.Collaboration.PeerNearMeChangedEventArgs
+  System.Net.PeerToPeer.Collaboration.PeerNearMe
+  System.Net.PeerToPeer.Collaboration.PeerNearMeCollection
+  System.Net.PeerToPeer.Collaboration.PeerObject
+  System.Net.PeerToPeer.Collaboration.PeerObjectCollection
+  System.Net.PeerToPeer.Collaboration.PeerPresenceInfo
+  System.Net.PeerToPeer.Collaboration.SafeCollabData
+  System.Net.PeerToPeer.Collaboration.SafeCollabEnum
+  System.Net.PeerToPeer.Collaboration.SafeCollabInvite
+  System.Net.PeerToPeer.Collaboration.SafeCertStore
+  System.Net.PeerToPeer.Collaboration.SafeCollabMemory
+  System.Net.PeerToPeer.Collaboration.SafeCollabEvent
+  System.Net.PeerToPeer.Collaboration.PEER_COLLAB_EVENT_DATA
+  System.Net.PeerToPeer.Collaboration.ContactManager.CreateContactAsyncState
+---GLOBALS---
+---EXTERNALS---
+  
+  

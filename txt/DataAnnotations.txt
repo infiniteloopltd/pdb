@@ -1,0 +1,161 @@
+Summary for C:\temp\symbols\System.ComponentModel.DataAnnotations.pdb\C2C5C1263A804BBB80DAE630F9AFCB5A2\System.ComponentModel.DataAnnotations.pdb
+  Size: 94208 bytes
+  Guid: {26C1C5C2-803A-BB4B-80DA-E630F9AFCB5A}
+  Age: 2
+  Attributes: 
+---COMPILANDS---
+  System.AppContextDefaultValues
+  System.LocalAppContext
+  System.ComponentModel.DataAnnotations.AppSettings
+  System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptionProvider
+  System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor
+  System.ComponentModel.DataAnnotations.AssociationAttribute
+  System.ComponentModel.DataAnnotations.BindableTypeAttribute
+  System.ComponentModel.DataAnnotations.CompareAttribute
+  System.ComponentModel.DataAnnotations.CreditCardAttribute
+  System.ComponentModel.DataAnnotations.CustomValidationAttribute
+  System.ComponentModel.DataAnnotations.DataTypeAttribute
+  System.ComponentModel.DataAnnotations.DisplayAttribute
+  System.ComponentModel.DataAnnotations.DisplayColumnAttribute
+  System.ComponentModel.DataAnnotations.DisplayFormatAttribute
+  System.ComponentModel.DataAnnotations.EditableAttribute
+  System.ComponentModel.DataAnnotations.EmailAddressAttribute
+  System.ComponentModel.DataAnnotations.EnumDataTypeAttribute
+  System.ComponentModel.DataAnnotations.FileExtensionsAttribute
+  System.ComponentModel.DataAnnotations.FilterUIHintAttribute
+  System.ComponentModel.DataAnnotations.LocalAppContextSwitches
+  System.ComponentModel.DataAnnotations.LocalizableString
+  System.ComponentModel.DataAnnotations.MaxLengthAttribute
+  System.ComponentModel.DataAnnotations.MetadataPropertyDescriptorWrapper
+  System.ComponentModel.DataAnnotations.MetadataTypeAttribute
+  System.ComponentModel.DataAnnotations.MinLengthAttribute
+  System.ComponentModel.DataAnnotations.PhoneAttribute
+  System.ComponentModel.DataAnnotations.RangeAttribute
+  System.ComponentModel.DataAnnotations.RegularExpressionAttribute
+  System.ComponentModel.DataAnnotations.RequiredAttribute
+  System.ComponentModel.DataAnnotations.ScaffoldColumnAttribute
+  System.ComponentModel.DataAnnotations.ScaffoldTableAttribute
+  System.ComponentModel.DataAnnotations.StringLengthAttribute
+  System.ComponentModel.DataAnnotations.UIHintAttribute
+  System.ComponentModel.DataAnnotations.UrlAttribute
+  System.ComponentModel.DataAnnotations.Validator
+  System.ComponentModel.DataAnnotations.ValidationAttribute
+  System.ComponentModel.DataAnnotations.ValidationAttributeStore
+  System.ComponentModel.DataAnnotations.ValidationException
+  System.ComponentModel.DataAnnotations.ValidationResult
+  System.ComponentModel.DataAnnotations.ValidationContext
+  System.ComponentModel.DataAnnotations.Resources.DataAnnotationsResources
+  System.ComponentModel.DataAnnotations.Util.BinaryCompatibility
+  System.ComponentModel.DataAnnotations.Schema.ColumnAttribute
+  System.ComponentModel.DataAnnotations.Schema.DatabaseGeneratedAttribute
+  System.ComponentModel.DataAnnotations.Schema.ForeignKeyAttribute
+  System.ComponentModel.DataAnnotations.Schema.InversePropertyAttribute
+  System.ComponentModel.DataAnnotations.Schema.TableAttribute
+  System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor.TypeDescriptorCache
+  System.ComponentModel.DataAnnotations.CustomValidationAttribute.<>c
+  System.ComponentModel.DataAnnotations.FileExtensionsAttribute.<>c
+  System.ComponentModel.DataAnnotations.LocalizableString.<>c__DisplayClass12_0
+  System.ComponentModel.DataAnnotations.LocalizableString.<>c__DisplayClass12_1
+  System.ComponentModel.DataAnnotations.MaxLengthAttribute.<>c
+  System.ComponentModel.DataAnnotations.RangeAttribute.<>c
+  System.ComponentModel.DataAnnotations.RangeAttribute.<>c__DisplayClass23_0
+  System.ComponentModel.DataAnnotations.RegularExpressionAttribute.<>c
+  System.ComponentModel.DataAnnotations.RequiredAttribute.<>c
+  System.ComponentModel.DataAnnotations.StringLengthAttribute.<>c
+  System.ComponentModel.DataAnnotations.UIHintAttribute.UIHintImplementation
+  System.ComponentModel.DataAnnotations.Validator.ValidationError
+  System.ComponentModel.DataAnnotations.Validator.<>c
+  System.ComponentModel.DataAnnotations.ValidationAttribute.<>c
+  System.ComponentModel.DataAnnotations.ValidationAttribute.<>c__DisplayClass7_0
+  System.ComponentModel.DataAnnotations.ValidationAttribute.<>c__DisplayClass29_0
+  System.ComponentModel.DataAnnotations.ValidationAttribute.<>c__DisplayClass30_0
+  System.ComponentModel.DataAnnotations.ValidationAttributeStore.StoreItem
+  System.ComponentModel.DataAnnotations.ValidationAttributeStore.TypeStoreItem
+  System.ComponentModel.DataAnnotations.ValidationAttributeStore.PropertyStoreItem
+  System.ComponentModel.DataAnnotations.ValidationContext.ValidationContextServiceContainer
+  System.ComponentModel.DataAnnotations.ValidationContext.<>c__DisplayClass7_0
+  System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor.TypeDescriptorCache.<>c
+  System.ComponentModel.DataAnnotations.UIHintAttribute.UIHintImplementation.<>c
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.AppContextDefaultValues
+  System.LocalAppContext
+  System.ComponentModel.DataAnnotations.AppSettings
+  System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptionProvider
+  System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor
+  System.ComponentModel.DataAnnotations.AssociationAttribute
+  System.ComponentModel.DataAnnotations.BindableTypeAttribute
+  System.ComponentModel.DataAnnotations.CompareAttribute
+  System.ComponentModel.DataAnnotations.CreditCardAttribute
+  System.ComponentModel.DataAnnotations.CustomValidationAttribute
+  System.ComponentModel.DataAnnotations.DataTypeAttribute
+  System.ComponentModel.DataAnnotations.DisplayAttribute
+  System.ComponentModel.DataAnnotations.DisplayColumnAttribute
+  System.ComponentModel.DataAnnotations.DisplayFormatAttribute
+  System.ComponentModel.DataAnnotations.EditableAttribute
+  System.ComponentModel.DataAnnotations.EmailAddressAttribute
+  System.ComponentModel.DataAnnotations.EnumDataTypeAttribute
+  System.ComponentModel.DataAnnotations.FileExtensionsAttribute
+  System.ComponentModel.DataAnnotations.FilterUIHintAttribute
+  System.ComponentModel.DataAnnotations.LocalAppContextSwitches
+  System.ComponentModel.DataAnnotations.LocalizableString
+  System.ComponentModel.DataAnnotations.MaxLengthAttribute
+  System.ComponentModel.DataAnnotations.MetadataPropertyDescriptorWrapper
+  System.ComponentModel.DataAnnotations.MetadataTypeAttribute
+  System.ComponentModel.DataAnnotations.MinLengthAttribute
+  System.ComponentModel.DataAnnotations.PhoneAttribute
+  System.ComponentModel.DataAnnotations.RangeAttribute
+  System.ComponentModel.DataAnnotations.RegularExpressionAttribute
+  System.ComponentModel.DataAnnotations.RequiredAttribute
+  System.ComponentModel.DataAnnotations.ScaffoldColumnAttribute
+  System.ComponentModel.DataAnnotations.ScaffoldTableAttribute
+  System.ComponentModel.DataAnnotations.StringLengthAttribute
+  System.ComponentModel.DataAnnotations.UIHintAttribute
+  System.ComponentModel.DataAnnotations.UrlAttribute
+  System.ComponentModel.DataAnnotations.Validator
+  System.ComponentModel.DataAnnotations.ValidationAttribute
+  System.ComponentModel.DataAnnotations.ValidationAttributeStore
+  System.ComponentModel.DataAnnotations.ValidationException
+  System.ComponentModel.DataAnnotations.ValidationResult
+  System.ComponentModel.DataAnnotations.ValidationContext
+  System.ComponentModel.DataAnnotations.Resources.DataAnnotationsResources
+  System.ComponentModel.DataAnnotations.Util.BinaryCompatibility
+  System.ComponentModel.DataAnnotations.Schema.ColumnAttribute
+  System.ComponentModel.DataAnnotations.Schema.DatabaseGeneratedAttribute
+  System.ComponentModel.DataAnnotations.Schema.ForeignKeyAttribute
+  System.ComponentModel.DataAnnotations.Schema.InversePropertyAttribute
+  System.ComponentModel.DataAnnotations.Schema.TableAttribute
+  System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor.TypeDescriptorCache
+  System.ComponentModel.DataAnnotations.CustomValidationAttribute.<>c
+  System.ComponentModel.DataAnnotations.FileExtensionsAttribute.<>c
+  System.ComponentModel.DataAnnotations.LocalizableString.<>c__DisplayClass12_0
+  System.ComponentModel.DataAnnotations.LocalizableString.<>c__DisplayClass12_1
+  System.ComponentModel.DataAnnotations.MaxLengthAttribute.<>c
+  System.ComponentModel.DataAnnotations.RangeAttribute.<>c
+  System.ComponentModel.DataAnnotations.RangeAttribute.<>c__DisplayClass23_0
+  System.ComponentModel.DataAnnotations.RegularExpressionAttribute.<>c
+  System.ComponentModel.DataAnnotations.RequiredAttribute.<>c
+  System.ComponentModel.DataAnnotations.StringLengthAttribute.<>c
+  System.ComponentModel.DataAnnotations.UIHintAttribute.UIHintImplementation
+  System.ComponentModel.DataAnnotations.Validator.ValidationError
+  System.ComponentModel.DataAnnotations.Validator.<>c
+  System.ComponentModel.DataAnnotations.ValidationAttribute.<>c
+  System.ComponentModel.DataAnnotations.ValidationAttribute.<>c__DisplayClass7_0
+  System.ComponentModel.DataAnnotations.ValidationAttribute.<>c__DisplayClass29_0
+  System.ComponentModel.DataAnnotations.ValidationAttribute.<>c__DisplayClass30_0
+  System.ComponentModel.DataAnnotations.ValidationAttributeStore.StoreItem
+  System.ComponentModel.DataAnnotations.ValidationAttributeStore.TypeStoreItem
+  System.ComponentModel.DataAnnotations.ValidationAttributeStore.PropertyStoreItem
+  System.ComponentModel.DataAnnotations.ValidationContext.ValidationContextServiceContainer
+  System.ComponentModel.DataAnnotations.ValidationContext.<>c__DisplayClass7_0
+  System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor.TypeDescriptorCache.<>c
+  System.ComponentModel.DataAnnotations.UIHintAttribute.UIHintImplementation.<>c
+---GLOBALS---
+---EXTERNALS---
+  
+  

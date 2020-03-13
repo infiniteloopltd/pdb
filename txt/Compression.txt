@@ -1,0 +1,1851 @@
+Summary for C:\temp\symbols\System.IO.Compression.pdb\62AD487A56C34A9F8CE50F8EB283B0B92\System.IO.Compression.pdb
+  Size: 112128 bytes
+  Guid: {7A48AD62-C356-9F4A-8CE5-0F8EB283B0B9}
+  Age: 2
+  Attributes: HasPrivateSymbols 
+---COMPILANDS---
+  System.IO.Compression.Crc32Helper
+    f:\dd\ndp\fx\src\Sys\System\IO\compression\Crc32Helper.cs
+      Line 74, Column: 13 - 34, Address: [0x00000000 - 0x00000004] (5 bytes)
+      Line 16707566, Address: [0x00000005 - 0x00000006] (2 bytes)
+      Line 78, Column: 17 - 84, Address: [0x00000007 - 0x00000022] (28 bytes)
+      Line 76, Column: 13 - 34, Address: [0x00000023 - 0x0000002b] (9 bytes)
+      Line 81, Column: 13 - 34, Address: [0x0000002c - 0x00000030] (5 bytes)
+      Line 82, Column: 13 - 26, Address: [0x00000031 - 0x00000032] (2 bytes)
+      Line 12 - 65, Column: 9 - 11, Address: [0x00000033 - 0x0000004d] (27 bytes)
+  System.IO.Compression.WrappedStream
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\CustomStreams.cs
+      Line 23, Column: 15 - 76, Address: [0x0000004e - 0x0000005b] (14 bytes)
+      Line 23, Column: 79 - 80, Address: [0x0000005c - 0x0000005c] (1 bytes)
+      Line 25, Column: 9 - 150, Address: [0x0000005d - 0x00000062] (6 bytes)
+      Line 27, Column: 13 - 38, Address: [0x00000063 - 0x00000069] (7 bytes)
+      Line 28, Column: 13 - 34, Address: [0x0000006a - 0x00000071] (8 bytes)
+      Line 29, Column: 13 - 32, Address: [0x00000072 - 0x00000078] (7 bytes)
+      Line 30, Column: 13 - 32, Address: [0x00000079 - 0x00000080] (8 bytes)
+      Line 31, Column: 13 - 34, Address: [0x00000081 - 0x00000087] (7 bytes)
+      Line 32, Column: 13 - 33, Address: [0x00000088 - 0x0000008e] (7 bytes)
+      Line 33, Column: 13 - 48, Address: [0x0000008f - 0x00000096] (8 bytes)
+      Line 34, Column: 9 - 10, Address: [0x00000097 - 0x00000097] (1 bytes)
+      Line 37, Column: 15 - 59, Address: [0x00000098 - 0x000000a2] (11 bytes)
+      Line 37, Column: 62 - 63, Address: [0x000000a3 - 0x000000a3] (1 bytes)
+      Line 47, Column: 17 - 35, Address: [0x000000a4 - 0x000000a9] (6 bytes)
+      Line 48, Column: 17 - 43, Address: [0x000000aa - 0x000000b5] (12 bytes)
+      Line 56, Column: 17 - 35, Address: [0x000000b6 - 0x000000bb] (6 bytes)
+      Line 57, Column: 17 - 45, Address: [0x000000bc - 0x000000c7] (12 bytes)
+      Line 61, Column: 17 - 35, Address: [0x000000c8 - 0x000000cd] (6 bytes)
+      Line 62, Column: 17 - 35, Address: [0x000000ce - 0x000000d3] (6 bytes)
+      Line 64, Column: 17 - 46, Address: [0x000000d4 - 0x000000df] (12 bytes)
+      Line 65, Column: 13 - 14, Address: [0x000000e0 - 0x000000e0] (1 bytes)
+      Line 68, Column: 46 - 85, Address: [0x000000e1 - 0x000000f6] (22 bytes)
+      Line 70, Column: 46 - 85, Address: [0x000000f7 - 0x0000010c] (22 bytes)
+      Line 72, Column: 47 - 88, Address: [0x0000010d - 0x00000122] (22 bytes)
+      Line 80, Column: 13 - 29, Address: [0x00000123 - 0x0000012a] (8 bytes)
+      Line 81, Column: 17 - 121, Address: [0x0000012b - 0x00000140] (22 bytes)
+      Line 82, Column: 9 - 10, Address: [0x00000141 - 0x00000141] (1 bytes)
+      Line 85, Column: 13 - 27, Address: [0x00000142 - 0x00000149] (8 bytes)
+      Line 86, Column: 17 - 101, Address: [0x0000014a - 0x00000154] (11 bytes)
+      Line 87, Column: 9 - 10, Address: [0x00000155 - 0x00000155] (1 bytes)
+      Line 90, Column: 13 - 27, Address: [0x00000156 - 0x0000015d] (8 bytes)
+      Line 91, Column: 17 - 101, Address: [0x0000015e - 0x00000168] (11 bytes)
+      Line 92, Column: 9 - 10, Address: [0x00000169 - 0x00000169] (1 bytes)
+      Line 95, Column: 13 - 26, Address: [0x0000016a - 0x00000171] (8 bytes)
+      Line 96, Column: 17 - 101, Address: [0x00000172 - 0x0000017c] (11 bytes)
+      Line 97, Column: 9 - 10, Address: [0x0000017d - 0x0000017d] (1 bytes)
+      Line 101, Column: 13 - 31, Address: [0x0000017e - 0x00000183] (6 bytes)
+      Line 102, Column: 13 - 31, Address: [0x00000184 - 0x00000189] (6 bytes)
+      Line 104, Column: 13 - 60, Address: [0x0000018a - 0x00000198] (15 bytes)
+      Line 109, Column: 13 - 31, Address: [0x00000199 - 0x0000019e] (6 bytes)
+      Line 110, Column: 13 - 31, Address: [0x0000019f - 0x000001a4] (6 bytes)
+      Line 112, Column: 13 - 53, Address: [0x000001a5 - 0x000001b2] (14 bytes)
+      Line 117, Column: 13 - 31, Address: [0x000001b3 - 0x000001b8] (6 bytes)
+      Line 118, Column: 13 - 31, Address: [0x000001b9 - 0x000001be] (6 bytes)
+      Line 119, Column: 13 - 32, Address: [0x000001bf - 0x000001c4] (6 bytes)
+      Line 121, Column: 13 - 42, Address: [0x000001c5 - 0x000001d0] (12 bytes)
+      Line 122, Column: 9 - 10, Address: [0x000001d1 - 0x000001d1] (1 bytes)
+      Line 126, Column: 13 - 31, Address: [0x000001d2 - 0x000001d7] (6 bytes)
+      Line 127, Column: 13 - 32, Address: [0x000001d8 - 0x000001dd] (6 bytes)
+      Line 129, Column: 13 - 54, Address: [0x000001de - 0x000001eb] (14 bytes)
+      Line 130, Column: 9 - 10, Address: [0x000001ec - 0x000001ec] (1 bytes)
+      Line 134, Column: 13 - 31, Address: [0x000001ed - 0x000001f2] (6 bytes)
+      Line 135, Column: 13 - 32, Address: [0x000001f3 - 0x000001f8] (6 bytes)
+      Line 137, Column: 13 - 33, Address: [0x000001f9 - 0x00000203] (11 bytes)
+      Line 138, Column: 9 - 10, Address: [0x00000204 - 0x00000204] (1 bytes)
+      Line 142, Column: 13 - 43, Address: [0x00000205 - 0x0000020f] (11 bytes)
+      Line 144, Column: 17 - 39, Address: [0x00000210 - 0x00000217] (8 bytes)
+      Line 145, Column: 21 - 43, Address: [0x00000218 - 0x00000224] (13 bytes)
+      Line 147, Column: 17 - 38, Address: [0x00000225 - 0x0000022c] (8 bytes)
+      Line 148, Column: 21 - 43, Address: [0x0000022d - 0x00000237] (11 bytes)
+      Line 150, Column: 17 - 34, Address: [0x00000238 - 0x0000023e] (7 bytes)
+      Line 151, Column: 17 - 35, Address: [0x0000023f - 0x00000245] (7 bytes)
+      Line 152, Column: 17 - 34, Address: [0x00000246 - 0x0000024c] (7 bytes)
+      Line 153, Column: 17 - 36, Address: [0x0000024d - 0x00000253] (7 bytes)
+      Line 155, Column: 13 - 37, Address: [0x00000254 - 0x0000025a] (7 bytes)
+      Line 156, Column: 9 - 10, Address: [0x0000025b - 0x0000025b] (1 bytes)
+  System.IO.Compression.SubReadStream
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\CustomStreams.cs
+      Line 176, Column: 9 - 85, Address: [0x0000025c - 0x00000261] (6 bytes)
+      Line 178, Column: 13 - 49, Address: [0x00000262 - 0x00000268] (7 bytes)
+      Line 179, Column: 13 - 52, Address: [0x00000269 - 0x0000026f] (7 bytes)
+      Line 180, Column: 13 - 59, Address: [0x00000270 - 0x00000278] (9 bytes)
+      Line 181, Column: 13 - 40, Address: [0x00000279 - 0x0000027f] (7 bytes)
+      Line 182, Column: 13 - 29, Address: [0x00000280 - 0x00000286] (7 bytes)
+      Line 183, Column: 13 - 33, Address: [0x00000287 - 0x0000028d] (7 bytes)
+      Line 184, Column: 9 - 10, Address: [0x0000028e - 0x0000028e] (1 bytes)
+      Line 196, Column: 17 - 35, Address: [0x0000028f - 0x00000294] (6 bytes)
+      Line 198, Column: 17 - 64, Address: [0x00000295 - 0x000002a2] (14 bytes)
+      Line 208, Column: 17 - 35, Address: [0x000002a3 - 0x000002a8] (6 bytes)
+      Line 210, Column: 17 - 69, Address: [0x000002a9 - 0x000002b6] (14 bytes)
+      Line 214, Column: 17 - 35, Address: [0x000002b7 - 0x000002bc] (6 bytes)
+      Line 216, Column: 17 - 101, Address: [0x000002bd - 0x000002c7] (11 bytes)
+      Line 220, Column: 46 - 86, Address: [0x000002c8 - 0x000002dd] (22 bytes)
+      Line 222, Column: 46 - 59, Address: [0x000002de - 0x000002df] (2 bytes)
+      Line 224, Column: 47 - 60, Address: [0x000002e0 - 0x000002e1] (2 bytes)
+      Line 232, Column: 13 - 29, Address: [0x000002e2 - 0x000002e9] (8 bytes)
+      Line 233, Column: 17 - 121, Address: [0x000002ea - 0x000002ff] (22 bytes)
+      Line 234, Column: 9 - 10, Address: [0x00000300 - 0x00000300] (1 bytes)
+      Line 237, Column: 13 - 26, Address: [0x00000301 - 0x00000308] (8 bytes)
+      Line 238, Column: 17 - 101, Address: [0x00000309 - 0x00000313] (11 bytes)
+      Line 239, Column: 9 - 10, Address: [0x00000314 - 0x00000314] (1 bytes)
+      Line 244, Column: 13 - 35, Address: [0x00000315 - 0x00000316] (2 bytes)
+      Line 246, Column: 13 - 31, Address: [0x00000317 - 0x0000031c] (6 bytes)
+      Line 247, Column: 13 - 31, Address: [0x0000031d - 0x00000322] (6 bytes)
+      Line 249, Column: 13 - 65, Address: [0x00000323 - 0x00000335] (19 bytes)
+      Line 250, Column: 17 - 77, Address: [0x00000336 - 0x00000348] (19 bytes)
+      Line 251, Column: 13 - 68, Address: [0x00000349 - 0x00000359] (17 bytes)
+      Line 252, Column: 17 - 75, Address: [0x0000035a - 0x00000369] (16 bytes)
+      Line 257, Column: 13 - 64, Address: [0x0000036a - 0x00000378] (15 bytes)
+      Line 259, Column: 13 - 43, Address: [0x00000379 - 0x00000387] (15 bytes)
+      Line 260, Column: 13 - 24, Address: [0x00000388 - 0x00000389] (2 bytes)
+      Line 265, Column: 13 - 31, Address: [0x0000038a - 0x0000038f] (6 bytes)
+      Line 266, Column: 13 - 97, Address: [0x00000390 - 0x0000039a] (11 bytes)
+      Line 271, Column: 13 - 31, Address: [0x0000039b - 0x000003a0] (6 bytes)
+      Line 272, Column: 13 - 112, Address: [0x000003a1 - 0x000003ab] (11 bytes)
+      Line 277, Column: 13 - 31, Address: [0x000003ac - 0x000003b1] (6 bytes)
+      Line 278, Column: 13 - 97, Address: [0x000003b2 - 0x000003bc] (11 bytes)
+      Line 283, Column: 13 - 31, Address: [0x000003bd - 0x000003c2] (6 bytes)
+      Line 284, Column: 13 - 97, Address: [0x000003c3 - 0x000003cd] (11 bytes)
+      Line 291, Column: 13 - 43, Address: [0x000003ce - 0x000003d8] (11 bytes)
+      Line 293, Column: 17 - 34, Address: [0x000003d9 - 0x000003df] (7 bytes)
+      Line 294, Column: 17 - 36, Address: [0x000003e0 - 0x000003e6] (7 bytes)
+      Line 296, Column: 13 - 37, Address: [0x000003e7 - 0x000003ed] (7 bytes)
+      Line 297, Column: 9 - 10, Address: [0x000003ee - 0x000003ee] (1 bytes)
+  System.IO.Compression.CheckSumAndSizeWriteStream
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\CustomStreams.cs
+      Line 333 - 334, Column: 9 - 116, Address: [0x000003ef - 0x000003f4] (6 bytes)
+      Line 336, Column: 13 - 38, Address: [0x000003f5 - 0x000003fb] (7 bytes)
+      Line 337, Column: 13 - 46, Address: [0x000003fc - 0x00000402] (7 bytes)
+      Line 338, Column: 13 - 27, Address: [0x00000403 - 0x0000040a] (8 bytes)
+      Line 339, Column: 13 - 27, Address: [0x0000040b - 0x00000411] (7 bytes)
+      Line 340, Column: 13 - 50, Address: [0x00000412 - 0x00000418] (7 bytes)
+      Line 341, Column: 13 - 30, Address: [0x00000419 - 0x0000041f] (7 bytes)
+      Line 342, Column: 13 - 33, Address: [0x00000420 - 0x00000426] (7 bytes)
+      Line 343, Column: 13 - 34, Address: [0x00000427 - 0x0000042e] (8 bytes)
+      Line 344, Column: 13 - 48, Address: [0x0000042f - 0x00000436] (8 bytes)
+      Line 345, Column: 9 - 10, Address: [0x00000437 - 0x00000437] (1 bytes)
+      Line 355, Column: 17 - 35, Address: [0x00000438 - 0x0000043d] (6 bytes)
+      Line 356, Column: 17 - 101, Address: [0x0000043e - 0x00000448] (11 bytes)
+      Line 365, Column: 17 - 35, Address: [0x00000449 - 0x0000044e] (6 bytes)
+      Line 366, Column: 17 - 34, Address: [0x0000044f - 0x00000455] (7 bytes)
+      Line 370, Column: 17 - 35, Address: [0x00000456 - 0x0000045b] (6 bytes)
+      Line 371, Column: 17 - 101, Address: [0x0000045c - 0x00000466] (11 bytes)
+      Line 375, Column: 49 - 62, Address: [0x00000467 - 0x00000468] (2 bytes)
+      Line 377, Column: 49 - 62, Address: [0x00000469 - 0x0000046a] (2 bytes)
+      Line 379, Column: 50 - 67, Address: [0x0000046b - 0x00000471] (7 bytes)
+      Line 387, Column: 13 - 29, Address: [0x00000472 - 0x00000479] (8 bytes)
+      Line 388, Column: 17 - 121, Address: [0x0000047a - 0x0000048f] (22 bytes)
+      Line 389, Column: 9 - 10, Address: [0x00000490 - 0x00000490] (1 bytes)
+      Line 393, Column: 13 - 31, Address: [0x00000491 - 0x00000496] (6 bytes)
+      Line 394, Column: 13 - 97, Address: [0x00000497 - 0x000004a1] (11 bytes)
+      Line 399, Column: 13 - 31, Address: [0x000004a2 - 0x000004a7] (6 bytes)
+      Line 400, Column: 13 - 97, Address: [0x000004a8 - 0x000004b2] (11 bytes)
+      Line 405, Column: 13 - 31, Address: [0x000004b3 - 0x000004b8] (6 bytes)
+      Line 406, Column: 13 - 112, Address: [0x000004b9 - 0x000004c3] (11 bytes)
+      Line 412, Column: 13 - 32, Address: [0x000004c4 - 0x000004c6] (3 bytes)
+      Line 413, Column: 17 - 59, Address: [0x000004c7 - 0x000004d1] (11 bytes)
+      Line 414, Column: 13 - 28, Address: [0x000004d2 - 0x000004d5] (4 bytes)
+      Line 415, Column: 17 - 121, Address: [0x000004d6 - 0x000004e5] (16 bytes)
+      Line 416, Column: 13 - 27, Address: [0x000004e6 - 0x000004e9] (4 bytes)
+      Line 417, Column: 17 - 120, Address: [0x000004ea - 0x000004f9] (16 bytes)
+      Line 418, Column: 13 - 50, Address: [0x000004fa - 0x00000501] (8 bytes)
+      Line 419, Column: 17 - 97, Address: [0x00000502 - 0x0000050c] (11 bytes)
+      Line 423, Column: 13 - 31, Address: [0x0000050d - 0x00000512] (6 bytes)
+      Line 426, Column: 13 - 28, Address: [0x00000513 - 0x00000515] (3 bytes)
+      Line 427, Column: 17 - 24, Address: [0x00000516 - 0x00000516] (1 bytes)
+      Line 429, Column: 13 - 31, Address: [0x00000517 - 0x0000051e] (8 bytes)
+      Line 431, Column: 17 - 61, Address: [0x0000051f - 0x0000052f] (17 bytes)
+      Line 432, Column: 17 - 37, Address: [0x00000530 - 0x00000536] (7 bytes)
+      Line 435, Column: 13 - 83, Address: [0x00000537 - 0x0000054a] (20 bytes)
+      Line 436, Column: 13 - 54, Address: [0x0000054b - 0x00000558] (14 bytes)
+      Line 437, Column: 13 - 32, Address: [0x00000559 - 0x00000567] (15 bytes)
+      Line 438, Column: 9 - 10, Address: [0x00000568 - 0x00000568] (1 bytes)
+      Line 442, Column: 13 - 31, Address: [0x00000569 - 0x0000056e] (6 bytes)
+      Line 447, Column: 13 - 33, Address: [0x0000056f - 0x00000579] (11 bytes)
+      Line 448, Column: 9 - 10, Address: [0x0000057a - 0x0000057a] (1 bytes)
+      Line 452, Column: 13 - 43, Address: [0x0000057b - 0x00000585] (11 bytes)
+      Line 455, Column: 17 - 35, Address: [0x00000586 - 0x0000058d] (8 bytes)
+      Line 456, Column: 21 - 65, Address: [0x0000058e - 0x0000059e] (17 bytes)
+      Line 457, Column: 17 - 40, Address: [0x0000059f - 0x000005a6] (8 bytes)
+      Line 458, Column: 21 - 41, Address: [0x000005a7 - 0x000005b1] (11 bytes)
+      Line 459, Column: 17 - 46, Address: [0x000005b2 - 0x000005b9] (8 bytes)
+      Line 460, Column: 21 - 77, Address: [0x000005ba - 0x000005d6] (29 bytes)
+      Line 461, Column: 17 - 36, Address: [0x000005d7 - 0x000005dd] (7 bytes)
+      Line 463, Column: 13 - 37, Address: [0x000005de - 0x000005e4] (7 bytes)
+      Line 464, Column: 9 - 10, Address: [0x000005e5 - 0x000005e5] (1 bytes)
+  System.IO.Compression.ZipArchive
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\ZipArchive.cs
+      Line 48, Column: 44 - 120, Address: [0x000005e6 - 0x000005ef] (10 bytes)
+      Line 48, Column: 123 - 124, Address: [0x000005f0 - 0x000005f0] (1 bytes)
+      Line 60, Column: 65 - 126, Address: [0x000005f1 - 0x000005fa] (10 bytes)
+      Line 60, Column: 129 - 130, Address: [0x000005fb - 0x000005fb] (1 bytes)
+      Line 73, Column: 84 - 138, Address: [0x000005fc - 0x00000605] (10 bytes)
+      Line 73, Column: 141 - 142, Address: [0x00000606 - 0x00000606] (1 bytes)
+      Line 126, Column: 9 - 109, Address: [0x00000607 - 0x0000060c] (6 bytes)
+      Line 128, Column: 13 - 32, Address: [0x0000060d - 0x0000060f] (3 bytes)
+      Line 129, Column: 17 - 59, Address: [0x00000610 - 0x0000061a] (11 bytes)
+      Line 136, Column: 13 - 56, Address: [0x0000061b - 0x00000622] (8 bytes)
+      Line 137, Column: 13 - 48, Address: [0x00000623 - 0x0000062b] (9 bytes)
+      Line 138, Column: 9 - 10, Address: [0x0000062c - 0x0000062c] (1 bytes)
+      Line 153, Column: 17 - 52, Address: [0x0000062d - 0x00000635] (9 bytes)
+      Line 154, Column: 21 - 105, Address: [0x00000636 - 0x00000640] (11 bytes)
+      Line 156, Column: 17 - 35, Address: [0x00000641 - 0x00000646] (6 bytes)
+      Line 158, Column: 17 - 46, Address: [0x00000647 - 0x0000064c] (6 bytes)
+      Line 159, Column: 17 - 43, Address: [0x0000064d - 0x00000653] (7 bytes)
+      Line 173, Column: 13 - 26, Address: [0x00000654 - 0x0000065a] (7 bytes)
+      Line 196, Column: 13 - 51, Address: [0x0000065b - 0x0000066b] (17 bytes)
+      Line 215, Column: 13 - 63, Address: [0x0000066c - 0x00000679] (14 bytes)
+      Line 225, Column: 13 - 43, Address: [0x0000067a - 0x00000684] (11 bytes)
+      Line 227, Column: 17 - 31, Address: [0x00000685 - 0x00000694] (16 bytes)
+      Line 16707566, Address: [0x00000695 - 0x00000695] (1 bytes)
+      Line 237, Column: 29 - 41, Address: [0x00000696 - 0x0000069b] (6 bytes)
+      Line 238, Column: 25 - 26, Address: [0x0000069c - 0x0000069d] (2 bytes)
+      Line 239, Column: 25 - 53, Address: [0x0000069e - 0x0000069e] (1 bytes)
+      Line 241, Column: 29 - 44, Address: [0x0000069f - 0x000006a4] (6 bytes)
+      Line 242, Column: 29 - 48, Address: [0x000006a5 - 0x000006ab] (7 bytes)
+      Line 243, Column: 29 - 35, Address: [0x000006ac - 0x000006ad] (2 bytes)
+      Line 248, Column: 17 - 32, Address: [0x000006ae - 0x000006b3] (6 bytes)
+      Line 250, Column: 17 - 36, Address: [0x000006b4 - 0x000006ba] (7 bytes)
+      Line 252, Column: 9 - 10, Address: [0x000006bb - 0x000006bb] (1 bytes)
+      Line 259, Column: 13 - 27, Address: [0x000006bc - 0x000006c2] (7 bytes)
+      Line 260, Column: 13 - 39, Address: [0x000006c3 - 0x000006c8] (6 bytes)
+      Line 261, Column: 9 - 10, Address: [0x000006c9 - 0x000006c9] (1 bytes)
+      Line 276, Column: 13 - 35, Address: [0x000006ca - 0x000006cc] (3 bytes)
+      Line 277, Column: 17 - 62, Address: [0x000006cd - 0x000006d7] (11 bytes)
+      Line 280, Column: 13 - 48, Address: [0x000006d8 - 0x000006e0] (9 bytes)
+      Line 281, Column: 17 - 101, Address: [0x000006e1 - 0x000006eb] (11 bytes)
+      Line 283, Column: 13 - 42, Address: [0x000006ec - 0x000006f1] (6 bytes)
+      Line 285, Column: 13 - 67, Address: [0x000006f2 - 0x00000700] (15 bytes)
+      Line 286, Column: 13 - 27, Address: [0x00000701 - 0x00000702] (2 bytes)
+      Line 294, Column: 53 - 75, Address: [0x00000703 - 0x00000709] (7 bytes)
+      Line 296, Column: 47 - 69, Address: [0x0000070a - 0x00000710] (7 bytes)
+      Line 298, Column: 50 - 75, Address: [0x00000711 - 0x00000717] (7 bytes)
+      Line 302, Column: 19 - 45, Address: [0x00000718 - 0x0000071e] (7 bytes)
+      Line 321 - 330, Column: 17 - 27, Address: [0x0000071f - 0x00000755] (55 bytes)
+      Line 332, Column: 21 - 132, Address: [0x00000756 - 0x00000765] (16 bytes)
+      Line 335, Column: 17 - 44, Address: [0x00000766 - 0x0000076c] (7 bytes)
+      Line 336, Column: 13 - 14, Address: [0x0000076d - 0x0000076d] (1 bytes)
+      Line 347, Column: 13 - 35, Address: [0x0000076e - 0x00000770] (3 bytes)
+      Line 348, Column: 17 - 62, Address: [0x00000771 - 0x0000077b] (11 bytes)
+      Line 350, Column: 13 - 49, Address: [0x0000077c - 0x00000783] (8 bytes)
+      Line 351, Column: 17 - 104, Address: [0x00000784 - 0x00000793] (16 bytes)
+      Line 353, Column: 13 - 46, Address: [0x00000794 - 0x0000079b] (8 bytes)
+      Line 354, Column: 17 - 98, Address: [0x0000079c - 0x000007a6] (11 bytes)
+      Line 356, Column: 13 - 31, Address: [0x000007a7 - 0x000007ac] (6 bytes)
+      Line 359 - 361, Column: 13 - 80, Address: [0x000007ad - 0x000007cd] (33 bytes)
+      Line 362, Column: 13 - 29, Address: [0x000007ce - 0x000007d4] (7 bytes)
+      Line 364, Column: 13 - 26, Address: [0x000007d5 - 0x000007d6] (2 bytes)
+      Line 371, Column: 13 - 45, Address: [0x000007d7 - 0x000007de] (8 bytes)
+      Line 373, Column: 17 - 61, Address: [0x000007df - 0x000007eb] (13 bytes)
+      Line 375, Column: 21 - 68, Address: [0x000007ec - 0x000007f6] (11 bytes)
+      Line 376, Column: 17 - 18, Address: [0x000007f7 - 0x000007f8] (2 bytes)
+      Line 379, Column: 21 - 106, Address: [0x000007f9 - 0x00000803] (11 bytes)
+      Line 383, Column: 13 - 41, Address: [0x00000804 - 0x0000080a] (7 bytes)
+      Line 384, Column: 9 - 10, Address: [0x0000080b - 0x0000080b] (1 bytes)
+      Line 389, Column: 13 - 33, Address: [0x0000080c - 0x00000817] (12 bytes)
+      Line 391, Column: 13 - 47, Address: [0x00000818 - 0x0000081e] (7 bytes)
+      Line 392, Column: 13 - 60, Address: [0x0000081f - 0x0000082c] (14 bytes)
+      Line 394, Column: 17 - 58, Address: [0x0000082d - 0x00000839] (13 bytes)
+      Line 396, Column: 9 - 10, Address: [0x0000083a - 0x0000083a] (1 bytes)
+      Line 402, Column: 13 - 49, Address: [0x0000083b - 0x00000844] (10 bytes)
+      Line 410, Column: 13 - 40, Address: [0x00000845 - 0x0000084b] (7 bytes)
+      Line 411, Column: 9 - 10, Address: [0x0000084c - 0x0000084c] (1 bytes)
+      Line 416, Column: 13 - 36, Address: [0x0000084d - 0x00000859] (13 bytes)
+      Line 418, Column: 13 - 55, Address: [0x0000085a - 0x0000086b] (18 bytes)
+      Line 419, Column: 9 - 10, Address: [0x0000086c - 0x0000086c] (1 bytes)
+      Line 424, Column: 13 - 29, Address: [0x0000086d - 0x00000874] (8 bytes)
+      Line 425, Column: 17 - 72, Address: [0x00000875 - 0x00000885] (17 bytes)
+      Line 426, Column: 9 - 10, Address: [0x00000886 - 0x00000886] (1 bytes)
+      Line 431, Column: 13 - 29, Address: [0x00000887 - 0x0000088e] (8 bytes)
+      Line 433, Column: 17 - 40, Address: [0x0000088f - 0x00000899] (11 bytes)
+      Line 434, Column: 17 - 44, Address: [0x0000089a - 0x000008a1] (8 bytes)
+      Line 435, Column: 21 - 44, Address: [0x000008a2 - 0x000008ac] (11 bytes)
+      Line 436, Column: 17 - 44, Address: [0x000008ad - 0x000008b4] (8 bytes)
+      Line 437, Column: 21 - 44, Address: [0x000008b5 - 0x000008bf] (11 bytes)
+      Line 438, Column: 13 - 14, Address: [0x000008c0 - 0x000008c0] (1 bytes)
+      Line 445, Column: 17 - 44, Address: [0x000008c1 - 0x000008c8] (8 bytes)
+      Line 446, Column: 21 - 44, Address: [0x000008c9 - 0x000008d3] (11 bytes)
+      Line 448, Column: 9 - 10, Address: [0x000008d4 - 0x000008d4] (1 bytes)
+      Line 453, Column: 13 - 31, Address: [0x000008d5 - 0x000008dc] (8 bytes)
+      Line 455, Column: 17 - 40, Address: [0x000008dd - 0x000008e2] (6 bytes)
+      Line 456, Column: 17 - 37, Address: [0x000008e3 - 0x000008e9] (7 bytes)
+      Line 458, Column: 9 - 10, Address: [0x000008ea - 0x000008ea] (1 bytes)
+      Line 463, Column: 13 - 43, Address: [0x000008eb - 0x000008ec] (2 bytes)
+      Line 467, Column: 17 - 39, Address: [0x000008ed - 0x000008f3] (7 bytes)
+      Line 470, Column: 17 - 30, Address: [0x000008f4 - 0x00000907] (20 bytes)
+      Line 473, Column: 25 - 46, Address: [0x00000908 - 0x0000090f] (8 bytes)
+      Line 474, Column: 29 - 112, Address: [0x00000910 - 0x0000091a] (11 bytes)
+      Line 477, Column: 25 - 45, Address: [0x0000091b - 0x00000922] (8 bytes)
+      Line 478, Column: 29 - 110, Address: [0x00000923 - 0x0000092d] (11 bytes)
+      Line 479, Column: 25 - 45, Address: [0x0000092e - 0x00000935] (8 bytes)
+      Line 481, Column: 29 - 53, Address: [0x00000936 - 0x0000093c] (7 bytes)
+      Line 482, Column: 29 - 75, Address: [0x0000093d - 0x00000945] (9 bytes)
+      Line 483, Column: 29 - 59, Address: [0x00000946 - 0x00000951] (12 bytes)
+      Line 484, Column: 29 - 62, Address: [0x00000952 - 0x0000095b] (10 bytes)
+      Line 486, Column: 25 - 31, Address: [0x0000095c - 0x0000095d] (2 bytes)
+      Line 488, Column: 25 - 84, Address: [0x0000095e - 0x00000975] (24 bytes)
+      Line 489, Column: 29 - 112, Address: [0x00000976 - 0x00000980] (11 bytes)
+      Line 493, Column: 25 - 71, Address: [0x00000981 - 0x0000098b] (11 bytes)
+      Line 496, Column: 17 - 30, Address: [0x0000098c - 0x00000992] (7 bytes)
+      Line 497, Column: 17 - 41, Address: [0x00000993 - 0x00000999] (7 bytes)
+      Line 498, Column: 17 - 44, Address: [0x0000099a - 0x000009a0] (7 bytes)
+      Line 499, Column: 17 - 51, Address: [0x000009a1 - 0x000009a4] (4 bytes)
+      Line 500, Column: 21 - 43, Address: [0x000009a5 - 0x000009ad] (9 bytes)
+      Line 502, Column: 21 - 63, Address: [0x000009ae - 0x000009b9] (12 bytes)
+      Line 503, Column: 17 - 56, Address: [0x000009ba - 0x000009c4] (11 bytes)
+      Line 504, Column: 17 - 88, Address: [0x000009c5 - 0x000009d5] (17 bytes)
+      Line 505, Column: 17 - 80, Address: [0x000009d6 - 0x000009e0] (11 bytes)
+      Line 506, Column: 17 - 38, Address: [0x000009e1 - 0x000009e7] (7 bytes)
+      Line 507, Column: 17 - 40, Address: [0x000009e8 - 0x000009ee] (7 bytes)
+      Line 508, Column: 17 - 44, Address: [0x000009ef - 0x000009f6] (8 bytes)
+      Line 509, Column: 17 - 37, Address: [0x000009f7 - 0x000009fd] (7 bytes)
+      Line 510, Column: 17 - 39, Address: [0x000009fe - 0x00000a04] (7 bytes)
+      Line 511, Column: 17 - 40, Address: [0x00000a05 - 0x00000a0b] (7 bytes)
+      Line 513, Column: 17 - 30, Address: [0x00000a0c - 0x00000a1f] (20 bytes)
+      Line 516, Column: 25 - 45, Address: [0x00000a20 - 0x00000a26] (7 bytes)
+      Line 517, Column: 25 - 31, Address: [0x00000a27 - 0x00000a28] (2 bytes)
+      Line 519, Column: 25 - 53, Address: [0x00000a29 - 0x00000a2e] (6 bytes)
+      Line 520, Column: 25 - 31, Address: [0x00000a2f - 0x00000a30] (2 bytes)
+      Line 524, Column: 25 - 56, Address: [0x00000a31 - 0x00000a3d] (13 bytes)
+      Line 526, Column: 29 - 49, Address: [0x00000a3e - 0x00000a44] (7 bytes)
+      Line 527, Column: 25 - 26, Address: [0x00000a45 - 0x00000a46] (2 bytes)
+      Line 530, Column: 29 - 57, Address: [0x00000a47 - 0x00000a4c] (6 bytes)
+      Line 531, Column: 29 - 58, Address: [0x00000a4d - 0x00000a52] (6 bytes)
+      Line 532, Column: 63 - 71, Address: [0x00000a53 - 0x00000a5e] (12 bytes)
+      Line 16707566, Address: [0x00000a5f - 0x00000a60] (2 bytes)
+      Line 532, Column: 38 - 59, Address: [0x00000a61 - 0x00000a68] (8 bytes)
+      Line 534, Column: 33 - 71, Address: [0x00000a69 - 0x00000a70] (8 bytes)
+      Line 532, Column: 60 - 62, Address: [0x00000a71 - 0x00000a7b] (11 bytes)
+      Line 16707566, Address: [0x00000a7c - 0x00000a89] (14 bytes)
+      Line 539, Column: 13 - 14, Address: [0x00000a8a - 0x00000a8b] (2 bytes)
+      Line 540, Column: 13 - 18, Address: [0x00000a8c - 0x00000a8c] (1 bytes)
+      Line 542, Column: 17 - 45, Address: [0x00000a8d - 0x00000a8f] (3 bytes)
+      Line 543, Column: 21 - 45, Address: [0x00000a90 - 0x00000a95] (6 bytes)
+      Line 545, Column: 17 - 23, Address: [0x00000a96 - 0x00000a97] (2 bytes)
+      Line 547, Column: 9 - 10, Address: [0x00000a98 - 0x00000a98] (1 bytes)
+      Line 556, Column: 17 - 79, Address: [0x00000a99 - 0x00000aab] (19 bytes)
+      Line 558, Column: 17 - 43, Address: [0x00000aac - 0x00000aae] (3 bytes)
+      Line 562, Column: 17 - 84, Address: [0x00000aaf - 0x00000ab8] (10 bytes)
+      Line 16707566, Address: [0x00000ab9 - 0x00000aba] (2 bytes)
+      Line 566, Column: 21 - 72, Address: [0x00000abb - 0x00000ac7] (13 bytes)
+      Line 567, Column: 21 - 39, Address: [0x00000ac8 - 0x00000acc] (5 bytes)
+      Line 563 - 564, Column: 17 - 104, Address: [0x00000acd - 0x00000adc] (16 bytes)
+      Line 570, Column: 17 - 65, Address: [0x00000add - 0x00000ae5] (9 bytes)
+      Line 571, Column: 21 - 100, Address: [0x00000ae6 - 0x00000af0] (11 bytes)
+      Line 572, Column: 13 - 14, Address: [0x00000af1 - 0x00000af2] (2 bytes)
+      Line 573, Column: 13 - 44, Address: [0x00000af3 - 0x00000af3] (1 bytes)
+      Line 575, Column: 17 - 108, Address: [0x00000af4 - 0x00000aff] (12 bytes)
+      Line 577, Column: 9 - 10, Address: [0x00000b00 - 0x00000b00] (1 bytes)
+      Line 589, Column: 17 - 113, Address: [0x00000b01 - 0x00000b10] (16 bytes)
+      Line 590, Column: 17 - 122, Address: [0x00000b11 - 0x00000b22] (18 bytes)
+      Line 591, Column: 21 - 97, Address: [0x00000b23 - 0x00000b2d] (11 bytes)
+      Line 593, Column: 17 - 59, Address: [0x00000b2e - 0x00000b39] (12 bytes)
+      Line 597, Column: 17 - 107, Address: [0x00000b3a - 0x00000b47] (14 bytes)
+      Line 600, Column: 17 - 100, Address: [0x00000b48 - 0x00000b55] (14 bytes)
+      Line 601, Column: 21 - 97, Address: [0x00000b56 - 0x00000b60] (11 bytes)
+      Line 603, Column: 17 - 59, Address: [0x00000b61 - 0x00000b6c] (12 bytes)
+      Line 604, Column: 17 - 113, Address: [0x00000b6d - 0x00000b79] (13 bytes)
+      Line 605, Column: 17 - 118, Address: [0x00000b7a - 0x00000b87] (14 bytes)
+      Line 606, Column: 21 - 97, Address: [0x00000b88 - 0x00000b92] (11 bytes)
+      Line 607, Column: 17 - 86, Address: [0x00000b93 - 0x00000b9f] (13 bytes)
+      Line 610, Column: 17 - 52, Address: [0x00000ba0 - 0x00000ba8] (9 bytes)
+      Line 611, Column: 21 - 59, Address: [0x00000ba9 - 0x00000bb4] (12 bytes)
+      Line 616 - 618, Column: 17 - 93, Address: [0x00000bb5 - 0x00000bda] (38 bytes)
+      Line 622, Column: 21 - 134, Address: [0x00000bdb - 0x00000bec] (18 bytes)
+      Line 624, Column: 21 - 129, Address: [0x00000bed - 0x00000c01] (21 bytes)
+      Line 628, Column: 25 - 134, Address: [0x00000c02 - 0x00000c10] (15 bytes)
+      Line 631, Column: 25 - 80, Address: [0x00000c11 - 0x00000c21] (17 bytes)
+      Line 632, Column: 29 - 121, Address: [0x00000c22 - 0x00000c2c] (11 bytes)
+      Line 633, Column: 25 - 82, Address: [0x00000c2d - 0x00000c34] (8 bytes)
+      Line 635, Column: 25 - 80, Address: [0x00000c35 - 0x00000c43] (15 bytes)
+      Line 639, Column: 25 - 104, Address: [0x00000c44 - 0x00000c52] (15 bytes)
+      Line 640, Column: 29 - 118, Address: [0x00000c53 - 0x00000c5d] (11 bytes)
+      Line 642, Column: 25 - 69, Address: [0x00000c5e - 0x00000c6a] (13 bytes)
+      Line 644, Column: 25 - 82, Address: [0x00000c6b - 0x00000c7c] (18 bytes)
+      Line 645, Column: 29 - 114, Address: [0x00000c7d - 0x00000c87] (11 bytes)
+      Line 646, Column: 25 - 86, Address: [0x00000c88 - 0x00000c99] (18 bytes)
+      Line 647, Column: 29 - 114, Address: [0x00000c9a - 0x00000ca4] (11 bytes)
+      Line 648, Column: 25 - 93, Address: [0x00000ca5 - 0x00000cb4] (16 bytes)
+      Line 649, Column: 29 - 105, Address: [0x00000cb5 - 0x00000cbf] (11 bytes)
+      Line 651, Column: 25 - 87, Address: [0x00000cc0 - 0x00000ccc] (13 bytes)
+      Line 652, Column: 25 - 89, Address: [0x00000ccd - 0x00000cd9] (13 bytes)
+      Line 656, Column: 17 - 68, Address: [0x00000cda - 0x00000cec] (19 bytes)
+      Line 658, Column: 21 - 106, Address: [0x00000ced - 0x00000cf7] (11 bytes)
+      Line 660, Column: 13 - 14, Address: [0x00000cf8 - 0x00000cf9] (2 bytes)
+      Line 661, Column: 13 - 44, Address: [0x00000cfa - 0x00000cfb] (2 bytes)
+      Line 663, Column: 17 - 94, Address: [0x00000cfc - 0x00000d08] (13 bytes)
+      Line 665, Column: 13 - 35, Address: [0x00000d09 - 0x00000d0a] (2 bytes)
+      Line 667, Column: 17 - 94, Address: [0x00000d0b - 0x00000d17] (13 bytes)
+      Line 669, Column: 9 - 10, Address: [0x00000d18 - 0x00000d18] (1 bytes)
+      Line 679, Column: 13 - 48, Address: [0x00000d19 - 0x00000d24] (12 bytes)
+      Line 681, Column: 17 - 85, Address: [0x00000d25 - 0x00000d2a] (6 bytes)
+      Line 682, Column: 51 - 59, Address: [0x00000d2b - 0x00000d36] (12 bytes)
+      Line 16707566, Address: [0x00000d37 - 0x00000d38] (2 bytes)
+      Line 682, Column: 26 - 47, Address: [0x00000d39 - 0x00000d41] (9 bytes)
+      Line 684, Column: 21 - 86, Address: [0x00000d42 - 0x00000d4a] (9 bytes)
+      Line 685, Column: 25 - 52, Address: [0x00000d4b - 0x00000d52] (8 bytes)
+      Line 682, Column: 48 - 50, Address: [0x00000d53 - 0x00000d5d] (11 bytes)
+      Line 16707566, Address: [0x00000d5e - 0x00000d6b] (14 bytes)
+      Line 687, Column: 51 - 66, Address: [0x00000d6c - 0x00000d73] (8 bytes)
+      Line 16707566, Address: [0x00000d74 - 0x00000d75] (2 bytes)
+      Line 687, Column: 26 - 47, Address: [0x00000d76 - 0x00000d7e] (9 bytes)
+      Line 688, Column: 21 - 36, Address: [0x00000d7f - 0x00000d85] (7 bytes)
+      Line 687, Column: 48 - 50, Address: [0x00000d86 - 0x00000d90] (11 bytes)
+      Line 16707566, Address: [0x00000d91 - 0x00000d9e] (14 bytes)
+      Line 690, Column: 17 - 58, Address: [0x00000d9f - 0x00000dad] (15 bytes)
+      Line 691, Column: 17 - 45, Address: [0x00000dae - 0x00000dba] (13 bytes)
+      Line 695, Column: 47 - 55, Address: [0x00000dbb - 0x00000dc7] (13 bytes)
+      Line 16707566, Address: [0x00000dc8 - 0x00000dc9] (2 bytes)
+      Line 695, Column: 22 - 43, Address: [0x00000dca - 0x00000dd2] (9 bytes)
+      Line 697, Column: 17 - 50, Address: [0x00000dd3 - 0x00000dd9] (7 bytes)
+      Line 695, Column: 44 - 46, Address: [0x00000dda - 0x00000de4] (11 bytes)
+      Line 16707566, Address: [0x00000de5 - 0x00000df2] (14 bytes)
+      Line 700, Column: 13 - 69, Address: [0x00000df3 - 0x00000dfe] (12 bytes)
+      Line 702, Column: 47 - 55, Address: [0x00000dff - 0x00000e0b] (13 bytes)
+      Line 16707566, Address: [0x00000e0c - 0x00000e0d] (2 bytes)
+      Line 702, Column: 22 - 43, Address: [0x00000e0e - 0x00000e16] (9 bytes)
+      Line 704, Column: 17 - 57, Address: [0x00000e17 - 0x00000e1d] (7 bytes)
+      Line 702, Column: 44 - 46, Address: [0x00000e1e - 0x00000e28] (11 bytes)
+      Line 16707566, Address: [0x00000e29 - 0x00000e36] (14 bytes)
+      Line 707, Column: 13 - 94, Address: [0x00000e37 - 0x00000e44] (14 bytes)
+      Line 709, Column: 13 - 83, Address: [0x00000e45 - 0x00000e4c] (8 bytes)
+      Line 711, Column: 9 - 10, Address: [0x00000e4d - 0x00000e4d] (1 bytes)
+      Line 719, Column: 13 - 39, Address: [0x00000e4e - 0x00000e4f] (2 bytes)
+      Line 721 - 727, Column: 13 - 2, Address: [0x00000e50 - 0x00000e6b] (28 bytes)
+      Line 728, Column: 17 - 34, Address: [0x00000e6c - 0x00000e6d] (2 bytes)
+      Line 731, Column: 13 - 27, Address: [0x00000e6e - 0x00000e70] (3 bytes)
+      Line 733, Column: 17 - 70, Address: [0x00000e71 - 0x00000e7c] (12 bytes)
+      Line 735, Column: 17 - 142, Address: [0x00000e7d - 0x00000e95] (25 bytes)
+      Line 736, Column: 17 - 100, Address: [0x00000e96 - 0x00000ea1] (12 bytes)
+      Line 740, Column: 13 - 152, Address: [0x00000ea2 - 0x00000ec0] (31 bytes)
+      Line 741, Column: 9 - 10, Address: [0x00000ec1 - 0x00000ec1] (1 bytes)
+  System.IO.Compression.ZipArchiveEntry
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\ZipArchiveEntry.cs
+      Line 49, Column: 15 - 32, Address: [0x00000ec2 - 0x00000ec9] (8 bytes)
+      Line 54, Column: 13 - 55, Address: [0x00000eca - 0x00000ed5] (12 bytes)
+      Line 55, Column: 9 - 10, Address: [0x00000ed6 - 0x00000ed6] (1 bytes)
+      Line 58, Column: 9 - 87, Address: [0x00000ed7 - 0x00000edc] (6 bytes)
+      Line 60, Column: 13 - 32, Address: [0x00000edd - 0x00000ee3] (7 bytes)
+      Line 62, Column: 13 - 41, Address: [0x00000ee4 - 0x00000eea] (7 bytes)
+      Line 64, Column: 13 - 51, Address: [0x00000eeb - 0x00000ef6] (12 bytes)
+      Line 65, Column: 13 - 83, Address: [0x00000ef7 - 0x00000f02] (12 bytes)
+      Line 66, Column: 13 - 78, Address: [0x00000f03 - 0x00000f0e] (12 bytes)
+      Line 67, Column: 13 - 79, Address: [0x00000f0f - 0x00000f1a] (12 bytes)
+      Line 68, Column: 13 - 94, Address: [0x00000f1b - 0x00000f30] (22 bytes)
+      Line 69, Column: 13 - 49, Address: [0x00000f31 - 0x00000f3c] (12 bytes)
+      Line 70, Column: 13 - 53, Address: [0x00000f3d - 0x00000f48] (12 bytes)
+      Line 71, Column: 13 - 59, Address: [0x00000f49 - 0x00000f54] (12 bytes)
+      Line 72, Column: 13 - 67, Address: [0x00000f55 - 0x00000f60] (12 bytes)
+      Line 76, Column: 13 - 50, Address: [0x00000f61 - 0x00000f6c] (12 bytes)
+      Line 77, Column: 13 - 31, Address: [0x00000f6d - 0x00000f78] (12 bytes)
+      Line 79, Column: 13 - 37, Address: [0x00000f79 - 0x00000f7f] (7 bytes)
+      Line 80, Column: 13 - 44, Address: [0x00000f80 - 0x00000f86] (7 bytes)
+      Line 81, Column: 13 - 44, Address: [0x00000f87 - 0x00000f8d] (7 bytes)
+      Line 82, Column: 13 - 41, Address: [0x00000f8e - 0x00000f94] (7 bytes)
+      Line 83, Column: 13 - 44, Address: [0x00000f95 - 0x00000f9b] (7 bytes)
+      Line 85, Column: 13 - 53, Address: [0x00000f9c - 0x00000fad] (18 bytes)
+      Line 87, Column: 13 - 42, Address: [0x00000fae - 0x00000fb4] (7 bytes)
+      Line 89, Column: 13 - 52, Address: [0x00000fb5 - 0x00000fc0] (12 bytes)
+      Line 90, Column: 13 - 43, Address: [0x00000fc1 - 0x00000fcc] (12 bytes)
+      Line 92, Column: 13 - 38, Address: [0x00000fcd - 0x00000fd8] (12 bytes)
+      Line 93, Column: 9 - 10, Address: [0x00000fd9 - 0x00000fd9] (1 bytes)
+      Line 98, Column: 15 - 39, Address: [0x00000fda - 0x00000fe1] (8 bytes)
+      Line 103, Column: 13 - 55, Address: [0x00000fe2 - 0x00000fed] (12 bytes)
+      Line 104, Column: 9 - 10, Address: [0x00000fee - 0x00000fee] (1 bytes)
+      Line 107, Column: 9 - 71, Address: [0x00000fef - 0x00000ff4] (6 bytes)
+      Line 109, Column: 13 - 32, Address: [0x00000ff5 - 0x00000ffb] (7 bytes)
+      Line 111, Column: 13 - 42, Address: [0x00000ffc - 0x00001002] (7 bytes)
+      Line 113, Column: 13 - 34, Address: [0x00001003 - 0x00001009] (7 bytes)
+      Line 115, Column: 13 - 64, Address: [0x0000100a - 0x00001011] (8 bytes)
+      Line 116, Column: 13 - 40, Address: [0x00001012 - 0x00001018] (7 bytes)
+      Line 117, Column: 13 - 65, Address: [0x00001019 - 0x0000101f] (7 bytes)
+      Line 118, Column: 13 - 48, Address: [0x00001020 - 0x0000102a] (11 bytes)
+      Line 120, Column: 13 - 33, Address: [0x0000102b - 0x00001032] (8 bytes)
+      Line 121, Column: 13 - 35, Address: [0x00001033 - 0x0000103a] (8 bytes)
+      Line 122, Column: 13 - 35, Address: [0x0000103b - 0x00001041] (7 bytes)
+      Line 123, Column: 13 - 38, Address: [0x00001042 - 0x00001049] (8 bytes)
+      Line 124, Column: 13 - 50, Address: [0x0000104a - 0x00001055] (12 bytes)
+      Line 125, Column: 13 - 24, Address: [0x00001056 - 0x0000105c] (7 bytes)
+      Line 127, Column: 13 - 37, Address: [0x0000105d - 0x00001063] (7 bytes)
+      Line 128, Column: 13 - 44, Address: [0x00001064 - 0x0000106a] (7 bytes)
+      Line 129, Column: 13 - 44, Address: [0x0000106b - 0x00001071] (7 bytes)
+      Line 130, Column: 13 - 41, Address: [0x00001072 - 0x00001078] (7 bytes)
+      Line 131, Column: 13 - 44, Address: [0x00001079 - 0x0000107f] (7 bytes)
+      Line 133, Column: 13 - 34, Address: [0x00001080 - 0x00001086] (7 bytes)
+      Line 135, Column: 13 - 42, Address: [0x00001087 - 0x0000108d] (7 bytes)
+      Line 136, Column: 13 - 42, Address: [0x0000108e - 0x00001094] (7 bytes)
+      Line 137, Column: 13 - 33, Address: [0x00001095 - 0x0000109b] (7 bytes)
+      Line 139, Column: 13 - 38, Address: [0x0000109c - 0x000010a7] (12 bytes)
+      Line 141, Column: 13 - 64, Address: [0x000010a8 - 0x000010b6] (15 bytes)
+      Line 142, Column: 17 - 95, Address: [0x000010b7 - 0x000010c1] (11 bytes)
+      Line 145, Column: 13 - 56, Address: [0x000010c2 - 0x000010cf] (14 bytes)
+      Line 147, Column: 17 - 53, Address: [0x000010d0 - 0x000010db] (12 bytes)
+      Line 149, Column: 9 - 10, Address: [0x000010dc - 0x000010dc] (1 bytes)
+      Line 154, Column: 43 - 59, Address: [0x000010dd - 0x000010e3] (7 bytes)
+      Line 166, Column: 17 - 41, Address: [0x000010e4 - 0x000010eb] (8 bytes)
+      Line 167, Column: 21 - 106, Address: [0x000010ec - 0x000010f6] (11 bytes)
+      Line 168, Column: 17 - 40, Address: [0x000010f7 - 0x000010fd] (7 bytes)
+      Line 176, Column: 17 - 49, Address: [0x000010fe - 0x00001104] (7 bytes)
+      Line 180, Column: 17 - 41, Address: [0x00001105 - 0x0000110a] (6 bytes)
+      Line 181, Column: 17 - 51, Address: [0x0000110b - 0x00001111] (7 bytes)
+      Line 182, Column: 13 - 14, Address: [0x00001112 - 0x00001112] (1 bytes)
+      Line 193, Column: 17 - 41, Address: [0x00001113 - 0x00001119] (7 bytes)
+      Line 198, Column: 17 - 35, Address: [0x0000111a - 0x0000111c] (3 bytes)
+      Line 199, Column: 21 - 65, Address: [0x0000111d - 0x00001127] (11 bytes)
+      Line 202, Column: 17 - 76, Address: [0x00001128 - 0x00001136] (15 bytes)
+      Line 203, Column: 17 - 42, Address: [0x00001137 - 0x0000113d] (7 bytes)
+      Line 205, Column: 17 - 28, Address: [0x0000113e - 0x00001140] (3 bytes)
+      Line 206, Column: 21 - 77, Address: [0x00001141 - 0x00001154] (20 bytes)
+      Line 208, Column: 21 - 78, Address: [0x00001155 - 0x00001166] (18 bytes)
+      Line 210, Column: 17 - 54, Address: [0x00001167 - 0x0000116e] (8 bytes)
+      Line 211, Column: 21 - 87, Address: [0x0000116f - 0x00001176] (8 bytes)
+      Line 212, Column: 13 - 14, Address: [0x00001177 - 0x00001177] (1 bytes)
+      Line 229, Column: 17 - 38, Address: [0x00001178 - 0x0000117e] (7 bytes)
+      Line 233, Column: 17 - 41, Address: [0x0000117f - 0x00001184] (6 bytes)
+      Line 234, Column: 17 - 58, Address: [0x00001185 - 0x00001191] (13 bytes)
+      Line 235, Column: 21 - 101, Address: [0x00001192 - 0x0000119c] (11 bytes)
+      Line 236, Column: 17 - 83, Address: [0x0000119d - 0x000011b2] (22 bytes)
+      Line 237, Column: 21 - 92, Address: [0x000011b3 - 0x000011bd] (11 bytes)
+      Line 238, Column: 17 - 130, Address: [0x000011be - 0x000011e9] (44 bytes)
+      Line 239, Column: 21 - 119, Address: [0x000011ea - 0x000011f9] (16 bytes)
+      Line 241, Column: 17 - 39, Address: [0x000011fa - 0x00001200] (7 bytes)
+      Line 242, Column: 13 - 14, Address: [0x00001201 - 0x00001201] (1 bytes)
+      Line 255, Column: 17 - 41, Address: [0x00001202 - 0x00001209] (8 bytes)
+      Line 256, Column: 21 - 106, Address: [0x0000120a - 0x00001214] (11 bytes)
+      Line 257, Column: 17 - 42, Address: [0x00001215 - 0x0000121b] (7 bytes)
+      Line 269, Column: 17 - 51, Address: [0x0000121c - 0x00001227] (12 bytes)
+      Line 281, Column: 13 - 34, Address: [0x00001228 - 0x0000122f] (8 bytes)
+      Line 282, Column: 17 - 24, Address: [0x00001230 - 0x00001230] (1 bytes)
+      Line 284, Column: 13 - 40, Address: [0x00001231 - 0x00001238] (8 bytes)
+      Line 285, Column: 17 - 87, Address: [0x00001239 - 0x00001243] (11 bytes)
+      Line 287, Column: 13 - 56, Address: [0x00001244 - 0x00001251] (14 bytes)
+      Line 288, Column: 17 - 100, Address: [0x00001252 - 0x0000125c] (11 bytes)
+      Line 290, Column: 13 - 40, Address: [0x0000125d - 0x00001267] (11 bytes)
+      Line 292, Column: 13 - 40, Address: [0x00001268 - 0x00001273] (12 bytes)
+      Line 293, Column: 13 - 29, Address: [0x00001274 - 0x0000127a] (7 bytes)
+      Line 294, Column: 13 - 29, Address: [0x0000127b - 0x00001280] (6 bytes)
+      Line 295, Column: 9 - 10, Address: [0x00001281 - 0x00001281] (1 bytes)
+      Line 308, Column: 13 - 37, Address: [0x00001282 - 0x00001287] (6 bytes)
+      Line 310, Column: 13 - 35, Address: [0x00001288 - 0x000012a7] (32 bytes)
+      Line 313, Column: 21 - 49, Address: [0x000012a8 - 0x000012af] (8 bytes)
+      Line 315, Column: 21 - 46, Address: [0x000012b0 - 0x000012b6] (7 bytes)
+      Line 319, Column: 21 - 47, Address: [0x000012b7 - 0x000012bd] (7 bytes)
+      Line 331, Column: 13 - 29, Address: [0x000012be - 0x000012c4] (7 bytes)
+      Line 364, Column: 53 - 80, Address: [0x000012c5 - 0x000012cb] (7 bytes)
+      Line 370, Column: 17 - 59, Address: [0x000012cc - 0x000012d8] (13 bytes)
+      Line 372, Column: 21 - 89, Address: [0x000012d9 - 0x000012f0] (24 bytes)
+      Line 375, Column: 21 - 82, Address: [0x000012f1 - 0x00001302] (18 bytes)
+      Line 376, Column: 25 - 111, Address: [0x00001303 - 0x0000130d] (11 bytes)
+      Line 377, Column: 21 - 85, Address: [0x0000130e - 0x00001328] (27 bytes)
+      Line 379, Column: 17 - 60, Address: [0x00001329 - 0x00001334] (12 bytes)
+      Line 387, Column: 17 - 53, Address: [0x00001335 - 0x0000133c] (8 bytes)
+      Line 393, Column: 21 - 90, Address: [0x0000133d - 0x0000134e] (18 bytes)
+      Line 395, Column: 21 - 46, Address: [0x0000134f - 0x00001356] (8 bytes)
+      Line 397, Column: 32 - 75, Address: [0x00001357 - 0x0000135e] (8 bytes)
+      Line 401, Column: 33 - 78, Address: [0x0000135f - 0x0000136a] (12 bytes)
+      Line 402, Column: 29 - 30, Address: [0x0000136b - 0x0000136c] (2 bytes)
+      Line 403, Column: 29 - 57, Address: [0x0000136d - 0x0000136d] (1 bytes)
+      Line 411, Column: 33 - 67, Address: [0x0000136e - 0x00001378] (11 bytes)
+      Line 412, Column: 33 - 64, Address: [0x00001379 - 0x0000137f] (7 bytes)
+      Line 413, Column: 33 - 64, Address: [0x00001380 - 0x00001386] (7 bytes)
+      Line 414, Column: 33 - 61, Address: [0x00001387 - 0x0000138d] (7 bytes)
+      Line 415, Column: 33 - 39, Address: [0x0000138e - 0x0000138f] (2 bytes)
+      Line 16707566, Address: [0x00001390 - 0x00001398] (9 bytes)
+      Line 16707566, Address: [0x00001399 - 0x00001399] (1 bytes)
+      Line 421, Column: 21 - 73, Address: [0x0000139a - 0x000013a0] (7 bytes)
+      Line 424, Column: 17 - 48, Address: [0x000013a1 - 0x000013a7] (7 bytes)
+      Line 430, Column: 19 - 51, Address: [0x000013a8 - 0x000013ae] (7 bytes)
+      Line 433, Column: 17 - 62, Address: [0x000013af - 0x000013b2] (4 bytes)
+      Line 434, Column: 21 - 77, Address: [0x000013b3 - 0x000013ba] (8 bytes)
+      Line 435, Column: 17 - 50, Address: [0x000013bb - 0x000013c1] (7 bytes)
+      Line 436, Column: 13 - 14, Address: [0x000013c2 - 0x000013c2] (1 bytes)
+      Line 444, Column: 13 - 79, Address: [0x000013c3 - 0x000013d0] (14 bytes)
+      Line 446 - 448, Column: 17 - 101, Address: [0x000013d1 - 0x000013f6] (38 bytes)
+      Line 449, Column: 13 - 14, Address: [0x000013f7 - 0x000013f8] (2 bytes)
+      Line 452, Column: 17 - 55, Address: [0x000013f9 - 0x000013fe] (6 bytes)
+      Line 455, Column: 13 - 79, Address: [0x000013ff - 0x0000140b] (13 bytes)
+      Line 463, Column: 13 - 72, Address: [0x0000140c - 0x00001420] (21 bytes)
+      Line 464, Column: 17 - 69, Address: [0x00001421 - 0x0000142e] (14 bytes)
+      Line 466 - 468, Column: 17 - 71, Address: [0x0000142f - 0x00001444] (22 bytes)
+      Line 470, Column: 13 - 111, Address: [0x00001445 - 0x0000145c] (24 bytes)
+      Line 471, Column: 13 - 63, Address: [0x0000145d - 0x00001464] (8 bytes)
+      Line 486, Column: 13 - 28, Address: [0x00001465 - 0x0000146a] (6 bytes)
+      Line 487, Column: 13 - 51, Address: [0x0000146b - 0x00001470] (6 bytes)
+      Line 488, Column: 13 - 29, Address: [0x00001471 - 0x00001476] (6 bytes)
+      Line 489, Column: 9 - 10, Address: [0x00001477 - 0x00001477] (1 bytes)
+      Line 495, Column: 13 - 76, Address: [0x00001478 - 0x00001488] (17 bytes)
+      Line 502, Column: 13 - 69, Address: [0x00001489 - 0x00001490] (8 bytes)
+      Line 505, Column: 13 - 41, Address: [0x00001491 - 0x00001493] (3 bytes)
+      Line 507 - 511, Column: 13 - 2, Address: [0x00001494 - 0x0000149b] (8 bytes)
+      Line 513, Column: 17 - 36, Address: [0x0000149c - 0x0000149e] (3 bytes)
+      Line 514, Column: 17 - 63, Address: [0x0000149f - 0x000014a0] (2 bytes)
+      Line 515, Column: 17 - 65, Address: [0x000014a1 - 0x000014a2] (2 bytes)
+      Line 518, Column: 17 - 66, Address: [0x000014a3 - 0x000014b4] (18 bytes)
+      Line 519, Column: 17 - 70, Address: [0x000014b5 - 0x000014c6] (18 bytes)
+      Line 520, Column: 13 - 14, Address: [0x000014c7 - 0x000014c8] (2 bytes)
+      Line 523, Column: 17 - 67, Address: [0x000014c9 - 0x000014d0] (8 bytes)
+      Line 524, Column: 17 - 71, Address: [0x000014d1 - 0x000014d8] (8 bytes)
+      Line 528 - 532, Column: 13 - 2, Address: [0x000014d9 - 0x000014e2] (10 bytes)
+      Line 534, Column: 17 - 36, Address: [0x000014e3 - 0x000014e5] (3 bytes)
+      Line 535, Column: 17 - 68, Address: [0x000014e6 - 0x000014e8] (3 bytes)
+      Line 538, Column: 17 - 74, Address: [0x000014e9 - 0x000014fa] (18 bytes)
+      Line 539, Column: 13 - 14, Address: [0x000014fb - 0x000014fc] (2 bytes)
+      Line 542, Column: 17 - 77, Address: [0x000014fd - 0x00001505] (9 bytes)
+      Line 545, Column: 13 - 29, Address: [0x00001506 - 0x00001509] (4 bytes)
+      Line 546, Column: 17 - 71, Address: [0x0000150a - 0x00001511] (8 bytes)
+      Line 549 - 550, Column: 13 - 133, Address: [0x00001512 - 0x00001538] (39 bytes)
+      Line 552, Column: 13 - 55, Address: [0x00001539 - 0x00001541] (9 bytes)
+      Line 554, Column: 17 - 90, Address: [0x00001542 - 0x00001552] (17 bytes)
+      Line 555, Column: 17 - 46, Address: [0x00001553 - 0x00001559] (7 bytes)
+      Line 556, Column: 13 - 14, Address: [0x0000155a - 0x0000155b] (2 bytes)
+      Line 559, Column: 17 - 64, Address: [0x0000155c - 0x00001560] (5 bytes)
+      Line 562, Column: 13 - 75, Address: [0x00001561 - 0x0000156b] (11 bytes)
+      Line 563, Column: 13 - 53, Address: [0x0000156c - 0x00001577] (12 bytes)
+      Line 564, Column: 13 - 53, Address: [0x00001578 - 0x00001583] (12 bytes)
+      Line 565, Column: 13 - 58, Address: [0x00001584 - 0x0000158f] (12 bytes)
+      Line 566, Column: 13 - 53, Address: [0x00001590 - 0x0000159b] (12 bytes)
+      Line 567, Column: 13 - 79, Address: [0x0000159c - 0x000015b1] (22 bytes)
+      Line 568, Column: 13 - 34, Address: [0x000015b2 - 0x000015bd] (12 bytes)
+      Line 569, Column: 13 - 51, Address: [0x000015be - 0x000015c4] (7 bytes)
+      Line 570, Column: 13 - 53, Address: [0x000015c5 - 0x000015cb] (7 bytes)
+      Line 571, Column: 13 - 65, Address: [0x000015cc - 0x000015da] (15 bytes)
+      Line 572, Column: 13 - 44, Address: [0x000015db - 0x000015e2] (8 bytes)
+      Line 577, Column: 13 - 90, Address: [0x000015e3 - 0x000015fc] (26 bytes)
+      Line 578, Column: 13 - 37, Address: [0x000015fd - 0x00001603] (7 bytes)
+      Line 579, Column: 13 - 37, Address: [0x00001604 - 0x0000160a] (7 bytes)
+      Line 580, Column: 13 - 45, Address: [0x0000160b - 0x00001616] (12 bytes)
+      Line 581, Column: 13 - 56, Address: [0x00001617 - 0x0000161e] (8 bytes)
+      Line 583, Column: 13 - 49, Address: [0x0000161f - 0x0000162a] (12 bytes)
+      Line 586, Column: 13 - 29, Address: [0x0000162b - 0x0000162e] (4 bytes)
+      Line 587, Column: 17 - 68, Address: [0x0000162f - 0x00001640] (18 bytes)
+      Line 588, Column: 13 - 47, Address: [0x00001641 - 0x00001648] (8 bytes)
+      Line 589, Column: 17 - 100, Address: [0x00001649 - 0x0000165e] (22 bytes)
+      Line 591, Column: 13 - 38, Address: [0x0000165f - 0x00001666] (8 bytes)
+      Line 592, Column: 17 - 44, Address: [0x00001667 - 0x00001672] (12 bytes)
+      Line 593, Column: 9 - 10, Address: [0x00001673 - 0x00001673] (1 bytes)
+      Line 604, Column: 13 - 38, Address: [0x00001674 - 0x0000167b] (8 bytes)
+      Line 606, Column: 17 - 85, Address: [0x0000167c - 0x00001693] (24 bytes)
+      Line 608, Column: 17 - 99, Address: [0x00001694 - 0x000016a9] (22 bytes)
+      Line 611, Column: 13 - 62, Address: [0x000016aa - 0x000016b9] (16 bytes)
+      Line 615, Column: 17 - 62, Address: [0x000016ba - 0x000016cb] (18 bytes)
+      Line 616, Column: 17 - 87, Address: [0x000016cc - 0x000016e3] (24 bytes)
+      Line 618, Column: 17 - 103, Address: [0x000016e4 - 0x00001700] (29 bytes)
+      Line 621, Column: 13 - 25, Address: [0x00001701 - 0x00001702] (2 bytes)
+      Line 627, Column: 13 - 82, Address: [0x00001703 - 0x0000170e] (12 bytes)
+      Line 628, Column: 17 - 57, Address: [0x0000170f - 0x00001715] (7 bytes)
+      Line 629, Column: 9 - 10, Address: [0x00001716 - 0x00001716] (1 bytes)
+      Line 16707566, Address: [0x00001717 - 0x00001731] (27 bytes)
+      Line 639 - 641, Column: 13 - 130, Address: [0x00001732 - 0x00001765] (52 bytes)
+      Line 642, Column: 13 - 49, Address: [0x00001766 - 0x00001767] (2 bytes)
+      Line 644, Column: 13 - 104, Address: [0x00001768 - 0x00001772] (11 bytes)
+      Line 645 - 655, Column: 13 - 24, Address: [0x00001773 - 0x0000178d] (27 bytes)
+      Line 657, Column: 13 - 35, Address: [0x0000178e - 0x00001790] (3 bytes)
+      Line 662, Column: 13 - 46, Address: [0x00001791 - 0x00001792] (2 bytes)
+      Line 663, Column: 13 - 39, Address: [0x00001793 - 0x000017a0] (14 bytes)
+      Line 666, Column: 21 - 112, Address: [0x000017a1 - 0x000017a8] (8 bytes)
+      Line 667, Column: 21 - 27, Address: [0x000017a9 - 0x000017aa] (2 bytes)
+      Line 674, Column: 21 - 65, Address: [0x000017ab - 0x000017ac] (2 bytes)
+      Line 678, Column: 13 - 39, Address: [0x000017ad - 0x000017ae] (2 bytes)
+      Line 683, Column: 13 - 31, Address: [0x000017af - 0x000017b1] (3 bytes)
+      Line 684, Column: 17 - 49, Address: [0x000017b2 - 0x000017b9] (8 bytes)
+      Line 686, Column: 13 - 122, Address: [0x000017ba - 0x000017d6] (29 bytes)
+      Line 687, Column: 13 - 58, Address: [0x000017d7 - 0x000017de] (8 bytes)
+      Line 692, Column: 13 - 37, Address: [0x000017df - 0x000017e6] (8 bytes)
+      Line 693, Column: 17 - 109, Address: [0x000017e7 - 0x000017f1] (11 bytes)
+      Line 698, Column: 13 - 40, Address: [0x000017f2 - 0x000017f8] (7 bytes)
+      Line 699 - 705, Column: 13 - 64, Address: [0x000017f9 - 0x00001817] (31 bytes)
+      Line 706, Column: 13 - 92, Address: [0x00001818 - 0x00001824] (13 bytes)
+      Line 708, Column: 13 - 123, Address: [0x00001825 - 0x0000183c] (24 bytes)
+      Line 713, Column: 13 - 40, Address: [0x0000183d - 0x00001844] (8 bytes)
+      Line 714, Column: 17 - 91, Address: [0x00001845 - 0x0000184f] (11 bytes)
+      Line 716, Column: 13 - 44, Address: [0x00001850 - 0x00001857] (8 bytes)
+      Line 718, Column: 13 - 40, Address: [0x00001858 - 0x0000185e] (7 bytes)
+      Line 719, Column: 13 - 43, Address: [0x0000185f - 0x00001865] (7 bytes)
+      Line 721, Column: 13 - 56, Address: [0x00001866 - 0x00001874] (15 bytes)
+      Line 722 - 730, Column: 13 - 41, Address: [0x00001875 - 0x0000188c] (24 bytes)
+      Line 735, Column: 13 - 28, Address: [0x0000188d - 0x0000188f] (3 bytes)
+      Line 737, Column: 13 - 38, Address: [0x00001890 - 0x0000189a] (11 bytes)
+      Line 739, Column: 17 - 38, Address: [0x0000189b - 0x0000189d] (3 bytes)
+      Line 741 - 742, Column: 21 - 78, Address: [0x0000189e - 0x000018ae] (17 bytes)
+      Line 744, Column: 25 - 89, Address: [0x000018af - 0x000018b5] (7 bytes)
+      Line 745, Column: 25 - 38, Address: [0x000018b6 - 0x000018b7] (2 bytes)
+      Line 748, Column: 17 - 67, Address: [0x000018b8 - 0x000018cc] (21 bytes)
+      Line 750, Column: 21 - 75, Address: [0x000018cd - 0x000018d3] (7 bytes)
+      Line 751, Column: 21 - 34, Address: [0x000018d4 - 0x000018d5] (2 bytes)
+      Line 753, Column: 17 - 74, Address: [0x000018d6 - 0x000018ed] (24 bytes)
+      Line 755, Column: 21 - 85, Address: [0x000018ee - 0x000018f4] (7 bytes)
+      Line 756, Column: 21 - 34, Address: [0x000018f5 - 0x000018f6] (2 bytes)
+      Line 758, Column: 17 - 85, Address: [0x000018f7 - 0x0000190e] (24 bytes)
+      Line 759, Column: 17 - 78, Address: [0x0000190f - 0x00001920] (18 bytes)
+      Line 761, Column: 21 - 85, Address: [0x00001921 - 0x00001927] (7 bytes)
+      Line 762, Column: 21 - 34, Address: [0x00001928 - 0x00001929] (2 bytes)
+      Line 765, Column: 17 - 94, Address: [0x0000192a - 0x00001948] (31 bytes)
+      Line 767, Column: 21 - 85, Address: [0x00001949 - 0x0000194f] (7 bytes)
+      Line 768, Column: 21 - 34, Address: [0x00001950 - 0x00001951] (2 bytes)
+      Line 772, Column: 17 - 42, Address: [0x00001952 - 0x00001954] (3 bytes)
+      Line 774, Column: 21 - 58, Address: [0x00001955 - 0x00001962] (14 bytes)
+      Line 776, Column: 25 - 80, Address: [0x00001963 - 0x00001969] (7 bytes)
+      Line 777, Column: 25 - 38, Address: [0x0000196a - 0x0000196b] (2 bytes)
+      Line 782, Column: 13 - 25, Address: [0x0000196c - 0x0000196d] (2 bytes)
+      Line 787, Column: 13 - 93, Address: [0x0000196e - 0x00001984] (23 bytes)
+      Line 793, Column: 13 - 76, Address: [0x00001985 - 0x00001995] (17 bytes)
+      Line 800, Column: 13 - 69, Address: [0x00001996 - 0x0000199d] (8 bytes)
+      Line 801, Column: 13 - 39, Address: [0x0000199e - 0x0000199f] (2 bytes)
+      Line 805, Column: 13 - 29, Address: [0x000019a0 - 0x000019a2] (3 bytes)
+      Line 807, Column: 17 - 68, Address: [0x000019a3 - 0x000019a9] (7 bytes)
+      Line 808, Column: 17 - 45, Address: [0x000019aa - 0x000019ab] (2 bytes)
+      Line 809, Column: 17 - 47, Address: [0x000019ac - 0x000019ae] (3 bytes)
+      Line 813, Column: 13 - 14, Address: [0x000019af - 0x000019b3] (5 bytes)
+      Line 818, Column: 17 - 119, Address: [0x000019b4 - 0x000019d6] (35 bytes)
+      Line 820, Column: 21 - 76, Address: [0x000019d7 - 0x000019e4] (14 bytes)
+      Line 821, Column: 21 - 39, Address: [0x000019e5 - 0x000019e6] (2 bytes)
+      Line 822, Column: 21 - 49, Address: [0x000019e7 - 0x000019e8] (2 bytes)
+      Line 823, Column: 21 - 51, Address: [0x000019e9 - 0x000019eb] (3 bytes)
+      Line 826, Column: 17 - 18, Address: [0x000019ec - 0x000019ed] (2 bytes)
+      Line 830 - 834, Column: 21 - 2, Address: [0x000019ee - 0x000019f5] (8 bytes)
+      Line 836, Column: 25 - 42, Address: [0x000019f6 - 0x000019f7] (2 bytes)
+      Line 837, Column: 25 - 71, Address: [0x000019f8 - 0x000019f9] (2 bytes)
+      Line 838, Column: 25 - 73, Address: [0x000019fa - 0x000019fc] (3 bytes)
+      Line 841, Column: 25 - 74, Address: [0x000019fd - 0x00001a0e] (18 bytes)
+      Line 842, Column: 25 - 78, Address: [0x00001a0f - 0x00001a20] (18 bytes)
+      Line 844, Column: 25 - 79, Address: [0x00001a21 - 0x00001a28] (8 bytes)
+      Line 845, Column: 21 - 22, Address: [0x00001a29 - 0x00001a2a] (2 bytes)
+      Line 848, Column: 25 - 43, Address: [0x00001a2b - 0x00001a2c] (2 bytes)
+      Line 849, Column: 25 - 75, Address: [0x00001a2d - 0x00001a34] (8 bytes)
+      Line 850, Column: 25 - 79, Address: [0x00001a35 - 0x00001a3d] (9 bytes)
+      Line 856, Column: 13 - 63, Address: [0x00001a3e - 0x00001a4e] (17 bytes)
+      Line 859 - 860, Column: 13 - 133, Address: [0x00001a4f - 0x00001a74] (38 bytes)
+      Line 862, Column: 13 - 55, Address: [0x00001a75 - 0x00001a7d] (9 bytes)
+      Line 864, Column: 17 - 88, Address: [0x00001a7e - 0x00001a8d] (16 bytes)
+      Line 865, Column: 17 - 46, Address: [0x00001a8e - 0x00001a94] (7 bytes)
+      Line 866, Column: 13 - 14, Address: [0x00001a95 - 0x00001a96] (2 bytes)
+      Line 869, Column: 17 - 64, Address: [0x00001a97 - 0x00001a9b] (5 bytes)
+      Line 873, Column: 13 - 64, Address: [0x00001a9c - 0x00001aa6] (11 bytes)
+      Line 874, Column: 13 - 53, Address: [0x00001aa7 - 0x00001ab2] (12 bytes)
+      Line 875, Column: 13 - 58, Address: [0x00001ab3 - 0x00001abe] (12 bytes)
+      Line 876, Column: 13 - 53, Address: [0x00001abf - 0x00001aca] (12 bytes)
+      Line 877, Column: 13 - 79, Address: [0x00001acb - 0x00001ae0] (22 bytes)
+      Line 878, Column: 13 - 34, Address: [0x00001ae1 - 0x00001aec] (12 bytes)
+      Line 879, Column: 13 - 51, Address: [0x00001aed - 0x00001af3] (7 bytes)
+      Line 880, Column: 13 - 53, Address: [0x00001af4 - 0x00001afb] (8 bytes)
+      Line 881, Column: 13 - 65, Address: [0x00001afc - 0x00001b0a] (15 bytes)
+      Line 882, Column: 13 - 44, Address: [0x00001b0b - 0x00001b12] (8 bytes)
+      Line 884, Column: 13 - 49, Address: [0x00001b13 - 0x00001b1e] (12 bytes)
+      Line 886, Column: 13 - 27, Address: [0x00001b1f - 0x00001b21] (3 bytes)
+      Line 887, Column: 17 - 68, Address: [0x00001b22 - 0x00001b33] (18 bytes)
+      Line 888, Column: 13 - 47, Address: [0x00001b34 - 0x00001b3b] (8 bytes)
+      Line 889, Column: 17 - 100, Address: [0x00001b3c - 0x00001b51] (22 bytes)
+      Line 891, Column: 13 - 30, Address: [0x00001b52 - 0x00001b53] (2 bytes)
+      Line 897, Column: 13 - 77, Address: [0x00001b54 - 0x00001b66] (19 bytes)
+      Line 900, Column: 17 - 53, Address: [0x00001b67 - 0x00001b6e] (8 bytes)
+      Line 902, Column: 21 - 72, Address: [0x00001b6f - 0x00001b7f] (17 bytes)
+      Line 906 - 908, Column: 28 - 58, Address: [0x00001b80 - 0x00001b99] (26 bytes)
+      Line 910, Column: 25 - 75, Address: [0x00001b9a - 0x00001ba8] (15 bytes)
+      Line 911, Column: 25 - 69, Address: [0x00001ba9 - 0x00001bb4] (12 bytes)
+      Line 912, Column: 25 - 57, Address: [0x00001bb5 - 0x00001bbf] (11 bytes)
+      Line 913, Column: 25 - 56, Address: [0x00001bc0 - 0x00001bc6] (7 bytes)
+      Line 914, Column: 21 - 22, Address: [0x00001bc7 - 0x00001bc8] (2 bytes)
+      Line 16707566, Address: [0x00001bc9 - 0x00001bd1] (9 bytes)
+      Line 16707566, Address: [0x00001bd2 - 0x00001bd2] (1 bytes)
+      Line 919, Column: 21 - 48, Address: [0x00001bd3 - 0x00001bda] (8 bytes)
+      Line 920, Column: 25 - 76, Address: [0x00001bdb - 0x00001be1] (7 bytes)
+      Line 921, Column: 21 - 49, Address: [0x00001be2 - 0x00001be9] (8 bytes)
+      Line 924, Column: 28 - 94, Address: [0x00001bea - 0x00001bf5] (12 bytes)
+      Line 926, Column: 25 - 73, Address: [0x00001bf6 - 0x00001c06] (17 bytes)
+      Line 927, Column: 21 - 22, Address: [0x00001c07 - 0x00001c08] (2 bytes)
+      Line 16707566, Address: [0x00001c09 - 0x00001c11] (9 bytes)
+      Line 16707566, Address: [0x00001c12 - 0x00001c12] (1 bytes)
+      Line 932, Column: 17 - 84, Address: [0x00001c13 - 0x00001c28] (22 bytes)
+      Line 934, Column: 21 - 48, Address: [0x00001c29 - 0x00001c2f] (7 bytes)
+      Line 935, Column: 21 - 48, Address: [0x00001c30 - 0x00001c37] (8 bytes)
+      Line 938, Column: 9 - 10, Address: [0x00001c38 - 0x00001c38] (1 bytes)
+      Line 946, Column: 13 - 67, Address: [0x00001c39 - 0x00001c49] (17 bytes)
+      Line 947, Column: 13 - 76, Address: [0x00001c4a - 0x00001c5a] (17 bytes)
+      Line 949 - 953, Column: 13 - 2, Address: [0x00001c5b - 0x00001c61] (7 bytes)
+      Line 954, Column: 13 - 72, Address: [0x00001c62 - 0x00001c6c] (11 bytes)
+      Line 956, Column: 13 - 106, Address: [0x00001c6d - 0x00001c7b] (15 bytes)
+      Line 957, Column: 13 - 110, Address: [0x00001c7c - 0x00001c8a] (15 bytes)
+      Line 962, Column: 13 - 34, Address: [0x00001c8b - 0x00001c8d] (3 bytes)
+      Line 964, Column: 17 - 72, Address: [0x00001c8e - 0x00001c9b] (14 bytes)
+      Line 966 - 967, Column: 17 - 63, Address: [0x00001c9c - 0x00001cb6] (27 bytes)
+      Line 968, Column: 17 - 62, Address: [0x00001cb7 - 0x00001cc2] (12 bytes)
+      Line 973 - 974, Column: 13 - 63, Address: [0x00001cc3 - 0x00001cde] (28 bytes)
+      Line 975, Column: 13 - 35, Address: [0x00001cdf - 0x00001ce1] (3 bytes)
+      Line 977, Column: 17 - 38, Address: [0x00001ce2 - 0x00001ced] (12 bytes)
+      Line 978, Column: 17 - 55, Address: [0x00001cee - 0x00001cf5] (8 bytes)
+      Line 979, Column: 17 - 57, Address: [0x00001cf6 - 0x00001cfd] (8 bytes)
+      Line 980, Column: 13 - 14, Address: [0x00001cfe - 0x00001cff] (2 bytes)
+      Line 983, Column: 17 - 41, Address: [0x00001d00 - 0x00001d06] (7 bytes)
+      Line 984, Column: 17 - 41, Address: [0x00001d07 - 0x00001d0d] (7 bytes)
+      Line 985, Column: 17 - 41, Address: [0x00001d0e - 0x00001d14] (7 bytes)
+      Line 994, Column: 13 - 33, Address: [0x00001d15 - 0x00001d17] (3 bytes)
+      Line 996 - 998, Column: 17 - 63, Address: [0x00001d18 - 0x00001d40] (41 bytes)
+      Line 999, Column: 17 - 49, Address: [0x00001d41 - 0x00001d4c] (12 bytes)
+      Line 1000, Column: 17 - 47, Address: [0x00001d4d - 0x00001d58] (12 bytes)
+      Line 1002, Column: 17 - 78, Address: [0x00001d59 - 0x00001d6b] (19 bytes)
+      Line 1006, Column: 13 - 74, Address: [0x00001d6c - 0x00001d7e] (19 bytes)
+      Line 1011, Column: 13 - 34, Address: [0x00001d7f - 0x00001d81] (3 bytes)
+      Line 1013, Column: 17 - 38, Address: [0x00001d82 - 0x00001d8d] (12 bytes)
+      Line 1014, Column: 17 - 47, Address: [0x00001d8e - 0x00001d99] (12 bytes)
+      Line 1015, Column: 17 - 49, Address: [0x00001d9a - 0x00001da5] (12 bytes)
+      Line 1017, Column: 9 - 10, Address: [0x00001da6 - 0x00001da6] (1 bytes)
+      Line 1024, Column: 13 - 76, Address: [0x00001da7 - 0x00001db7] (17 bytes)
+      Line 1026, Column: 13 - 70, Address: [0x00001db8 - 0x00001dc2] (11 bytes)
+      Line 1027, Column: 13 - 34, Address: [0x00001dc3 - 0x00001dce] (12 bytes)
+      Line 1028, Column: 13 - 33, Address: [0x00001dcf - 0x00001dd6] (8 bytes)
+      Line 1030, Column: 17 - 47, Address: [0x00001dd7 - 0x00001de2] (12 bytes)
+      Line 1031, Column: 17 - 49, Address: [0x00001de3 - 0x00001dee] (12 bytes)
+      Line 1032, Column: 13 - 14, Address: [0x00001def - 0x00001def] (1 bytes)
+      Line 1035, Column: 17 - 55, Address: [0x00001df0 - 0x00001dfc] (13 bytes)
+      Line 1036, Column: 17 - 57, Address: [0x00001dfd - 0x00001e09] (13 bytes)
+      Line 1038, Column: 9 - 10, Address: [0x00001e0a - 0x00001e0a] (1 bytes)
+      Line 1042, Column: 13 - 49, Address: [0x00001e0b - 0x00001e12] (8 bytes)
+      Line 1043, Column: 17 - 49, Address: [0x00001e13 - 0x00001e1d] (11 bytes)
+      Line 1044, Column: 13 - 37, Address: [0x00001e1e - 0x00001e24] (7 bytes)
+      Line 1045, Column: 13 - 44, Address: [0x00001e25 - 0x00001e2b] (7 bytes)
+      Line 1046, Column: 9 - 10, Address: [0x00001e2c - 0x00001e2c] (1 bytes)
+      Line 1051, Column: 13 - 49, Address: [0x00001e2d - 0x00001e34] (8 bytes)
+      Line 1053, Column: 17 - 49, Address: [0x00001e35 - 0x00001e3f] (11 bytes)
+      Line 1055, Column: 9 - 10, Address: [0x00001e40 - 0x00001e40] (1 bytes)
+      Line 1059, Column: 13 - 43, Address: [0x00001e41 - 0x00001e49] (9 bytes)
+      Line 1061, Column: 17 - 43, Address: [0x00001e4a - 0x00001e50] (7 bytes)
+      Line 1063, Column: 9 - 10, Address: [0x00001e51 - 0x00001e51] (1 bytes)
+      Line 1067, Column: 13 - 34, Address: [0x00001e52 - 0x00001e59] (8 bytes)
+      Line 1068, Column: 17 - 98, Address: [0x00001e5a - 0x00001e64] (11 bytes)
+      Line 1069, Column: 13 - 40, Address: [0x00001e65 - 0x00001e6f] (11 bytes)
+      Line 1070, Column: 9 - 10, Address: [0x00001e70 - 0x00001e70] (1 bytes)
+      Line 703, Column: 65 - 101, Address: [0x00001e71 - 0x00001e7c] (12 bytes)
+      Line 704, Column: 65 - 96, Address: [0x00001e7d - 0x00001e83] (7 bytes)
+      Line 705, Column: 61 - 62, Address: [0x00001e84 - 0x00001e84] (1 bytes)
+      Line 708, Column: 90 - 121, Address: [0x00001e85 - 0x00001e90] (12 bytes)
+      Line 729, Column: 42 - 73, Address: [0x00001e91 - 0x00001e97] (7 bytes)
+      Line 730, Column: 38 - 39, Address: [0x00001e98 - 0x00001e98] (1 bytes)
+  System.IO.Compression.ZipGenericExtraField
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\ZipBlocks.cs
+      Line 19, Column: 35 - 47, Address: [0x00001e99 - 0x00001e9f] (7 bytes)
+      Line 21, Column: 36 - 49, Address: [0x00001ea0 - 0x00001ea6] (7 bytes)
+      Line 22, Column: 36 - 49, Address: [0x00001ea7 - 0x00001ead] (7 bytes)
+      Line 26, Column: 13 - 60, Address: [0x00001eae - 0x00001eb4] (7 bytes)
+      Line 27, Column: 13 - 31, Address: [0x00001eb5 - 0x00001ec0] (12 bytes)
+      Line 28, Column: 13 - 32, Address: [0x00001ec1 - 0x00001ecc] (12 bytes)
+      Line 29, Column: 13 - 32, Address: [0x00001ecd - 0x00001ed8] (12 bytes)
+      Line 30, Column: 9 - 10, Address: [0x00001ed9 - 0x00001ed9] (1 bytes)
+      Line 36, Column: 13 - 48, Address: [0x00001eda - 0x00001ee0] (7 bytes)
+      Line 39, Column: 13 - 64, Address: [0x00001ee1 - 0x00001ef1] (17 bytes)
+      Line 40, Column: 17 - 30, Address: [0x00001ef2 - 0x00001ef3] (2 bytes)
+      Line 42, Column: 13 - 46, Address: [0x00001ef4 - 0x00001eff] (12 bytes)
+      Line 43, Column: 13 - 47, Address: [0x00001f00 - 0x00001f0b] (12 bytes)
+      Line 46, Column: 13 - 74, Address: [0x00001f0c - 0x00001f21] (22 bytes)
+      Line 47, Column: 17 - 30, Address: [0x00001f22 - 0x00001f23] (2 bytes)
+      Line 49, Column: 13 - 57, Address: [0x00001f24 - 0x00001f35] (18 bytes)
+      Line 50, Column: 13 - 25, Address: [0x00001f36 - 0x00001f37] (2 bytes)
+      Line 56, Column: 13 - 87, Address: [0x00001f38 - 0x00001f3d] (6 bytes)
+      Line 58, Column: 20 - 74, Address: [0x00001f3e - 0x00001f44] (7 bytes)
+      Line 16707566, Address: [0x00001f45 - 0x00001f46] (2 bytes)
+      Line 63, Column: 21 - 44, Address: [0x00001f47 - 0x00001f4d] (7 bytes)
+      Line 61, Column: 17 - 79, Address: [0x00001f4e - 0x00001f5d] (16 bytes)
+      Line 65, Column: 13 - 14, Address: [0x00001f5e - 0x00001f5f] (2 bytes)
+      Line 16707566, Address: [0x00001f60 - 0x00001f68] (9 bytes)
+      Line 16707566, Address: [0x00001f69 - 0x00001f69] (1 bytes)
+      Line 67, Column: 13 - 32, Address: [0x00001f6a - 0x00001f6b] (2 bytes)
+      Line 72, Column: 13 - 28, Address: [0x00001f6c - 0x00001f6d] (2 bytes)
+      Line 73, Column: 52 - 58, Address: [0x00001f6e - 0x00001f74] (7 bytes)
+      Line 16707566, Address: [0x00001f75 - 0x00001f76] (2 bytes)
+      Line 73, Column: 22 - 48, Address: [0x00001f77 - 0x00001f7e] (8 bytes)
+      Line 74, Column: 17 - 51, Address: [0x00001f7f - 0x00001f8a] (12 bytes)
+      Line 73, Column: 49 - 51, Address: [0x00001f8b - 0x00001f95] (11 bytes)
+      Line 16707566, Address: [0x00001f96 - 0x00001fa3] (14 bytes)
+      Line 75, Column: 13 - 25, Address: [0x00001fa4 - 0x00001fa5] (2 bytes)
+      Line 80, Column: 52 - 58, Address: [0x00001fa6 - 0x00001fac] (7 bytes)
+      Line 16707566, Address: [0x00001fad - 0x00001fae] (2 bytes)
+      Line 80, Column: 22 - 48, Address: [0x00001faf - 0x00001fb6] (8 bytes)
+      Line 81, Column: 17 - 42, Address: [0x00001fb7 - 0x00001fbe] (8 bytes)
+      Line 80, Column: 49 - 51, Address: [0x00001fbf - 0x00001fc9] (11 bytes)
+      Line 16707566, Address: [0x00001fca - 0x00001fd7] (14 bytes)
+      Line 82, Column: 9 - 10, Address: [0x00001fd8 - 0x00001fd8] (1 bytes)
+  System.IO.Compression.Zip64ExtraField
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\ZipBlocks.cs
+      Line 103, Column: 19 - 46, Address: [0x00001fd9 - 0x00001fe2] (10 bytes)
+      Line 108, Column: 19 - 44, Address: [0x00001fe3 - 0x00001fe9] (7 bytes)
+      Line 109, Column: 19 - 45, Address: [0x00001fea - 0x00001ff0] (7 bytes)
+      Line 109, Column: 46 - 59, Address: [0x00001ff1 - 0x00001ff6] (6 bytes)
+      Line 109, Column: 60 - 61, Address: [0x00001ff7 - 0x00001ff7] (1 bytes)
+      Line 113, Column: 19 - 42, Address: [0x00001ff8 - 0x00001ffe] (7 bytes)
+      Line 114, Column: 19 - 43, Address: [0x00001fff - 0x00002005] (7 bytes)
+      Line 114, Column: 44 - 57, Address: [0x00002006 - 0x0000200b] (6 bytes)
+      Line 114, Column: 58 - 59, Address: [0x0000200c - 0x0000200c] (1 bytes)
+      Line 118, Column: 19 - 45, Address: [0x0000200d - 0x00002013] (7 bytes)
+      Line 119, Column: 19 - 46, Address: [0x00002014 - 0x0000201a] (7 bytes)
+      Line 119, Column: 47 - 60, Address: [0x0000201b - 0x00002020] (6 bytes)
+      Line 119, Column: 61 - 62, Address: [0x00002021 - 0x00002021] (1 bytes)
+      Line 123, Column: 19 - 43, Address: [0x00002022 - 0x00002028] (7 bytes)
+      Line 128, Column: 13 - 23, Address: [0x00002029 - 0x0000202f] (7 bytes)
+      Line 129, Column: 13 - 43, Address: [0x00002030 - 0x0000203c] (13 bytes)
+      Line 129, Column: 44 - 55, Address: [0x0000203d - 0x0000204b] (15 bytes)
+      Line 130, Column: 13 - 41, Address: [0x0000204c - 0x00002058] (13 bytes)
+      Line 130, Column: 42 - 53, Address: [0x00002059 - 0x00002067] (15 bytes)
+      Line 131, Column: 13 - 44, Address: [0x00002068 - 0x00002074] (13 bytes)
+      Line 131, Column: 45 - 56, Address: [0x00002075 - 0x00002083] (15 bytes)
+      Line 132, Column: 13 - 42, Address: [0x00002084 - 0x00002090] (13 bytes)
+      Line 132, Column: 43 - 54, Address: [0x00002091 - 0x0000209f] (15 bytes)
+      Line 133, Column: 9 - 10, Address: [0x000020a0 - 0x000020a0] (1 bytes)
+      Line 155, Column: 20 - 76, Address: [0x000020a1 - 0x000020a7] (7 bytes)
+      Line 16707566, Address: [0x000020a8 - 0x000020a9] (2 bytes)
+      Line 160 - 161, Column: 21 - 113, Address: [0x000020aa - 0x000020b8] (15 bytes)
+      Line 163, Column: 25 - 43, Address: [0x000020b9 - 0x000020bc] (4 bytes)
+      Line 158, Column: 17 - 114, Address: [0x000020bd - 0x000020cc] (16 bytes)
+      Line 166, Column: 13 - 14, Address: [0x000020cd - 0x000020ce] (2 bytes)
+      Line 16707566, Address: [0x000020cf - 0x000020d7] (9 bytes)
+      Line 16707566, Address: [0x000020d8 - 0x000020d8] (1 bytes)
+      Line 168, Column: 13 - 48, Address: [0x000020d9 - 0x000020e0] (8 bytes)
+      Line 170, Column: 13 - 47, Address: [0x000020e1 - 0x000020ed] (13 bytes)
+      Line 171, Column: 13 - 49, Address: [0x000020ee - 0x000020fa] (13 bytes)
+      Line 172, Column: 13 - 50, Address: [0x000020fb - 0x00002107] (13 bytes)
+      Line 173, Column: 13 - 48, Address: [0x00002108 - 0x00002114] (13 bytes)
+      Line 175, Column: 13 - 31, Address: [0x00002115 - 0x00002116] (2 bytes)
+      Line 176, Column: 9 - 10, Address: [0x00002117 - 0x00002118] (2 bytes)
+      Line 183, Column: 13 - 48, Address: [0x00002119 - 0x00002120] (8 bytes)
+      Line 185, Column: 13 - 47, Address: [0x00002121 - 0x0000212d] (13 bytes)
+      Line 186, Column: 13 - 49, Address: [0x0000212e - 0x0000213a] (13 bytes)
+      Line 187, Column: 13 - 50, Address: [0x0000213b - 0x00002147] (13 bytes)
+      Line 188, Column: 13 - 48, Address: [0x00002148 - 0x00002154] (13 bytes)
+      Line 190, Column: 13 - 47, Address: [0x00002155 - 0x0000215e] (10 bytes)
+      Line 191, Column: 17 - 30, Address: [0x0000215f - 0x00002160] (2 bytes)
+      Line 194, Column: 13 - 36, Address: [0x00002161 - 0x00002162] (2 bytes)
+      Line 197, Column: 17 - 56, Address: [0x00002163 - 0x0000216f] (13 bytes)
+      Line 198, Column: 24 - 66, Address: [0x00002170 - 0x00002176] (7 bytes)
+      Line 200, Column: 21 - 31, Address: [0x00002177 - 0x00002178] (2 bytes)
+      Line 202, Column: 21 - 56, Address: [0x00002179 - 0x00002186] (14 bytes)
+      Line 204, Column: 21 - 45, Address: [0x00002187 - 0x00002188] (2 bytes)
+      Line 206, Column: 21 - 46, Address: [0x00002189 - 0x0000218b] (3 bytes)
+      Line 206, Column: 47 - 65, Address: [0x0000218c - 0x00002190] (5 bytes)
+      Line 207, Column: 21 - 44, Address: [0x00002191 - 0x00002193] (3 bytes)
+      Line 207, Column: 45 - 63, Address: [0x00002194 - 0x00002198] (5 bytes)
+      Line 208, Column: 21 - 47, Address: [0x00002199 - 0x0000219b] (3 bytes)
+      Line 208, Column: 48 - 66, Address: [0x0000219c - 0x000021a0] (5 bytes)
+      Line 209, Column: 21 - 45, Address: [0x000021a1 - 0x000021a4] (4 bytes)
+      Line 209, Column: 46 - 64, Address: [0x000021a5 - 0x000021a9] (5 bytes)
+      Line 212, Column: 21 - 58, Address: [0x000021aa - 0x000021b3] (10 bytes)
+      Line 213, Column: 25 - 38, Address: [0x000021b4 - 0x000021ba] (7 bytes)
+      Line 215, Column: 21 - 46, Address: [0x000021bb - 0x000021bd] (3 bytes)
+      Line 215, Column: 47 - 97, Address: [0x000021be - 0x000021cf] (18 bytes)
+      Line 216, Column: 21 - 44, Address: [0x000021d0 - 0x000021d2] (3 bytes)
+      Line 216, Column: 45 - 93, Address: [0x000021d3 - 0x000021e4] (18 bytes)
+      Line 217, Column: 21 - 47, Address: [0x000021e5 - 0x000021e7] (3 bytes)
+      Line 217, Column: 48 - 99, Address: [0x000021e8 - 0x000021f9] (18 bytes)
+      Line 218, Column: 21 - 45, Address: [0x000021fa - 0x000021fd] (4 bytes)
+      Line 218, Column: 46 - 95, Address: [0x000021fe - 0x0000220f] (18 bytes)
+      Line 221, Column: 21 - 58, Address: [0x00002210 - 0x00002233] (36 bytes)
+      Line 221, Column: 59 - 150, Address: [0x00002234 - 0x0000223e] (11 bytes)
+      Line 222, Column: 21 - 56, Address: [0x0000223f - 0x00002262] (36 bytes)
+      Line 222, Column: 57 - 146, Address: [0x00002263 - 0x0000226d] (11 bytes)
+      Line 223, Column: 21 - 59, Address: [0x0000226e - 0x00002291] (36 bytes)
+      Line 223, Column: 60 - 152, Address: [0x00002292 - 0x0000229c] (11 bytes)
+      Line 224, Column: 21 - 57, Address: [0x0000229d - 0x000022bf] (35 bytes)
+      Line 224, Column: 58 - 148, Address: [0x000022c0 - 0x000022ca] (11 bytes)
+      Line 226, Column: 21 - 33, Address: [0x000022cb - 0x000022ce] (4 bytes)
+      Line 16707566, Address: [0x000022cf - 0x000022d7] (9 bytes)
+      Line 16707566, Address: [0x000022d8 - 0x000022d8] (1 bytes)
+      Line 231, Column: 17 - 32, Address: [0x000022d9 - 0x000022db] (3 bytes)
+      Line 232, Column: 21 - 32, Address: [0x000022dc - 0x000022e1] (6 bytes)
+      Line 233, Column: 13 - 14, Address: [0x000022e2 - 0x000022e2] (1 bytes)
+      Line 234, Column: 9 - 10, Address: [0x000022e3 - 0x000022e4] (2 bytes)
+      Line 240, Column: 13 - 64, Address: [0x000022e5 - 0x000022ec] (8 bytes)
+      Line 242, Column: 13 - 47, Address: [0x000022ed - 0x000022f9] (13 bytes)
+      Line 243, Column: 13 - 49, Address: [0x000022fa - 0x00002306] (13 bytes)
+      Line 244, Column: 13 - 50, Address: [0x00002307 - 0x00002313] (13 bytes)
+      Line 245, Column: 13 - 48, Address: [0x00002314 - 0x00002320] (13 bytes)
+      Line 247, Column: 13 - 91, Address: [0x00002321 - 0x00002326] (6 bytes)
+      Line 248, Column: 13 - 45, Address: [0x00002327 - 0x00002328] (2 bytes)
+      Line 250, Column: 49 - 60, Address: [0x00002329 - 0x0000232f] (7 bytes)
+      Line 16707566, Address: [0x00002330 - 0x00002331] (2 bytes)
+      Line 250, Column: 22 - 45, Address: [0x00002332 - 0x0000233a] (9 bytes)
+      Line 252, Column: 17 - 43, Address: [0x0000233b - 0x00002344] (10 bytes)
+      Line 254, Column: 21 - 45, Address: [0x00002345 - 0x0000234c] (8 bytes)
+      Line 255, Column: 21 - 42, Address: [0x0000234d - 0x0000234f] (3 bytes)
+      Line 257 - 258, Column: 25 - 97, Address: [0x00002350 - 0x0000235f] (16 bytes)
+      Line 260, Column: 29 - 52, Address: [0x00002360 - 0x00002361] (2 bytes)
+      Line 250, Column: 46 - 48, Address: [0x00002362 - 0x0000236c] (11 bytes)
+      Line 16707566, Address: [0x0000236d - 0x0000237a] (14 bytes)
+      Line 266, Column: 49 - 64, Address: [0x0000237b - 0x00002382] (8 bytes)
+      Line 16707566, Address: [0x00002383 - 0x00002384] (2 bytes)
+      Line 266, Column: 22 - 45, Address: [0x00002385 - 0x0000238d] (9 bytes)
+      Line 267, Column: 17 - 40, Address: [0x0000238e - 0x00002396] (9 bytes)
+      Line 266, Column: 46 - 48, Address: [0x00002397 - 0x000023a1] (11 bytes)
+      Line 16707566, Address: [0x000023a2 - 0x000023af] (14 bytes)
+      Line 269, Column: 13 - 31, Address: [0x000023b0 - 0x000023b1] (2 bytes)
+      Line 274, Column: 13 - 91, Address: [0x000023b2 - 0x000023b7] (6 bytes)
+      Line 275, Column: 52 - 63, Address: [0x000023b8 - 0x000023be] (7 bytes)
+      Line 16707566, Address: [0x000023bf - 0x000023c0] (2 bytes)
+      Line 275, Column: 22 - 48, Address: [0x000023c1 - 0x000023c8] (8 bytes)
+      Line 276, Column: 17 - 46, Address: [0x000023c9 - 0x000023d2] (10 bytes)
+      Line 277, Column: 21 - 48, Address: [0x000023d3 - 0x000023d9] (7 bytes)
+      Line 275, Column: 49 - 51, Address: [0x000023da - 0x000023e4] (11 bytes)
+      Line 16707566, Address: [0x000023e5 - 0x000023f2] (14 bytes)
+      Line 279, Column: 52 - 67, Address: [0x000023f3 - 0x000023f9] (7 bytes)
+      Line 16707566, Address: [0x000023fa - 0x000023fb] (2 bytes)
+      Line 279, Column: 22 - 48, Address: [0x000023fc - 0x00002404] (9 bytes)
+      Line 280, Column: 17 - 43, Address: [0x00002405 - 0x0000240d] (9 bytes)
+      Line 279, Column: 49 - 51, Address: [0x0000240e - 0x00002418] (11 bytes)
+      Line 16707566, Address: [0x00002419 - 0x00002426] (14 bytes)
+      Line 281, Column: 9 - 10, Address: [0x00002427 - 0x00002427] (1 bytes)
+      Line 285, Column: 13 - 60, Address: [0x00002428 - 0x0000242e] (7 bytes)
+      Line 286, Column: 13 - 39, Address: [0x0000242f - 0x00002435] (7 bytes)
+      Line 287, Column: 13 - 33, Address: [0x00002436 - 0x00002441] (12 bytes)
+      Line 288, Column: 13 - 43, Address: [0x00002442 - 0x0000244e] (13 bytes)
+      Line 288, Column: 44 - 82, Address: [0x0000244f - 0x0000245f] (17 bytes)
+      Line 289, Column: 13 - 41, Address: [0x00002460 - 0x0000246c] (13 bytes)
+      Line 289, Column: 42 - 78, Address: [0x0000246d - 0x0000247d] (17 bytes)
+      Line 290, Column: 13 - 44, Address: [0x0000247e - 0x0000248a] (13 bytes)
+      Line 290, Column: 45 - 84, Address: [0x0000248b - 0x0000249b] (17 bytes)
+      Line 291, Column: 13 - 42, Address: [0x0000249c - 0x000024a8] (13 bytes)
+      Line 291, Column: 43 - 80, Address: [0x000024a9 - 0x000024b9] (17 bytes)
+      Line 292, Column: 9 - 10, Address: [0x000024ba - 0x000024ba] (1 bytes)
+  System.IO.Compression.Zip64EndOfCentralDirectoryLocator
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\ZipBlocks.cs
+      Line 306, Column: 13 - 72, Address: [0x000024bb - 0x000024c1] (7 bytes)
+      Line 308, Column: 13 - 58, Address: [0x000024c2 - 0x000024ce] (13 bytes)
+      Line 309, Column: 17 - 30, Address: [0x000024cf - 0x000024d0] (2 bytes)
+      Line 311, Column: 13 - 78, Address: [0x000024d1 - 0x000024dc] (12 bytes)
+      Line 312, Column: 13 - 70, Address: [0x000024dd - 0x000024e8] (12 bytes)
+      Line 313, Column: 13 - 71, Address: [0x000024e9 - 0x000024f4] (12 bytes)
+      Line 314, Column: 13 - 25, Address: [0x000024f5 - 0x000024f6] (2 bytes)
+      Line 319, Column: 13 - 60, Address: [0x000024f7 - 0x000024fd] (7 bytes)
+      Line 320, Column: 13 - 45, Address: [0x000024fe - 0x00002508] (11 bytes)
+      Line 321, Column: 13 - 37, Address: [0x00002509 - 0x0000250f] (7 bytes)
+      Line 322, Column: 13 - 48, Address: [0x00002510 - 0x00002516] (7 bytes)
+      Line 323, Column: 13 - 37, Address: [0x00002517 - 0x0000251d] (7 bytes)
+      Line 324, Column: 9 - 10, Address: [0x0000251e - 0x0000251e] (1 bytes)
+  System.IO.Compression.Zip64EndOfCentralDirectoryRecord
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\ZipBlocks.cs
+      Line 344, Column: 13 - 70, Address: [0x0000251f - 0x00002525] (7 bytes)
+      Line 346, Column: 13 - 58, Address: [0x00002526 - 0x00002532] (13 bytes)
+      Line 347, Column: 17 - 30, Address: [0x00002533 - 0x00002534] (2 bytes)
+      Line 349, Column: 13 - 68, Address: [0x00002535 - 0x00002540] (12 bytes)
+      Line 350, Column: 13 - 65, Address: [0x00002541 - 0x0000254c] (12 bytes)
+      Line 351, Column: 13 - 74, Address: [0x0000254d - 0x00002558] (12 bytes)
+      Line 352, Column: 13 - 68, Address: [0x00002559 - 0x00002564] (12 bytes)
+      Line 353, Column: 13 - 77, Address: [0x00002565 - 0x00002570] (12 bytes)
+      Line 354, Column: 13 - 77, Address: [0x00002571 - 0x0000257c] (12 bytes)
+      Line 355, Column: 13 - 72, Address: [0x0000257d - 0x00002588] (12 bytes)
+      Line 356, Column: 13 - 74, Address: [0x00002589 - 0x00002594] (12 bytes)
+      Line 357, Column: 13 - 76, Address: [0x00002595 - 0x000025a0] (12 bytes)
+      Line 359, Column: 13 - 25, Address: [0x000025a1 - 0x000025a2] (2 bytes)
+      Line 364, Column: 13 - 60, Address: [0x000025a3 - 0x000025a9] (7 bytes)
+      Line 367, Column: 13 - 45, Address: [0x000025aa - 0x000025b4] (11 bytes)
+      Line 368, Column: 13 - 38, Address: [0x000025b5 - 0x000025bd] (9 bytes)
+      Line 369, Column: 13 - 64, Address: [0x000025be - 0x000025c5] (8 bytes)
+      Line 370, Column: 13 - 64, Address: [0x000025c6 - 0x000025cd] (8 bytes)
+      Line 371, Column: 13 - 37, Address: [0x000025ce - 0x000025d4] (7 bytes)
+      Line 372, Column: 13 - 37, Address: [0x000025d5 - 0x000025db] (7 bytes)
+      Line 373, Column: 13 - 43, Address: [0x000025dc - 0x000025e2] (7 bytes)
+      Line 374, Column: 13 - 43, Address: [0x000025e3 - 0x000025e9] (7 bytes)
+      Line 375, Column: 13 - 50, Address: [0x000025ea - 0x000025f0] (7 bytes)
+      Line 376, Column: 13 - 51, Address: [0x000025f1 - 0x000025f7] (7 bytes)
+      Line 377, Column: 9 - 10, Address: [0x000025f8 - 0x000025f8] (1 bytes)
+  System.IO.Compression.ZipLocalFileHeader
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\ZipBlocks.cs
+      Line 396, Column: 13 - 80, Address: [0x000025f9 - 0x00002608] (16 bytes)
+      Line 398, Column: 13 - 57, Address: [0x00002609 - 0x0000260f] (7 bytes)
+      Line 399, Column: 13 - 59, Address: [0x00002610 - 0x00002616] (7 bytes)
+      Line 401, Column: 13 - 72, Address: [0x00002617 - 0x00002625] (15 bytes)
+      Line 404, Column: 20 - 115, Address: [0x00002626 - 0x0000263e] (25 bytes)
+      Line 406, Column: 17 - 68, Address: [0x0000263f - 0x00002645] (7 bytes)
+      Line 407, Column: 13 - 14, Address: [0x00002646 - 0x00002647] (2 bytes)
+      Line 16707566, Address: [0x00002648 - 0x00002650] (9 bytes)
+      Line 16707566, Address: [0x00002651 - 0x00002651] (1 bytes)
+      Line 408, Column: 13 - 55, Address: [0x00002652 - 0x00002657] (6 bytes)
+      Line 410, Column: 13 - 27, Address: [0x00002658 - 0x00002659] (2 bytes)
+      Line 418, Column: 13 - 58, Address: [0x0000265a - 0x00002666] (13 bytes)
+      Line 419, Column: 17 - 30, Address: [0x00002667 - 0x00002668] (2 bytes)
+      Line 422, Column: 13 - 96, Address: [0x00002669 - 0x00002684] (28 bytes)
+      Line 423, Column: 17 - 30, Address: [0x00002685 - 0x00002686] (2 bytes)
+      Line 425, Column: 13 - 80, Address: [0x00002687 - 0x00002696] (16 bytes)
+      Line 427, Column: 13 - 57, Address: [0x00002697 - 0x0000269d] (7 bytes)
+      Line 428, Column: 13 - 59, Address: [0x0000269e - 0x000026a4] (7 bytes)
+      Line 430, Column: 13 - 107, Address: [0x000026a5 - 0x000026c2] (30 bytes)
+      Line 431, Column: 17 - 30, Address: [0x000026c3 - 0x000026c4] (2 bytes)
+      Line 433, Column: 13 - 91, Address: [0x000026c5 - 0x000026d5] (17 bytes)
+      Line 435, Column: 13 - 25, Address: [0x000026d6 - 0x000026d7] (2 bytes)
+  System.IO.Compression.ZipCentralDirectoryFileHeader
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\ZipBlocks.cs
+      Line 466, Column: 13 - 58, Address: [0x000026d8 - 0x000026de] (7 bytes)
+      Line 468, Column: 13 - 58, Address: [0x000026df - 0x000026eb] (13 bytes)
+      Line 469, Column: 17 - 30, Address: [0x000026ec - 0x000026ed] (2 bytes)
+      Line 471, Column: 13 - 56, Address: [0x000026ee - 0x000026f9] (12 bytes)
+      Line 472, Column: 13 - 65, Address: [0x000026fa - 0x00002705] (12 bytes)
+      Line 473, Column: 13 - 64, Address: [0x00002706 - 0x00002711] (12 bytes)
+      Line 474, Column: 13 - 60, Address: [0x00002712 - 0x0000271d] (12 bytes)
+      Line 475, Column: 13 - 55, Address: [0x0000271e - 0x00002729] (12 bytes)
+      Line 476, Column: 13 - 48, Address: [0x0000272a - 0x00002735] (12 bytes)
+      Line 477, Column: 13 - 62, Address: [0x00002736 - 0x0000273c] (7 bytes)
+      Line 478, Column: 13 - 64, Address: [0x0000273d - 0x00002743] (7 bytes)
+      Line 479, Column: 13 - 57, Address: [0x00002744 - 0x0000274f] (12 bytes)
+      Line 480, Column: 13 - 59, Address: [0x00002750 - 0x0000275b] (12 bytes)
+      Line 481, Column: 13 - 60, Address: [0x0000275c - 0x00002767] (12 bytes)
+      Line 482, Column: 13 - 63, Address: [0x00002768 - 0x0000276e] (7 bytes)
+      Line 483, Column: 13 - 65, Address: [0x0000276f - 0x0000277a] (12 bytes)
+      Line 484, Column: 13 - 65, Address: [0x0000277b - 0x00002786] (12 bytes)
+      Line 485, Column: 13 - 75, Address: [0x00002787 - 0x0000278d] (7 bytes)
+      Line 487, Column: 13 - 71, Address: [0x0000278e - 0x0000279f] (18 bytes)
+      Line 489, Column: 13 - 92, Address: [0x000027a0 - 0x000027a5] (6 bytes)
+      Line 490, Column: 13 - 88, Address: [0x000027a6 - 0x000027ab] (6 bytes)
+      Line 491, Column: 13 - 101, Address: [0x000027ac - 0x000027b1] (6 bytes)
+      Line 492, Column: 13 - 90, Address: [0x000027b2 - 0x000027bb] (10 bytes)
+      Line 495, Column: 13 - 88, Address: [0x000027bc - 0x000027d0] (21 bytes)
+      Line 496, Column: 20 - 122, Address: [0x000027d1 - 0x000027ef] (31 bytes)
+      Line 498, Column: 17 - 48, Address: [0x000027f0 - 0x000027f2] (3 bytes)
+      Line 500, Column: 21 - 84, Address: [0x000027f3 - 0x000027ff] (13 bytes)
+      Line 501 - 503, Column: 21 - 76, Address: [0x00002800 - 0x00002814] (21 bytes)
+      Line 504, Column: 17 - 18, Address: [0x00002815 - 0x00002816] (2 bytes)
+      Line 507, Column: 21 - 47, Address: [0x00002817 - 0x0000281d] (7 bytes)
+      Line 508 - 510, Column: 21 - 76, Address: [0x0000281e - 0x0000282e] (17 bytes)
+      Line 512, Column: 13 - 14, Address: [0x0000282f - 0x00002830] (2 bytes)
+      Line 16707566, Address: [0x00002831 - 0x0000283b] (11 bytes)
+      Line 16707566, Address: [0x0000283c - 0x0000283c] (1 bytes)
+      Line 516, Column: 13 - 65, Address: [0x0000283d - 0x00002849] (13 bytes)
+      Line 518, Column: 13 - 44, Address: [0x0000284a - 0x0000284c] (3 bytes)
+      Line 519, Column: 17 - 81, Address: [0x0000284d - 0x00002860] (20 bytes)
+      Line 522, Column: 17 - 72, Address: [0x00002861 - 0x00002879] (25 bytes)
+      Line 523, Column: 17 - 43, Address: [0x0000287a - 0x00002880] (7 bytes)
+      Line 526 - 528, Column: 13 - 84, Address: [0x00002881 - 0x000028ac] (44 bytes)
+      Line 529 - 531, Column: 13 - 82, Address: [0x000028ad - 0x000028d8] (44 bytes)
+      Line 532 - 534, Column: 13 - 85, Address: [0x000028d9 - 0x00002904] (44 bytes)
+      Line 535 - 537, Column: 13 - 83, Address: [0x00002905 - 0x0000292f] (43 bytes)
+      Line 539, Column: 13 - 25, Address: [0x00002930 - 0x00002931] (2 bytes)
+  System.IO.Compression.ZipEndOfCentralDirectoryBlock
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\ZipBlocks.cs
+      Line 558, Column: 13 - 60, Address: [0x00002932 - 0x00002938] (7 bytes)
+      Line 560 - 561, Column: 13 - 103, Address: [0x00002939 - 0x0000294b] (19 bytes)
+      Line 562 - 563, Column: 13 - 111, Address: [0x0000294c - 0x00002956] (11 bytes)
+      Line 564 - 565, Column: 13 - 110, Address: [0x00002957 - 0x00002961] (11 bytes)
+      Line 567, Column: 13 - 45, Address: [0x00002962 - 0x0000296c] (11 bytes)
+      Line 568, Column: 13 - 37, Address: [0x0000296d - 0x00002973] (7 bytes)
+      Line 569, Column: 13 - 37, Address: [0x00002974 - 0x0000297a] (7 bytes)
+      Line 570, Column: 13 - 52, Address: [0x0000297b - 0x00002981] (7 bytes)
+      Line 571, Column: 13 - 52, Address: [0x00002982 - 0x00002988] (7 bytes)
+      Line 572, Column: 13 - 59, Address: [0x00002989 - 0x0000298f] (7 bytes)
+      Line 573, Column: 13 - 60, Address: [0x00002990 - 0x00002996] (7 bytes)
+      Line 578, Column: 13 - 94, Address: [0x00002997 - 0x000029a8] (18 bytes)
+      Line 579, Column: 13 - 40, Address: [0x000029a9 - 0x000029ac] (4 bytes)
+      Line 580, Column: 17 - 46, Address: [0x000029ad - 0x000029b4] (8 bytes)
+      Line 581, Column: 9 - 10, Address: [0x000029b5 - 0x000029b5] (1 bytes)
+      Line 585, Column: 13 - 61, Address: [0x000029b6 - 0x000029bc] (7 bytes)
+      Line 586, Column: 13 - 58, Address: [0x000029bd - 0x000029c9] (13 bytes)
+      Line 587, Column: 17 - 30, Address: [0x000029ca - 0x000029cb] (2 bytes)
+      Line 589, Column: 13 - 53, Address: [0x000029cc - 0x000029d6] (11 bytes)
+      Line 590, Column: 13 - 62, Address: [0x000029d7 - 0x000029e2] (12 bytes)
+      Line 591, Column: 13 - 94, Address: [0x000029e3 - 0x000029ee] (12 bytes)
+      Line 592, Column: 13 - 92, Address: [0x000029ef - 0x000029fa] (12 bytes)
+      Line 593, Column: 13 - 82, Address: [0x000029fb - 0x00002a06] (12 bytes)
+      Line 594, Column: 13 - 68, Address: [0x00002a07 - 0x00002a12] (12 bytes)
+      Line 595, Column: 13 - 111, Address: [0x00002a13 - 0x00002a1e] (12 bytes)
+      Line 597, Column: 13 - 56, Address: [0x00002a1f - 0x00002a25] (7 bytes)
+      Line 598, Column: 13 - 72, Address: [0x00002a26 - 0x00002a32] (13 bytes)
+      Line 600, Column: 13 - 25, Address: [0x00002a33 - 0x00002a34] (2 bytes)
+  System.IO.Compression.ZipHelper
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\ZipHelper.cs
+      Line 22, Column: 13 - 49, Address: [0x00002a35 - 0x00002a45] (17 bytes)
+      Line 29, Column: 32 - 36, Address: [0x00002a46 - 0x00002a49] (4 bytes)
+      Line 16707566, Address: [0x00002a4a - 0x00002a4b] (2 bytes)
+      Line 29, Column: 22 - 28, Address: [0x00002a4c - 0x00002a53] (8 bytes)
+      Line 31, Column: 17 - 29, Address: [0x00002a54 - 0x00002a58] (5 bytes)
+      Line 31, Column: 30 - 42, Address: [0x00002a59 - 0x00002a5a] (2 bytes)
+      Line 16707566, Address: [0x00002a5b - 0x00002a5e] (4 bytes)
+      Line 29, Column: 29 - 31, Address: [0x00002a5f - 0x00002a67] (9 bytes)
+      Line 34, Column: 13 - 26, Address: [0x00002a68 - 0x00002a69] (2 bytes)
+      Line 40, Column: 13 - 49, Address: [0x00002a6a - 0x00002a6b] (2 bytes)
+      Line 42, Column: 13 - 38, Address: [0x00002a6c - 0x00002a6d] (2 bytes)
+      Line 16707566, Address: [0x00002a6e - 0x00002a6f] (2 bytes)
+      Line 46, Column: 17 - 88, Address: [0x00002a70 - 0x00002a79] (10 bytes)
+      Line 47, Column: 17 - 36, Address: [0x00002a7a - 0x00002a7c] (3 bytes)
+      Line 47, Column: 37 - 113, Address: [0x00002a7d - 0x00002a87] (11 bytes)
+      Line 49, Column: 17 - 45, Address: [0x00002a88 - 0x00002a8b] (4 bytes)
+      Line 50, Column: 17 - 46, Address: [0x00002a8c - 0x00002a8f] (4 bytes)
+      Line 44, Column: 13 - 40, Address: [0x00002a90 - 0x00002a93] (4 bytes)
+      Line 52, Column: 9 - 10, Address: [0x00002a94 - 0x00002a94] (1 bytes)
+      Line 68, Column: 13 - 76, Address: [0x00002a95 - 0x00002a9f] (11 bytes)
+      Line 69, Column: 13 - 59, Address: [0x00002aa0 - 0x00002aa7] (8 bytes)
+      Line 70, Column: 13 - 58, Address: [0x00002aa8 - 0x00002aaf] (8 bytes)
+      Line 71, Column: 13 - 59, Address: [0x00002ab0 - 0x00002ab7] (8 bytes)
+      Line 72, Column: 13 - 60, Address: [0x00002ab8 - 0x00002abf] (8 bytes)
+      Line 73, Column: 13 - 61, Address: [0x00002ac0 - 0x00002ac7] (8 bytes)
+      Line 77, Column: 17 - 87, Address: [0x00002ac8 - 0x00002ad9] (18 bytes)
+      Line 79, Column: 13 - 48, Address: [0x00002ada - 0x00002ada] (1 bytes)
+      Line 81, Column: 17 - 45, Address: [0x00002adb - 0x00002ae3] (9 bytes)
+      Line 83, Column: 13 - 38, Address: [0x00002ae4 - 0x00002ae4] (1 bytes)
+      Line 85, Column: 17 - 45, Address: [0x00002ae5 - 0x00002aed] (9 bytes)
+      Line 87, Column: 9 - 10, Address: [0x00002aee - 0x00002af0] (3 bytes)
+      Line 96, Column: 13 - 71, Address: [0x00002af1 - 0x00002b01] (17 bytes)
+      Line 97, Column: 13 - 47, Address: [0x00002b02 - 0x00002b0d] (12 bytes)
+      Line 98, Column: 13 - 45, Address: [0x00002b0e - 0x00002b19] (12 bytes)
+      Line 99, Column: 13 - 46, Address: [0x00002b1a - 0x00002b25] (12 bytes)
+      Line 100, Column: 13 - 48, Address: [0x00002b26 - 0x00002b31] (12 bytes)
+      Line 101, Column: 13 - 54, Address: [0x00002b32 - 0x00002b3f] (14 bytes)
+      Line 102, Column: 13 - 30, Address: [0x00002b40 - 0x00002b41] (2 bytes)
+      Line 111, Column: 13 - 37, Address: [0x00002b42 - 0x00002b43] (2 bytes)
+      Line 112, Column: 13 - 41, Address: [0x00002b44 - 0x00002b45] (2 bytes)
+      Line 113, Column: 13 - 66, Address: [0x00002b46 - 0x00002b4d] (8 bytes)
+      Line 115, Column: 13 - 40, Address: [0x00002b4e - 0x00002b4f] (2 bytes)
+      Line 116, Column: 13 - 44, Address: [0x00002b50 - 0x00002b52] (3 bytes)
+      Line 16707566, Address: [0x00002b53 - 0x00002b54] (2 bytes)
+      Line 120, Column: 17 - 86, Address: [0x00002b55 - 0x00002b5e] (10 bytes)
+      Line 16707566, Address: [0x00002b5f - 0x00002b60] (2 bytes)
+      Line 126, Column: 21 - 98, Address: [0x00002b61 - 0x00002b68] (8 bytes)
+      Line 127, Column: 21 - 61, Address: [0x00002b69 - 0x00002b6c] (4 bytes)
+      Line 129, Column: 25 - 47, Address: [0x00002b6d - 0x00002b6f] (3 bytes)
+      Line 130, Column: 21 - 22, Address: [0x00002b70 - 0x00002b71] (2 bytes)
+      Line 133, Column: 25 - 41, Address: [0x00002b72 - 0x00002b75] (4 bytes)
+      Line 124, Column: 17 - 62, Address: [0x00002b76 - 0x00002b7d] (8 bytes)
+      Line 118, Column: 13 - 51, Address: [0x00002b7e - 0x00002b84] (7 bytes)
+      Line 138, Column: 13 - 33, Address: [0x00002b85 - 0x00002b88] (4 bytes)
+      Line 140, Column: 17 - 30, Address: [0x00002b89 - 0x00002b8a] (2 bytes)
+      Line 144, Column: 17 - 64, Address: [0x00002b8b - 0x00002b94] (10 bytes)
+      Line 145, Column: 17 - 29, Address: [0x00002b95 - 0x00002b96] (2 bytes)
+      Line 152, Column: 13 - 60, Address: [0x00002b97 - 0x00002b9f] (9 bytes)
+      Line 16707566, Address: [0x00002ba0 - 0x00002ba1] (2 bytes)
+      Line 157, Column: 17 - 117, Address: [0x00002ba2 - 0x00002bae] (13 bytes)
+      Line 158, Column: 17 - 109, Address: [0x00002baf - 0x00002bbe] (16 bytes)
+      Line 159, Column: 17 - 50, Address: [0x00002bbf - 0x00002bc1] (3 bytes)
+      Line 160, Column: 21 - 97, Address: [0x00002bc2 - 0x00002bcc] (11 bytes)
+      Line 161, Column: 17 - 57, Address: [0x00002bcd - 0x00002bd1] (5 bytes)
+      Line 154, Column: 13 - 38, Address: [0x00002bd2 - 0x00002bd4] (3 bytes)
+      Line 163, Column: 9 - 10, Address: [0x00002bd5 - 0x00002bd5] (1 bytes)
+      Line 168, Column: 13 - 50, Address: [0x00002bd6 - 0x00002be1] (12 bytes)
+      Line 170, Column: 17 - 65, Address: [0x00002be2 - 0x00002bee] (13 bytes)
+      Line 171, Column: 17 - 68, Address: [0x00002bef - 0x00002bf8] (10 bytes)
+      Line 172, Column: 17 - 65, Address: [0x00002bf9 - 0x00002c05] (13 bytes)
+      Line 173, Column: 17 - 51, Address: [0x00002c06 - 0x00002c0c] (7 bytes)
+      Line 174, Column: 17 - 30, Address: [0x00002c0d - 0x00002c0e] (2 bytes)
+      Line 178, Column: 17 - 60, Address: [0x00002c0f - 0x00002c16] (8 bytes)
+      Line 179, Column: 17 - 50, Address: [0x00002c17 - 0x00002c20] (10 bytes)
+      Line 180, Column: 17 - 66, Address: [0x00002c21 - 0x00002c28] (8 bytes)
+      Line 181, Column: 17 - 50, Address: [0x00002c29 - 0x00002c32] (10 bytes)
+      Line 182, Column: 17 - 49, Address: [0x00002c33 - 0x00002c37] (5 bytes)
+      Line 183, Column: 17 - 29, Address: [0x00002c38 - 0x00002c39] (2 bytes)
+      Line 17, Column: 9 - 115, Address: [0x00002c3a - 0x00002c4e] (21 bytes)
+  System.IO.Compression.Messages
+    f:\dd\ndp\fx\src\System.IO.Compression\Messages.Designer.cs
+      Line 32, Column: 9 - 28, Address: [0x00002c4f - 0x00002c54] (6 bytes)
+      Line 33, Column: 9 - 10, Address: [0x00002c55 - 0x00002c55] (1 bytes)
+      Line 41, Column: 17 - 63, Address: [0x00002c56 - 0x00002c5c] (7 bytes)
+      Line 42, Column: 21 - 175, Address: [0x00002c5d - 0x00002c76] (26 bytes)
+      Line 43, Column: 21 - 40, Address: [0x00002c77 - 0x00002c7c] (6 bytes)
+      Line 45, Column: 17 - 36, Address: [0x00002c7d - 0x00002c82] (6 bytes)
+      Line 56, Column: 17 - 40, Address: [0x00002c83 - 0x00002c88] (6 bytes)
+      Line 59, Column: 17 - 41, Address: [0x00002c89 - 0x00002c8e] (6 bytes)
+      Line 60, Column: 13 - 14, Address: [0x00002c8f - 0x00002c8f] (1 bytes)
+      Line 68, Column: 17 - 94, Address: [0x00002c90 - 0x00002ca4] (21 bytes)
+      Line 77, Column: 17 - 84, Address: [0x00002ca5 - 0x00002cb9] (21 bytes)
+      Line 86, Column: 17 - 80, Address: [0x00002cba - 0x00002cce] (21 bytes)
+      Line 95, Column: 17 - 94, Address: [0x00002ccf - 0x00002ce3] (21 bytes)
+      Line 104, Column: 17 - 87, Address: [0x00002ce4 - 0x00002cf8] (21 bytes)
+      Line 113, Column: 17 - 93, Address: [0x00002cf9 - 0x00002d0d] (21 bytes)
+      Line 122, Column: 17 - 101, Address: [0x00002d0e - 0x00002d22] (21 bytes)
+      Line 131, Column: 17 - 108, Address: [0x00002d23 - 0x00002d37] (21 bytes)
+      Line 140, Column: 17 - 86, Address: [0x00002d38 - 0x00002d4c] (21 bytes)
+      Line 149, Column: 17 - 89, Address: [0x00002d4d - 0x00002d61] (21 bytes)
+      Line 158, Column: 17 - 83, Address: [0x00002d62 - 0x00002d76] (21 bytes)
+      Line 167, Column: 17 - 89, Address: [0x00002d77 - 0x00002d8b] (21 bytes)
+      Line 176, Column: 17 - 86, Address: [0x00002d8c - 0x00002da0] (21 bytes)
+      Line 185, Column: 17 - 90, Address: [0x00002da1 - 0x00002db5] (21 bytes)
+      Line 194, Column: 17 - 100, Address: [0x00002db6 - 0x00002dca] (21 bytes)
+      Line 203, Column: 17 - 88, Address: [0x00002dcb - 0x00002ddf] (21 bytes)
+      Line 212, Column: 17 - 84, Address: [0x00002de0 - 0x00002df4] (21 bytes)
+      Line 221, Column: 17 - 83, Address: [0x00002df5 - 0x00002e09] (21 bytes)
+      Line 230, Column: 17 - 96, Address: [0x00002e0a - 0x00002e1e] (21 bytes)
+      Line 239, Column: 17 - 99, Address: [0x00002e1f - 0x00002e33] (21 bytes)
+      Line 248, Column: 17 - 92, Address: [0x00002e34 - 0x00002e48] (21 bytes)
+      Line 257, Column: 17 - 92, Address: [0x00002e49 - 0x00002e5d] (21 bytes)
+      Line 266, Column: 17 - 99, Address: [0x00002e5e - 0x00002e72] (21 bytes)
+      Line 275, Column: 17 - 97, Address: [0x00002e73 - 0x00002e87] (21 bytes)
+      Line 284, Column: 17 - 98, Address: [0x00002e88 - 0x00002e9c] (21 bytes)
+      Line 293, Column: 17 - 87, Address: [0x00002e9d - 0x00002eb1] (21 bytes)
+      Line 302, Column: 17 - 87, Address: [0x00002eb2 - 0x00002ec6] (21 bytes)
+      Line 311, Column: 17 - 87, Address: [0x00002ec7 - 0x00002edb] (21 bytes)
+      Line 320, Column: 17 - 93, Address: [0x00002edc - 0x00002ef0] (21 bytes)
+      Line 329, Column: 17 - 86, Address: [0x00002ef1 - 0x00002f05] (21 bytes)
+      Line 338, Column: 17 - 90, Address: [0x00002f06 - 0x00002f1a] (21 bytes)
+      Line 347, Column: 17 - 90, Address: [0x00002f1b - 0x00002f2f] (21 bytes)
+      Line 356, Column: 17 - 91, Address: [0x00002f30 - 0x00002f44] (21 bytes)
+      Line 365, Column: 17 - 86, Address: [0x00002f45 - 0x00002f59] (21 bytes)
+      Line 374, Column: 17 - 90, Address: [0x00002f5a - 0x00002f6e] (21 bytes)
+      Line 383, Column: 17 - 105, Address: [0x00002f6f - 0x00002f83] (21 bytes)
+      Line 392, Column: 17 - 83, Address: [0x00002f84 - 0x00002f98] (21 bytes)
+      Line 401, Column: 17 - 92, Address: [0x00002f99 - 0x00002fad] (21 bytes)
+      Line 410, Column: 17 - 93, Address: [0x00002fae - 0x00002fc2] (21 bytes)
+      Line 419, Column: 17 - 93, Address: [0x00002fc3 - 0x00002fd7] (21 bytes)
+      Line 428, Column: 17 - 90, Address: [0x00002fd8 - 0x00002fec] (21 bytes)
+      Line 437, Column: 17 - 90, Address: [0x00002fed - 0x00003001] (21 bytes)
+      Line 446, Column: 17 - 96, Address: [0x00003002 - 0x00003016] (21 bytes)
+  System.IO.Compression.ZipArchiveEntry.DirectToArchiveWriterStream
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\ZipArchiveEntry.cs
+      Line 1094, Column: 13 - 112, Address: [0x00003017 - 0x0000301c] (6 bytes)
+      Line 1096, Column: 17 - 31, Address: [0x0000301d - 0x00003024] (8 bytes)
+      Line 1097, Column: 17 - 48, Address: [0x00003025 - 0x0000302b] (7 bytes)
+      Line 1098, Column: 17 - 38, Address: [0x0000302c - 0x00003032] (7 bytes)
+      Line 1099, Column: 17 - 37, Address: [0x00003033 - 0x00003039] (7 bytes)
+      Line 1100, Column: 17 - 32, Address: [0x0000303a - 0x00003040] (7 bytes)
+      Line 1101, Column: 17 - 40, Address: [0x00003041 - 0x00003047] (7 bytes)
+      Line 1102, Column: 17 - 34, Address: [0x00003048 - 0x0000304e] (7 bytes)
+      Line 1103, Column: 13 - 14, Address: [0x0000304f - 0x0000304f] (1 bytes)
+      Line 1113, Column: 21 - 39, Address: [0x00003050 - 0x00003055] (6 bytes)
+      Line 1114, Column: 21 - 105, Address: [0x00003056 - 0x00003060] (11 bytes)
+      Line 1123, Column: 21 - 39, Address: [0x00003061 - 0x00003066] (6 bytes)
+      Line 1124, Column: 21 - 38, Address: [0x00003067 - 0x0000306d] (7 bytes)
+      Line 1128, Column: 21 - 39, Address: [0x0000306e - 0x00003073] (6 bytes)
+      Line 1129, Column: 21 - 105, Address: [0x00003074 - 0x0000307e] (11 bytes)
+      Line 1133, Column: 53 - 66, Address: [0x0000307f - 0x00003080] (2 bytes)
+      Line 1134, Column: 53 - 66, Address: [0x00003081 - 0x00003082] (2 bytes)
+      Line 1135, Column: 54 - 71, Address: [0x00003083 - 0x00003089] (7 bytes)
+      Line 1143, Column: 17 - 33, Address: [0x0000308a - 0x00003091] (8 bytes)
+      Line 1144, Column: 21 - 125, Address: [0x00003092 - 0x000030a7] (22 bytes)
+      Line 1145, Column: 13 - 14, Address: [0x000030a8 - 0x000030a8] (1 bytes)
+      Line 1149, Column: 17 - 35, Address: [0x000030a9 - 0x000030ae] (6 bytes)
+      Line 1150, Column: 17 - 101, Address: [0x000030af - 0x000030b9] (11 bytes)
+      Line 1155, Column: 17 - 35, Address: [0x000030ba - 0x000030bf] (6 bytes)
+      Line 1156, Column: 17 - 101, Address: [0x000030c0 - 0x000030ca] (11 bytes)
+      Line 1161, Column: 17 - 35, Address: [0x000030cb - 0x000030d0] (6 bytes)
+      Line 1162, Column: 17 - 116, Address: [0x000030d1 - 0x000030db] (11 bytes)
+      Line 1170, Column: 17 - 36, Address: [0x000030dc - 0x000030de] (3 bytes)
+      Line 1171, Column: 21 - 63, Address: [0x000030df - 0x000030e9] (11 bytes)
+      Line 1172, Column: 17 - 32, Address: [0x000030ea - 0x000030ed] (4 bytes)
+      Line 1173, Column: 21 - 125, Address: [0x000030ee - 0x000030fd] (16 bytes)
+      Line 1174, Column: 17 - 31, Address: [0x000030fe - 0x00003101] (4 bytes)
+      Line 1175, Column: 21 - 124, Address: [0x00003102 - 0x00003111] (16 bytes)
+      Line 1176, Column: 17 - 54, Address: [0x00003112 - 0x00003119] (8 bytes)
+      Line 1177, Column: 21 - 101, Address: [0x0000311a - 0x00003124] (11 bytes)
+      Line 1180, Column: 17 - 35, Address: [0x00003125 - 0x0000312a] (6 bytes)
+      Line 1184, Column: 17 - 32, Address: [0x0000312b - 0x0000312d] (3 bytes)
+      Line 1185, Column: 21 - 28, Address: [0x0000312e - 0x0000312e] (1 bytes)
+      Line 1187, Column: 17 - 35, Address: [0x0000312f - 0x00003136] (8 bytes)
+      Line 1189, Column: 21 - 41, Address: [0x00003137 - 0x0000313d] (7 bytes)
+      Line 1191, Column: 21 - 73, Address: [0x0000313e - 0x0000314f] (18 bytes)
+      Line 1194, Column: 17 - 61, Address: [0x00003150 - 0x0000315d] (14 bytes)
+      Line 1195, Column: 17 - 36, Address: [0x0000315e - 0x0000316c] (15 bytes)
+      Line 1196, Column: 13 - 14, Address: [0x0000316d - 0x0000316d] (1 bytes)
+      Line 1200, Column: 17 - 35, Address: [0x0000316e - 0x00003173] (6 bytes)
+      Line 1203, Column: 17 - 40, Address: [0x00003174 - 0x0000317e] (11 bytes)
+      Line 1204, Column: 13 - 14, Address: [0x0000317f - 0x0000317f] (1 bytes)
+      Line 1208, Column: 17 - 47, Address: [0x00003180 - 0x0000318a] (11 bytes)
+      Line 1210, Column: 21 - 44, Address: [0x0000318b - 0x00003195] (11 bytes)
+      Line 1212, Column: 21 - 39, Address: [0x00003196 - 0x0000319d] (8 bytes)
+      Line 1215, Column: 25 - 59, Address: [0x0000319e - 0x000031aa] (13 bytes)
+      Line 1216, Column: 21 - 22, Address: [0x000031ab - 0x000031ac] (2 bytes)
+      Line 1220, Column: 25 - 67, Address: [0x000031ad - 0x000031c3] (23 bytes)
+      Line 1223, Column: 29 - 82, Address: [0x000031c4 - 0x000031d6] (19 bytes)
+      Line 1226, Column: 29 - 58, Address: [0x000031d7 - 0x000031e1] (11 bytes)
+      Line 1228, Column: 21 - 39, Address: [0x000031e2 - 0x000031e8] (7 bytes)
+      Line 1229, Column: 21 - 40, Address: [0x000031e9 - 0x000031ef] (7 bytes)
+      Line 1232, Column: 17 - 41, Address: [0x000031f0 - 0x000031f6] (7 bytes)
+      Line 1233, Column: 13 - 14, Address: [0x000031f7 - 0x000031f7] (1 bytes)
+  System.IO.Compression.ZipArchiveEntry.<>c__DisplayClass64_0
+    f:\dd\ndp\fx\src\System.IO.Compression\System\IO\Compression\ZipArchiveEntry.cs
+      Line 649, Column: 25 - 43, Address: [0x000031f8 - 0x00003203] (12 bytes)
+      Line 650, Column: 25 - 61, Address: [0x00003204 - 0x0000320f] (12 bytes)
+      Line 651, Column: 25 - 84, Address: [0x00003210 - 0x00003227] (24 bytes)
+      Line 653, Column: 25 - 45, Address: [0x00003228 - 0x0000322f] (8 bytes)
+      Line 654, Column: 29 - 60, Address: [0x00003230 - 0x00003245] (22 bytes)
+      Line 655, Column: 21 - 22, Address: [0x00003246 - 0x00003246] (1 bytes)
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.IO.Compression.Crc32Helper
+    func [0x00000000+ 0 - 0x00000033-51 | sizeof= 51] (FPO) UpdateCrc32
+    func [0x00000033+18446744073709551565 - 0x0000004e-78 | sizeof= 27] (FPO) .cctor
+  System.IO.Compression.WrappedStream
+    func [0x0000004e+18446744073709551538 - 0x0000005d-93 | sizeof= 15] (FPO) .ctor
+    func [0x0000005d+18446744073709551523 - 0x00000098-152 | sizeof= 59] (FPO) .ctor
+    func [0x00000098+18446744073709551464 - 0x000000a4-164 | sizeof= 12] (FPO) .ctor
+    func [0x000000a4+18446744073709551452 - 0x000000b6-182 | sizeof= 18] (FPO) get_Length
+    func [0x000000b6+18446744073709551434 - 0x000000c8-200 | sizeof= 18] (FPO) get_Position
+    func [0x000000c8+18446744073709551416 - 0x000000e1-225 | sizeof= 25] (FPO) set_Position
+    func [0x000000e1+18446744073709551391 - 0x000000f7-247 | sizeof= 22] (FPO) get_CanRead
+    func [0x000000f7+18446744073709551369 - 0x0000010d-269 | sizeof= 22] (FPO) get_CanSeek
+    func [0x0000010d+18446744073709551347 - 0x00000123-291 | sizeof= 22] (FPO) get_CanWrite
+    func [0x00000123+18446744073709551325 - 0x00000142-322 | sizeof= 31] (FPO) ThrowIfDisposed
+    func [0x00000142+18446744073709551294 - 0x00000156-342 | sizeof= 20] (FPO) ThrowIfCantRead
+    func [0x00000156+18446744073709551274 - 0x0000016a-362 | sizeof= 20] (FPO) ThrowIfCantWrite
+    func [0x0000016a+18446744073709551254 - 0x0000017e-382 | sizeof= 20] (FPO) ThrowIfCantSeek
+    func [0x0000017e+18446744073709551234 - 0x00000199-409 | sizeof= 27] (FPO) Read
+    func [0x00000199+18446744073709551207 - 0x000001b3-435 | sizeof= 26] (FPO) Seek
+    func [0x000001b3+18446744073709551181 - 0x000001d2-466 | sizeof= 31] (FPO) SetLength
+    func [0x000001d2+18446744073709551150 - 0x000001ed-493 | sizeof= 27] (FPO) Write
+    func [0x000001ed+18446744073709551123 - 0x00000205-517 | sizeof= 24] (FPO) Flush
+    func [0x00000205+18446744073709551099 - 0x0000025c-604 | sizeof= 87] (FPO) Dispose
+  System.IO.Compression.SubReadStream
+    func [0x0000025c+18446744073709551012 - 0x0000028f-655 | sizeof= 51] (FPO) .ctor
+    func [0x0000028f+18446744073709550961 - 0x000002a3-675 | sizeof= 20] (FPO) get_Length
+    func [0x000002a3+18446744073709550941 - 0x000002b7-695 | sizeof= 20] (FPO) get_Position
+    func [0x000002b7+18446744073709550921 - 0x000002c8-712 | sizeof= 17] (FPO) set_Position
+    func [0x000002c8+18446744073709550904 - 0x000002de-734 | sizeof= 22] (FPO) get_CanRead
+    func [0x000002de+18446744073709550882 - 0x000002e0-736 | sizeof=  2] (FPO) get_CanSeek
+    func [0x000002e0+18446744073709550880 - 0x000002e2-738 | sizeof=  2] (FPO) get_CanWrite
+    func [0x000002e2+18446744073709550878 - 0x00000301-769 | sizeof= 31] (FPO) ThrowIfDisposed
+    func [0x00000301+18446744073709550847 - 0x00000315-789 | sizeof= 20] (FPO) ThrowIfCantRead
+    func [0x00000315+18446744073709550827 - 0x0000038a-906 | sizeof=117] (FPO) Read
+    func [0x0000038a+18446744073709550710 - 0x0000039b-923 | sizeof= 17] (FPO) Seek
+    func [0x0000039b+18446744073709550693 - 0x000003ac-940 | sizeof= 17] (FPO) SetLength
+    func [0x000003ac+18446744073709550676 - 0x000003bd-957 | sizeof= 17] (FPO) Write
+    func [0x000003bd+18446744073709550659 - 0x000003ce-974 | sizeof= 17] (FPO) Flush
+    func [0x000003ce+18446744073709550642 - 0x000003ef-1007 | sizeof= 33] (FPO) Dispose
+  System.IO.Compression.CheckSumAndSizeWriteStream
+    func [0x000003ef+18446744073709550609 - 0x00000438-1080 | sizeof= 73] (FPO) .ctor
+    func [0x00000438+18446744073709550536 - 0x00000449-1097 | sizeof= 17] (FPO) get_Length
+    func [0x00000449+18446744073709550519 - 0x00000456-1110 | sizeof= 13] (FPO) get_Position
+    func [0x00000456+18446744073709550506 - 0x00000467-1127 | sizeof= 17] (FPO) set_Position
+    func [0x00000467+18446744073709550489 - 0x00000469-1129 | sizeof=  2] (FPO) get_CanRead
+    func [0x00000469+18446744073709550487 - 0x0000046b-1131 | sizeof=  2] (FPO) get_CanSeek
+    func [0x0000046b+18446744073709550485 - 0x00000472-1138 | sizeof=  7] (FPO) get_CanWrite
+    func [0x00000472+18446744073709550478 - 0x00000491-1169 | sizeof= 31] (FPO) ThrowIfDisposed
+    func [0x00000491+18446744073709550447 - 0x000004a2-1186 | sizeof= 17] (FPO) Read
+    func [0x000004a2+18446744073709550430 - 0x000004b3-1203 | sizeof= 17] (FPO) Seek
+    func [0x000004b3+18446744073709550413 - 0x000004c4-1220 | sizeof= 17] (FPO) SetLength
+    func [0x000004c4+18446744073709550396 - 0x00000569-1385 | sizeof=165] (FPO) Write
+    func [0x00000569+18446744073709550231 - 0x0000057b-1403 | sizeof= 18] (FPO) Flush
+    func [0x0000057b+18446744073709550213 - 0x000005e6-1510 | sizeof=107] (FPO) Dispose
+  System.IO.Compression.ZipArchive
+    func [0x000005e6+18446744073709550106 - 0x000005f1-1521 | sizeof= 11] (FPO) .ctor
+    func [0x000005f1+18446744073709550095 - 0x000005fc-1532 | sizeof= 11] (FPO) .ctor
+    func [0x000005fc+18446744073709550084 - 0x00000607-1543 | sizeof= 11] (FPO) .ctor
+    func [0x00000607+18446744073709550073 - 0x0000062d-1581 | sizeof= 38] (FPO) .ctor
+    func [0x0000062d+18446744073709550035 - 0x00000654-1620 | sizeof= 39] (FPO) get_Entries
+    func [0x00000654+18446744073709549996 - 0x0000065b-1627 | sizeof=  7] (FPO) get_Mode
+    func [0x0000065b+18446744073709549989 - 0x0000066c-1644 | sizeof= 17] (FPO) CreateEntry
+    func [0x0000066c+18446744073709549972 - 0x0000067a-1658 | sizeof= 14] (FPO) CreateEntry
+    func [0x0000067a+18446744073709549958 - 0x000006bc-1724 | sizeof= 66] (FPO) Dispose
+    func [0x000006bc+18446744073709549892 - 0x000006ca-1738 | sizeof= 14] (FPO) Dispose
+    func [0x000006ca+18446744073709549878 - 0x00000703-1795 | sizeof= 57] (FPO) GetEntry
+    func [0x00000703+18446744073709549821 - 0x0000070a-1802 | sizeof=  7] (FPO) get_ArchiveReader
+    func [0x0000070a+18446744073709549814 - 0x00000711-1809 | sizeof=  7] (FPO) get_ArchiveStream
+    func [0x00000711+18446744073709549807 - 0x00000718-1816 | sizeof=  7] (FPO) get_NumberOfThisDisk
+    func [0x00000718+18446744073709549800 - 0x0000071f-1823 | sizeof=  7] (FPO) get_EntryNameEncoding
+    func [0x0000071f+18446744073709549793 - 0x0000076e-1902 | sizeof= 79] (FPO) set_EntryNameEncoding
+    func [0x0000076e+18446744073709549714 - 0x000007d7-2007 | sizeof=105] (FPO) DoCreateEntry
+    func [0x000007d7+18446744073709549609 - 0x0000080c-2060 | sizeof= 53] (FPO) AcquireArchiveStream
+    func [0x0000080c+18446744073709549556 - 0x0000083b-2107 | sizeof= 47] (FPO) AddEntry
+    func [0x0000083b+18446744073709549509 - 0x00000845-2117 | sizeof= 10] (FPO) IsStillArchiveStreamOwner
+    func [0x00000845+18446744073709549499 - 0x0000084d-2125 | sizeof=  8] (FPO) ReleaseArchiveStream
+    func [0x0000084d+18446744073709549491 - 0x0000086d-2157 | sizeof= 32] (FPO) RemoveEntry
+    func [0x0000086d+18446744073709549459 - 0x00000887-2183 | sizeof= 26] (FPO) ThrowIfDisposed
+    func [0x00000887+18446744073709549433 - 0x000008d5-2261 | sizeof= 78] (FPO) CloseStreams
+    func [0x000008d5+18446744073709549355 - 0x000008eb-2283 | sizeof= 22] (FPO) EnsureCentralDirectoryRead
+    func [0x000008eb+18446744073709549333 - 0x00000a99-2713 | sizeof=430] (FPO) Init
+    func [0x00000a99+18446744073709548903 - 0x00000b01-2817 | sizeof=104] (FPO) ReadCentralDirectory
+    func [0x00000b01+18446744073709548799 - 0x00000d19-3353 | sizeof=536] (FPO) ReadEndOfCentralDirectory
+    func [0x00000d19+18446744073709548263 - 0x00000e4e-3662 | sizeof=309] (FPO) WriteFile
+    func [0x00000e4e+18446744073709547954 - 0x00000ec2-3778 | sizeof=116] (FPO) WriteArchiveEpilogue
+  System.IO.Compression.ZipArchiveEntry
+    func [0x00000ec2+18446744073709547838 - 0x00000ed7-3799 | sizeof= 21] (FPO) .ctor
+    func [0x00000ed7+18446744073709547817 - 0x00000fda-4058 | sizeof=259] (FPO) .ctor
+    func [0x00000fda+18446744073709547558 - 0x00000fef-4079 | sizeof= 21] (FPO) .ctor
+    func [0x00000fef+18446744073709547537 - 0x000010dd-4317 | sizeof=238] (FPO) .ctor
+    func [0x000010dd+18446744073709547299 - 0x000010e4-4324 | sizeof=  7] (FPO) get_Archive
+    func [0x000010e4+18446744073709547292 - 0x000010fe-4350 | sizeof= 26] (FPO) get_CompressedLength
+    func [0x000010fe+18446744073709547266 - 0x00001105-4357 | sizeof=  7] (FPO) get_ExternalAttributes
+    func [0x00001105+18446744073709547259 - 0x00001113-4371 | sizeof= 14] (FPO) set_ExternalAttributes
+    func [0x00001113+18446744073709547245 - 0x0000111a-4378 | sizeof=  7] (FPO) get_FullName
+    func [0x0000111a+18446744073709547238 - 0x00001178-4472 | sizeof= 94] (FPO) set_FullName
+    func [0x00001178+18446744073709547144 - 0x0000117f-4479 | sizeof=  7] (FPO) get_LastWriteTime
+    func [0x0000117f+18446744073709547137 - 0x00001202-4610 | sizeof=131] (FPO) set_LastWriteTime
+    func [0x00001202+18446744073709547006 - 0x0000121c-4636 | sizeof= 26] (FPO) get_Length
+    func [0x0000121c+18446744073709546980 - 0x00001228-4648 | sizeof= 12] (FPO) get_Name
+    func [0x00001228+18446744073709546968 - 0x00001282-4738 | sizeof= 90] (FPO) Delete
+    func [0x00001282+18446744073709546878 - 0x000012be-4798 | sizeof= 60] (FPO) Open
+    func [0x000012be+18446744073709546818 - 0x000012c5-4805 | sizeof=  7] (FPO) ToString
+    func [0x000012c5+18446744073709546811 - 0x000012cc-4812 | sizeof=  7] (FPO) get_EverOpenedForWrite
+    func [0x000012cc+18446744073709546804 - 0x00001335-4917 | sizeof=105] (FPO) get_OffsetOfCompressedData
+    func [0x00001335+18446744073709546699 - 0x000013a8-5032 | sizeof=115] (FPO) get_UncompressedData
+    func [0x000013a8+18446744073709546584 - 0x000013af-5039 | sizeof=  7] (FPO) get_CompressionMethod
+    func [0x000013af+18446744073709546577 - 0x000013c3-5059 | sizeof= 20] (FPO) set_CompressionMethod
+    func [0x000013c3+18446744073709546557 - 0x0000140c-5132 | sizeof= 73] (FPO) DecodeEntryName
+    func [0x0000140c+18446744073709546484 - 0x00001465-5221 | sizeof= 89] (FPO) EncodeEntryName
+    func [0x00001465+18446744073709546395 - 0x00001478-5240 | sizeof= 19] (FPO) WriteAndFinishLocalEntry
+    func [0x00001478+18446744073709546376 - 0x00001674-5748 | sizeof=508] (FPO) WriteCentralDirectoryFileHeader
+    func [0x00001674+18446744073709545868 - 0x00001703-5891 | sizeof=143] (FPO) LoadLocalHeaderExtraFieldAndCompressedBytesIfNeeded
+    func [0x00001703+18446744073709545725 - 0x00001717-5911 | sizeof= 20] (FPO) ThrowIfNotOpenable
+    func [0x00001717+18446744073709545705 - 0x00001791-6033 | sizeof=122] (FPO) GetDataCompressor
+    func [0x00001791+18446744073709545583 - 0x000017af-6063 | sizeof= 30] (FPO) GetDataDecompressor
+    func [0x000017af+18446744073709545553 - 0x000017df-6111 | sizeof= 48] (FPO) OpenInReadMode
+    func [0x000017df+18446744073709545505 - 0x0000183d-6205 | sizeof= 94] (FPO) OpenInWriteMode
+    func [0x0000183d+18446744073709545411 - 0x0000188d-6285 | sizeof= 80] (FPO) OpenInUpdateMode
+    func [0x0000188d+18446744073709545331 - 0x0000196e-6510 | sizeof=225] (FPO) IsOpenable
+    func [0x0000196e+18446744073709545106 - 0x00001985-6533 | sizeof= 23] (FPO) SizesTooLarge
+    func [0x00001985+18446744073709545083 - 0x00001b54-6996 | sizeof=463] (FPO) WriteLocalFileHeader
+    func [0x00001b54+18446744073709544620 - 0x00001c39-7225 | sizeof=229] (FPO) WriteLocalFileHeaderAndDataIfNeeded
+    func [0x00001c39+18446744073709544391 - 0x00001da7-7591 | sizeof=366] (FPO) WriteCrcAndSizesInLocalHeader
+    func [0x00001da7+18446744073709544025 - 0x00001e0b-7691 | sizeof=100] (FPO) WriteDataDescriptor
+    func [0x00001e0b+18446744073709543925 - 0x00001e2d-7725 | sizeof= 34] (FPO) UnloadStreams
+    func [0x00001e2d+18446744073709543891 - 0x00001e41-7745 | sizeof= 20] (FPO) CloseStreams
+    func [0x00001e41+18446744073709543871 - 0x00001e52-7762 | sizeof= 17] (FPO) VersionToExtractAtLeast
+    func [0x00001e52+18446744073709543854 - 0x00001e71-7793 | sizeof= 31] (FPO) ThrowIfInvalidArchive
+    func [0x00001e71+18446744073709543823 - 0x00001e85-7813 | sizeof= 20] (FPO) <OpenInWriteMode>b__67_0
+    func [0x00001e85+18446744073709543803 - 0x00001e91-7825 | sizeof= 12] (FPO) <OpenInWriteMode>b__67_1
+    func [0x00001e91+18446744073709543791 - 0x00001e99-7833 | sizeof=  8] (FPO) <OpenInUpdateMode>b__68_0
+  System.IO.Compression.ZipGenericExtraField
+    func [0x00001e99+18446744073709543783 - 0x00001ea0-7840 | sizeof=  7] (FPO) get_Tag
+    func [0x00001ea0+18446744073709543776 - 0x00001ea7-7847 | sizeof=  7] (FPO) get_Size
+    func [0x00001ea7+18446744073709543769 - 0x00001eae-7854 | sizeof=  7] (FPO) get_Data
+    func [0x00001eae+18446744073709543762 - 0x00001eda-7898 | sizeof= 44] (FPO) WriteBlock
+    func [0x00001eda+18446744073709543718 - 0x00001f38-7992 | sizeof= 94] (FPO) TryReadBlock
+    func [0x00001f38+18446744073709543624 - 0x00001f6c-8044 | sizeof= 52] (FPO) ParseExtraField
+    func [0x00001f6c+18446744073709543572 - 0x00001fa6-8102 | sizeof= 58] (FPO) TotalSize
+    func [0x00001fa6+18446744073709543514 - 0x00001fd9-8153 | sizeof= 51] (FPO) WriteAllBlocks
+  System.IO.Compression.Zip64ExtraField
+    func [0x00001fd9+18446744073709543463 - 0x00001fe3-8163 | sizeof= 10] (FPO) get_TotalSize
+    func [0x00001fe3+18446744073709543453 - 0x00001fea-8170 | sizeof=  7] (FPO) get_UncompressedSize
+    func [0x00001fea+18446744073709543446 - 0x00001ff8-8184 | sizeof= 14] (FPO) set_UncompressedSize
+    func [0x00001ff8+18446744073709543432 - 0x00001fff-8191 | sizeof=  7] (FPO) get_CompressedSize
+    func [0x00001fff+18446744073709543425 - 0x0000200d-8205 | sizeof= 14] (FPO) set_CompressedSize
+    func [0x0000200d+18446744073709543411 - 0x00002014-8212 | sizeof=  7] (FPO) get_LocalHeaderOffset
+    func [0x00002014+18446744073709543404 - 0x00002022-8226 | sizeof= 14] (FPO) set_LocalHeaderOffset
+    func [0x00002022+18446744073709543390 - 0x00002029-8233 | sizeof=  7] (FPO) get_StartDiskNumber
+    func [0x00002029+18446744073709543383 - 0x000020a1-8353 | sizeof=120] (FPO) UpdateSize
+    func [0x000020a1+18446744073709543263 - 0x00002119-8473 | sizeof=120] (FPO) GetJustZip64Block
+    func [0x00002119+18446744073709543143 - 0x000022e5-8933 | sizeof=460] (FPO) TryGetZip64BlockFromGenericExtraField
+    func [0x000022e5+18446744073709542683 - 0x000023b2-9138 | sizeof=205] (FPO) GetAndRemoveZip64Block
+    func [0x000023b2+18446744073709542478 - 0x00002428-9256 | sizeof=118] (FPO) RemoveZip64Blocks
+    func [0x00002428+18446744073709542360 - 0x000024bb-9403 | sizeof=147] (FPO) WriteBlock
+  System.IO.Compression.Zip64EndOfCentralDirectoryLocator
+    func [0x000024bb+18446744073709542213 - 0x000024f7-9463 | sizeof= 60] (FPO) TryReadBlock
+    func [0x000024f7+18446744073709542153 - 0x0000251f-9503 | sizeof= 40] (FPO) WriteBlock
+  System.IO.Compression.Zip64EndOfCentralDirectoryRecord
+    func [0x0000251f+18446744073709542113 - 0x000025a3-9635 | sizeof=132] (FPO) TryReadBlock
+    func [0x000025a3+18446744073709541981 - 0x000025f9-9721 | sizeof= 86] (FPO) WriteBlock
+  System.IO.Compression.ZipLocalFileHeader
+    func [0x000025f9+18446744073709541895 - 0x0000265a-9818 | sizeof= 97] (FPO) GetExtraFields
+    func [0x0000265a+18446744073709541798 - 0x000026d8-9944 | sizeof=126] (FPO) TrySkipBlock
+  System.IO.Compression.ZipCentralDirectoryFileHeader
+    func [0x000026d8+18446744073709541672 - 0x00002932-10546 | sizeof=602] (FPO) TryReadBlock
+  System.IO.Compression.ZipEndOfCentralDirectoryBlock
+    func [0x00002932+18446744073709541070 - 0x000029b6-10678 | sizeof=132] (FPO) WriteBlock
+    func [0x000029b6+18446744073709540938 - 0x00002a35-10805 | sizeof=127] (FPO) TryReadBlock
+  System.IO.Compression.ZipHelper
+    func [0x00002a35+18446744073709540811 - 0x00002a46-10822 | sizeof= 17] (FPO) EndsWithDirChar
+    func [0x00002a46+18446744073709540794 - 0x00002a6a-10858 | sizeof= 36] (FPO) RequiresUnicode
+    func [0x00002a6a+18446744073709540758 - 0x00002a95-10901 | sizeof= 43] (FPO) ReadBytes
+    func [0x00002a95+18446744073709540715 - 0x00002af1-10993 | sizeof= 92] (FPO) DosTimeToDateTime
+    func [0x00002af1+18446744073709540623 - 0x00002b42-11074 | sizeof= 81] (FPO) DateTimeToDosTime
+    func [0x00002b42+18446744073709540542 - 0x00002b97-11159 | sizeof= 85] (FPO) SeekBackwardsToSignature
+    func [0x00002b97+18446744073709540457 - 0x00002bd6-11222 | sizeof= 63] (FPO) AdvanceToPosition
+    func [0x00002bd6+18446744073709540394 - 0x00002c3a-11322 | sizeof=100] (FPO) SeekBackwardsAndRead
+    func [0x00002c3a+18446744073709540294 - 0x00002c4f-11343 | sizeof= 21] (FPO) .cctor
+  System.IO.Compression.Messages
+    func [0x00002c4f+18446744073709540273 - 0x00002c56-11350 | sizeof=  7] (FPO) .ctor
+    func [0x00002c56+18446744073709540266 - 0x00002c83-11395 | sizeof= 45] (FPO) get_ResourceManager
+    func [0x00002c83+18446744073709540221 - 0x00002c89-11401 | sizeof=  6] (FPO) get_Culture
+    func [0x00002c89+18446744073709540215 - 0x00002c90-11408 | sizeof=  7] (FPO) set_Culture
+    func [0x00002c90+18446744073709540208 - 0x00002ca5-11429 | sizeof= 21] (FPO) get_ArgumentNeedNonNegative
+    func [0x00002ca5+18446744073709540187 - 0x00002cba-11450 | sizeof= 21] (FPO) get_CannotBeEmpty
+    func [0x00002cba+18446744073709540166 - 0x00002ccf-11471 | sizeof= 21] (FPO) get_CDCorrupt
+    func [0x00002ccf+18446744073709540145 - 0x00002ce4-11492 | sizeof= 21] (FPO) get_CentralDirectoryInvalid
+    func [0x00002ce4+18446744073709540124 - 0x00002cf9-11513 | sizeof= 21] (FPO) get_CreateInReadMode
+    func [0x00002cf9+18446744073709540103 - 0x00002d0e-11534 | sizeof= 21] (FPO) get_CreateModeCapabilities
+    func [0x00002d0e+18446744073709540082 - 0x00002d23-11555 | sizeof= 21] (FPO) get_CreateModeCreateEntryWhileOpen
+    func [0x00002d23+18446744073709540061 - 0x00002d38-11576 | sizeof= 21] (FPO) get_CreateModeWriteOnceAndOneEntryAtATime
+    func [0x00002d38+18446744073709540040 - 0x00002d4d-11597 | sizeof= 21] (FPO) get_DateTimeInvalid
+    func [0x00002d4d+18446744073709540019 - 0x00002d62-11618 | sizeof= 21] (FPO) get_DateTimeOutOfRange
+    func [0x00002d62+18446744073709539998 - 0x00002d77-11639 | sizeof= 21] (FPO) get_DeletedEntry
+    func [0x00002d77+18446744073709539977 - 0x00002d8c-11660 | sizeof= 21] (FPO) get_DeleteOnlyInUpdate
+    func [0x00002d8c+18446744073709539956 - 0x00002da1-11681 | sizeof= 21] (FPO) get_DeleteOpenEntry
+    func [0x00002da1+18446744073709539935 - 0x00002db6-11702 | sizeof= 21] (FPO) get_EntriesInCreateMode
+    func [0x00002db6+18446744073709539914 - 0x00002dcb-11723 | sizeof= 21] (FPO) get_EntryNameEncodingNotSupported
+    func [0x00002dcb+18446744073709539893 - 0x00002de0-11744 | sizeof= 21] (FPO) get_EntryNamesTooLong
+    func [0x00002de0+18446744073709539872 - 0x00002df5-11765 | sizeof= 21] (FPO) get_EntryTooLarge
+    func [0x00002df5+18446744073709539851 - 0x00002e0a-11786 | sizeof= 21] (FPO) get_EOCDNotFound
+    func [0x00002e0a+18446744073709539830 - 0x00002e1f-11807 | sizeof= 21] (FPO) get_FieldTooBigCompressedSize
+    func [0x00002e1f+18446744073709539809 - 0x00002e34-11828 | sizeof= 21] (FPO) get_FieldTooBigLocalHeaderOffset
+    func [0x00002e34+18446744073709539788 - 0x00002e49-11849 | sizeof= 21] (FPO) get_FieldTooBigNumEntries
+    func [0x00002e49+18446744073709539767 - 0x00002e5e-11870 | sizeof= 21] (FPO) get_FieldTooBigOffsetToCD
+    func [0x00002e5e+18446744073709539746 - 0x00002e73-11891 | sizeof= 21] (FPO) get_FieldTooBigOffsetToZip64EOCD
+    func [0x00002e73+18446744073709539725 - 0x00002e88-11912 | sizeof= 21] (FPO) get_FieldTooBigStartDiskNumber
+    func [0x00002e88+18446744073709539704 - 0x00002e9d-11933 | sizeof= 21] (FPO) get_FieldTooBigUncompressedSize
+    func [0x00002e9d+18446744073709539683 - 0x00002eb2-11954 | sizeof= 21] (FPO) get_FrozenAfterWrite
+    func [0x00002eb2+18446744073709539662 - 0x00002ec7-11975 | sizeof= 21] (FPO) get_HiddenStreamName
+    func [0x00002ec7+18446744073709539641 - 0x00002edc-11996 | sizeof= 21] (FPO) get_LengthAfterWrite
+    func [0x00002edc+18446744073709539620 - 0x00002ef1-12017 | sizeof= 21] (FPO) get_LocalFileHeaderCorrupt
+    func [0x00002ef1+18446744073709539599 - 0x00002f06-12038 | sizeof= 21] (FPO) get_NumEntriesWrong
+    func [0x00002f06+18446744073709539578 - 0x00002f1b-12059 | sizeof= 21] (FPO) get_OffsetLengthInvalid
+    func [0x00002f1b+18446744073709539557 - 0x00002f30-12080 | sizeof= 21] (FPO) get_ReadingNotSupported
+    func [0x00002f30+18446744073709539536 - 0x00002f45-12101 | sizeof= 21] (FPO) get_ReadModeCapabilities
+    func [0x00002f45+18446744073709539515 - 0x00002f5a-12122 | sizeof= 21] (FPO) get_ReadOnlyArchive
+    func [0x00002f5a+18446744073709539494 - 0x00002f6f-12143 | sizeof= 21] (FPO) get_SeekingNotSupported
+    func [0x00002f6f+18446744073709539473 - 0x00002f84-12164 | sizeof= 21] (FPO) get_SetLengthRequiresSeekingAndWriting
+    func [0x00002f84+18446744073709539452 - 0x00002f99-12185 | sizeof= 21] (FPO) get_SplitSpanned
+    func [0x00002f99+18446744073709539431 - 0x00002fae-12206 | sizeof= 21] (FPO) get_UnexpectedEndOfStream
+    func [0x00002fae+18446744073709539410 - 0x00002fc3-12227 | sizeof= 21] (FPO) get_UnsupportedCompression
+    func [0x00002fc3+18446744073709539389 - 0x00002fd8-12248 | sizeof= 21] (FPO) get_UpdateModeCapabilities
+    func [0x00002fd8+18446744073709539368 - 0x00002fed-12269 | sizeof= 21] (FPO) get_UpdateModeOneStream
+    func [0x00002fed+18446744073709539347 - 0x00003002-12290 | sizeof= 21] (FPO) get_WritingNotSupported
+    func [0x00003002+18446744073709539326 - 0x00003017-12311 | sizeof= 21] (FPO) get_Zip64EOCDNotWhereExpected
+  System.IO.Compression.ZipArchiveEntry.DirectToArchiveWriterStream
+    func [0x00003017+18446744073709539305 - 0x00003050-12368 | sizeof= 57] (FPO) .ctor
+    func [0x00003050+18446744073709539248 - 0x00003061-12385 | sizeof= 17] (FPO) get_Length
+    func [0x00003061+18446744073709539231 - 0x0000306e-12398 | sizeof= 13] (FPO) get_Position
+    func [0x0000306e+18446744073709539218 - 0x0000307f-12415 | sizeof= 17] (FPO) set_Position
+    func [0x0000307f+18446744073709539201 - 0x00003081-12417 | sizeof=  2] (FPO) get_CanRead
+    func [0x00003081+18446744073709539199 - 0x00003083-12419 | sizeof=  2] (FPO) get_CanSeek
+    func [0x00003083+18446744073709539197 - 0x0000308a-12426 | sizeof=  7] (FPO) get_CanWrite
+    func [0x0000308a+18446744073709539190 - 0x000030a9-12457 | sizeof= 31] (FPO) ThrowIfDisposed
+    func [0x000030a9+18446744073709539159 - 0x000030ba-12474 | sizeof= 17] (FPO) Read
+    func [0x000030ba+18446744073709539142 - 0x000030cb-12491 | sizeof= 17] (FPO) Seek
+    func [0x000030cb+18446744073709539125 - 0x000030dc-12508 | sizeof= 17] (FPO) SetLength
+    func [0x000030dc+18446744073709539108 - 0x0000316e-12654 | sizeof=146] (FPO) Write
+    func [0x0000316e+18446744073709538962 - 0x00003180-12672 | sizeof= 18] (FPO) Flush
+    func [0x00003180+18446744073709538944 - 0x000031f8-12792 | sizeof=120] (FPO) Dispose
+  System.IO.Compression.ZipArchiveEntry.<>c__DisplayClass64_0
+    func [0x000031f8+18446744073709538824 - 0x00003247-12871 | sizeof= 79] (FPO) <GetDataCompressor>b__0
+---GLOBALS---
+  func [0x00002e0a+18446744073709539830 - 0x00002e1f-11807 | sizeof= 21] (FPO) get_FieldTooBigCompressedSize
+  func [0x00001fd9+18446744073709543463 - 0x00001fe3-8163 | sizeof= 10] (FPO) get_TotalSize
+  func [0x0000070a+18446744073709549814 - 0x00000711-1809 | sizeof=  7] (FPO) get_ArchiveStream
+  func [0x00002f1b+18446744073709539557 - 0x00002f30-12080 | sizeof= 21] (FPO) get_ReadingNotSupported
+  func [0x00001f6c+18446744073709543572 - 0x00001fa6-8102 | sizeof= 58] (FPO) TotalSize
+  func [0x000010dd+18446744073709547299 - 0x000010e4-4324 | sizeof=  7] (FPO) get_Archive
+  func [0x00001c39+18446744073709544391 - 0x00001da7-7591 | sizeof=366] (FPO) WriteCrcAndSizesInLocalHeader
+  func [0x00000000+ 0 - 0x00000033-51 | sizeof= 51] (FPO) UpdateCrc32
+  func [0x00002e34+18446744073709539788 - 0x00002e49-11849 | sizeof= 21] (FPO) get_FieldTooBigNumEntries
+  func [0x0000316e+18446744073709538962 - 0x00003180-12672 | sizeof= 18] (FPO) Flush
+  func [0x00000569+18446744073709550231 - 0x0000057b-1403 | sizeof= 18] (FPO) Flush
+  func [0x000003bd+18446744073709550659 - 0x000003ce-974 | sizeof= 17] (FPO) Flush
+  func [0x000001ed+18446744073709551123 - 0x00000205-517 | sizeof= 24] (FPO) Flush
+  func [0x000017df+18446744073709545505 - 0x0000183d-6205 | sizeof= 94] (FPO) OpenInWriteMode
+  func [0x000020a1+18446744073709543263 - 0x00002119-8473 | sizeof=120] (FPO) GetJustZip64Block
+  func [0x00003017+18446744073709539305 - 0x00003050-12368 | sizeof= 57] (FPO) .ctor
+  func [0x00002c4f+18446744073709540273 - 0x00002c56-11350 | sizeof=  7] (FPO) .ctor
+  func [0x000003ef+18446744073709550609 - 0x00000438-1080 | sizeof= 73] (FPO) .ctor
+  func [0x0000025c+18446744073709551012 - 0x0000028f-655 | sizeof= 51] (FPO) .ctor
+  func [0x00000607+18446744073709550073 - 0x0000062d-1581 | sizeof= 38] (FPO) .ctor
+  func [0x000005fc+18446744073709550084 - 0x00000607-1543 | sizeof= 11] (FPO) .ctor
+  func [0x000005f1+18446744073709550095 - 0x000005fc-1532 | sizeof= 11] (FPO) .ctor
+  func [0x000005e6+18446744073709550106 - 0x000005f1-1521 | sizeof= 11] (FPO) .ctor
+  func [0x00000fef+18446744073709547537 - 0x000010dd-4317 | sizeof=238] (FPO) .ctor
+  func [0x00000fda+18446744073709547558 - 0x00000fef-4079 | sizeof= 21] (FPO) .ctor
+  func [0x00000ed7+18446744073709547817 - 0x00000fda-4058 | sizeof=259] (FPO) .ctor
+  func [0x00000ec2+18446744073709547838 - 0x00000ed7-3799 | sizeof= 21] (FPO) .ctor
+  func [0x00000098+18446744073709551464 - 0x000000a4-164 | sizeof= 12] (FPO) .ctor
+  func [0x0000005d+18446744073709551523 - 0x00000098-152 | sizeof= 59] (FPO) .ctor
+  func [0x0000004e+18446744073709551538 - 0x0000005d-93 | sizeof= 15] (FPO) .ctor
+  func [0x00001282+18446744073709546878 - 0x000012be-4798 | sizeof= 60] (FPO) Open
+  func [0x000030ba+18446744073709539142 - 0x000030cb-12491 | sizeof= 17] (FPO) Seek
+  func [0x000004a2+18446744073709550430 - 0x000004b3-1203 | sizeof= 17] (FPO) Seek
+  func [0x0000038a+18446744073709550710 - 0x0000039b-923 | sizeof= 17] (FPO) Seek
+  func [0x00000199+18446744073709551207 - 0x000001b3-435 | sizeof= 26] (FPO) Seek
+  func [0x000012be+18446744073709546818 - 0x000012c5-4805 | sizeof=  7] (FPO) ToString
+  func [0x00000887+18446744073709549433 - 0x000008d5-2261 | sizeof= 78] (FPO) CloseStreams
+  func [0x00001e2d+18446744073709543891 - 0x00001e41-7745 | sizeof= 20] (FPO) CloseStreams
+  func [0x00002d62+18446744073709539998 - 0x00002d77-11639 | sizeof= 21] (FPO) get_DeletedEntry
+  func [0x00002e73+18446744073709539725 - 0x00002e88-11912 | sizeof= 21] (FPO) get_FieldTooBigStartDiskNumber
+  func [0x00002e49+18446744073709539767 - 0x00002e5e-11870 | sizeof= 21] (FPO) get_FieldTooBigOffsetToCD
+  func [0x000010e4+18446744073709547292 - 0x000010fe-4350 | sizeof= 26] (FPO) get_CompressedLength
+  func [0x0000265a+18446744073709541798 - 0x000026d8-9944 | sizeof=126] (FPO) TrySkipBlock
+  func [0x00002d38+18446744073709540040 - 0x00002d4d-11597 | sizeof= 21] (FPO) get_DateTimeInvalid
+  func [0x000031f8+18446744073709538824 - 0x00003247-12871 | sizeof= 79] (FPO) <GetDataCompressor>b__0
+  func [0x00001717+18446744073709545705 - 0x00001791-6033 | sizeof=122] (FPO) GetDataCompressor
+  func [0x00001ea0+18446744073709543776 - 0x00001ea7-7847 | sizeof=  7] (FPO) get_Size
+  func [0x00002dcb+18446744073709539893 - 0x00002de0-11744 | sizeof= 21] (FPO) get_EntryNamesTooLong
+  func [0x000017af+18446744073709545553 - 0x000017df-6111 | sizeof= 48] (FPO) OpenInReadMode
+  func [0x00003180+18446744073709538944 - 0x000031f8-12792 | sizeof=120] (FPO) Dispose
+  func [0x0000057b+18446744073709550213 - 0x000005e6-1510 | sizeof=107] (FPO) Dispose
+  func [0x000003ce+18446744073709550642 - 0x000003ef-1007 | sizeof= 33] (FPO) Dispose
+  func [0x000006bc+18446744073709549892 - 0x000006ca-1738 | sizeof= 14] (FPO) Dispose
+  func [0x0000067a+18446744073709549958 - 0x000006bc-1724 | sizeof= 66] (FPO) Dispose
+  func [0x00000205+18446744073709551099 - 0x0000025c-604 | sizeof= 87] (FPO) Dispose
+  func [0x000012cc+18446744073709546804 - 0x00001335-4917 | sizeof=105] (FPO) get_OffsetOfCompressedData
+  func [0x0000117f+18446744073709547137 - 0x00001202-4610 | sizeof=131] (FPO) set_LastWriteTime
+  func [0x00001178+18446744073709547144 - 0x0000117f-4479 | sizeof=  7] (FPO) get_LastWriteTime
+  func [0x00002db6+18446744073709539914 - 0x00002dcb-11723 | sizeof= 21] (FPO) get_EntryNameEncodingNotSupported
+  func [0x0000140c+18446744073709546484 - 0x00001465-5221 | sizeof= 89] (FPO) EncodeEntryName
+  func [0x00002b42+18446744073709540542 - 0x00002b97-11159 | sizeof= 85] (FPO) SeekBackwardsToSignature
+  func [0x00001eae+18446744073709543762 - 0x00001eda-7898 | sizeof= 44] (FPO) WriteBlock
+  func [0x00002428+18446744073709542360 - 0x000024bb-9403 | sizeof=147] (FPO) WriteBlock
+  func [0x000024f7+18446744073709542153 - 0x0000251f-9503 | sizeof= 40] (FPO) WriteBlock
+  func [0x00002932+18446744073709541070 - 0x000029b6-10678 | sizeof=132] (FPO) WriteBlock
+  func [0x000025a3+18446744073709541981 - 0x000025f9-9721 | sizeof= 86] (FPO) WriteBlock
+  func [0x00002edc+18446744073709539620 - 0x00002ef1-12017 | sizeof= 21] (FPO) get_LocalFileHeaderCorrupt
+  func [0x000030cb+18446744073709539125 - 0x000030dc-12508 | sizeof= 17] (FPO) SetLength
+  func [0x000004b3+18446744073709550413 - 0x000004c4-1220 | sizeof= 17] (FPO) SetLength
+  func [0x0000039b+18446744073709550693 - 0x000003ac-940 | sizeof= 17] (FPO) SetLength
+  func [0x000001b3+18446744073709551181 - 0x000001d2-466 | sizeof= 31] (FPO) SetLength
+  func [0x0000071f+18446744073709549793 - 0x0000076e-1902 | sizeof= 79] (FPO) set_EntryNameEncoding
+  func [0x00001e99+18446744073709543783 - 0x00001ea0-7840 | sizeof=  7] (FPO) get_Tag
+  func [0x00000718+18446744073709549800 - 0x0000071f-1823 | sizeof=  7] (FPO) get_EntryNameEncoding
+  func [0x00002e88+18446744073709539704 - 0x00002e9d-11933 | sizeof= 21] (FPO) get_FieldTooBigUncompressedSize
+  func [0x00003061+18446744073709539231 - 0x0000306e-12398 | sizeof= 13] (FPO) get_Position
+  func [0x00000449+18446744073709550519 - 0x00000456-1110 | sizeof= 13] (FPO) get_Position
+  func [0x000002a3+18446744073709550941 - 0x000002b7-695 | sizeof= 20] (FPO) get_Position
+  func [0x000000b6+18446744073709551434 - 0x000000c8-200 | sizeof= 18] (FPO) get_Position
+  func [0x0000084d+18446744073709549491 - 0x0000086d-2157 | sizeof= 32] (FPO) RemoveEntry
+  func [0x00002d23+18446744073709540061 - 0x00002d38-11576 | sizeof= 21] (FPO) get_CreateModeWriteOnceAndOneEntryAtATime
+  func [0x00000654+18446744073709549996 - 0x0000065b-1627 | sizeof=  7] (FPO) get_Mode
+  func [0x0000306e+18446744073709539218 - 0x0000307f-12415 | sizeof= 17] (FPO) set_Position
+  func [0x00000456+18446744073709550506 - 0x00000467-1127 | sizeof= 17] (FPO) set_Position
+  func [0x000002b7+18446744073709550921 - 0x000002c8-712 | sizeof= 17] (FPO) set_Position
+  func [0x000000c8+18446744073709551416 - 0x000000e1-225 | sizeof= 25] (FPO) set_Position
+  func [0x00001e41+18446744073709543871 - 0x00001e52-7762 | sizeof= 17] (FPO) VersionToExtractAtLeast
+  func [0x00001e0b+18446744073709543925 - 0x00001e2d-7725 | sizeof= 34] (FPO) UnloadStreams
+  func [0x00000703+18446744073709549821 - 0x0000070a-1802 | sizeof=  7] (FPO) get_ArchiveReader
+  func [0x00001478+18446744073709546376 - 0x00001674-5748 | sizeof=508] (FPO) WriteCentralDirectoryFileHeader
+  func [0x00002ce4+18446744073709540124 - 0x00002cf9-11513 | sizeof= 21] (FPO) get_CreateInReadMode
+  func [0x00001b54+18446744073709544620 - 0x00001c39-7225 | sizeof=229] (FPO) WriteLocalFileHeaderAndDataIfNeeded
+  func [0x00002fd8+18446744073709539368 - 0x00002fed-12269 | sizeof= 21] (FPO) get_UpdateModeOneStream
+  func [0x00002fed+18446744073709539347 - 0x00003002-12290 | sizeof= 21] (FPO) get_WritingNotSupported
+  func [0x00001791+18446744073709545583 - 0x000017af-6063 | sizeof= 30] (FPO) GetDataDecompressor
+  func [0x00003050+18446744073709539248 - 0x00003061-12385 | sizeof= 17] (FPO) get_Length
+  func [0x00000438+18446744073709550536 - 0x00000449-1097 | sizeof= 17] (FPO) get_Length
+  func [0x0000028f+18446744073709550961 - 0x000002a3-675 | sizeof= 20] (FPO) get_Length
+  func [0x00001202+18446744073709547006 - 0x0000121c-4636 | sizeof= 26] (FPO) get_Length
+  func [0x000000a4+18446744073709551452 - 0x000000b6-182 | sizeof= 18] (FPO) get_Length
+  func [0x0000062d+18446744073709550035 - 0x00000654-1620 | sizeof= 39] (FPO) get_Entries
+  func [0x000008eb+18446744073709549333 - 0x00000a99-2713 | sizeof=430] (FPO) Init
+  func [0x00002f45+18446744073709539515 - 0x00002f5a-12122 | sizeof= 21] (FPO) get_ReadOnlyArchive
+  func [0x00002c56+18446744073709540266 - 0x00002c83-11395 | sizeof= 45] (FPO) get_ResourceManager
+  func [0x00001335+18446744073709546699 - 0x000013a8-5032 | sizeof=115] (FPO) get_UncompressedData
+  func [0x00002ec7+18446744073709539641 - 0x00002edc-11996 | sizeof= 21] (FPO) get_LengthAfterWrite
+  func [0x00001985+18446744073709545083 - 0x00001b54-6996 | sizeof=463] (FPO) WriteLocalFileHeader
+  func [0x00002a46+18446744073709540794 - 0x00002a6a-10858 | sizeof= 36] (FPO) RequiresUnicode
+  func [0x00002af1+18446744073709540623 - 0x00002b42-11074 | sizeof= 81] (FPO) DateTimeToDosTime
+  func [0x000013af+18446744073709546577 - 0x000013c3-5059 | sizeof= 20] (FPO) set_CompressionMethod
+  func [0x000013a8+18446744073709546584 - 0x000013af-5039 | sizeof=  7] (FPO) get_CompressionMethod
+  func [0x00000e4e+18446744073709547954 - 0x00000ec2-3778 | sizeof=116] (FPO) WriteArchiveEpilogue
+  func [0x00002022+18446744073709543390 - 0x00002029-8233 | sizeof=  7] (FPO) get_StartDiskNumber
+  func [0x00000d19+18446744073709548263 - 0x00000e4e-3662 | sizeof=309] (FPO) WriteFile
+  func [0x00002ca5+18446744073709540187 - 0x00002cba-11450 | sizeof= 21] (FPO) get_CannotBeEmpty
+  func [0x00002f06+18446744073709539578 - 0x00002f1b-12059 | sizeof= 21] (FPO) get_OffsetLengthInvalid
+  func [0x00001da7+18446744073709544025 - 0x00001e0b-7691 | sizeof=100] (FPO) WriteDataDescriptor
+  func [0x00001eda+18446744073709543718 - 0x00001f38-7992 | sizeof= 94] (FPO) TryReadBlock
+  func [0x000024bb+18446744073709542213 - 0x000024f7-9463 | sizeof= 60] (FPO) TryReadBlock
+  func [0x000029b6+18446744073709540938 - 0x00002a35-10805 | sizeof=127] (FPO) TryReadBlock
+  func [0x0000251f+18446744073709542113 - 0x000025a3-9635 | sizeof=132] (FPO) TryReadBlock
+  func [0x000026d8+18446744073709541672 - 0x00002932-10546 | sizeof=602] (FPO) TryReadBlock
+  func [0x00001228+18446744073709546968 - 0x00001282-4738 | sizeof= 90] (FPO) Delete
+  func [0x0000016a+18446744073709551254 - 0x0000017e-382 | sizeof= 20] (FPO) ThrowIfCantSeek
+  func [0x0000121c+18446744073709546980 - 0x00001228-4648 | sizeof= 12] (FPO) get_Name
+  func [0x0000076e+18446744073709549714 - 0x000007d7-2007 | sizeof=105] (FPO) DoCreateEntry
+  func [0x00002c3a+18446744073709540294 - 0x00002c4f-11343 | sizeof= 21] (FPO) .cctor
+  func [0x00000033+18446744073709551565 - 0x0000004e-78 | sizeof= 27] (FPO) .cctor
+  func [0x00002cf9+18446744073709540103 - 0x00002d0e-11534 | sizeof= 21] (FPO) get_CreateModeCapabilities
+  func [0x0000111a+18446744073709547238 - 0x00001178-4472 | sizeof= 94] (FPO) set_FullName
+  func [0x00001113+18446744073709547245 - 0x0000111a-4378 | sizeof=  7] (FPO) get_FullName
+  func [0x000006ca+18446744073709549878 - 0x00000703-1795 | sizeof= 57] (FPO) GetEntry
+  func [0x000008d5+18446744073709549355 - 0x000008eb-2283 | sizeof= 22] (FPO) EnsureCentralDirectoryRead
+  func [0x00002ccf+18446744073709540145 - 0x00002ce4-11492 | sizeof= 21] (FPO) get_CentralDirectoryInvalid
+  func [0x000023b2+18446744073709542478 - 0x00002428-9256 | sizeof=118] (FPO) RemoveZip64Blocks
+  func [0x0000183d+18446744073709545411 - 0x0000188d-6285 | sizeof= 80] (FPO) OpenInUpdateMode
+  func [0x00001703+18446744073709545725 - 0x00001717-5911 | sizeof= 20] (FPO) ThrowIfNotOpenable
+  func [0x00001fa6+18446744073709543514 - 0x00001fd9-8153 | sizeof= 51] (FPO) WriteAllBlocks
+  func [0x0000200d+18446744073709543411 - 0x00002014-8212 | sizeof=  7] (FPO) get_LocalHeaderOffset
+  func [0x00002014+18446744073709543404 - 0x00002022-8226 | sizeof= 14] (FPO) set_LocalHeaderOffset
+  func [0x00001105+18446744073709547259 - 0x00001113-4371 | sizeof= 14] (FPO) set_ExternalAttributes
+  func [0x00001fe3+18446744073709543453 - 0x00001fea-8170 | sizeof=  7] (FPO) get_UncompressedSize
+  func [0x00001e91+18446744073709543791 - 0x00001e99-7833 | sizeof=  8] (FPO) <OpenInUpdateMode>b__68_0
+  func [0x00001fea+18446744073709543446 - 0x00001ff8-8184 | sizeof= 14] (FPO) set_UncompressedSize
+  func [0x000010fe+18446744073709547266 - 0x00001105-4357 | sizeof=  7] (FPO) get_ExternalAttributes
+  func [0x00003081+18446744073709539199 - 0x00003083-12419 | sizeof=  2] (FPO) get_CanSeek
+  func [0x00000469+18446744073709550487 - 0x0000046b-1131 | sizeof=  2] (FPO) get_CanSeek
+  func [0x000002de+18446744073709550882 - 0x000002e0-736 | sizeof=  2] (FPO) get_CanSeek
+  func [0x000000f7+18446744073709551369 - 0x0000010d-269 | sizeof= 22] (FPO) get_CanSeek
+  func [0x00001465+18446744073709546395 - 0x00001478-5240 | sizeof= 19] (FPO) WriteAndFinishLocalEntry
+  func [0x00002e1f+18446744073709539809 - 0x00002e34-11828 | sizeof= 21] (FPO) get_FieldTooBigLocalHeaderOffset
+  func [0x00002bd6+18446744073709540394 - 0x00002c3a-11322 | sizeof=100] (FPO) SeekBackwardsAndRead
+  func [0x00001f38+18446744073709543624 - 0x00001f6c-8044 | sizeof= 52] (FPO) ParseExtraField
+  func [0x0000080c+18446744073709549556 - 0x0000083b-2107 | sizeof= 47] (FPO) AddEntry
+  func [0x00001e52+18446744073709543854 - 0x00001e71-7793 | sizeof= 31] (FPO) ThrowIfInvalidArchive
+  func [0x00002a35+18446744073709540811 - 0x00002a46-10822 | sizeof= 17] (FPO) EndsWithDirChar
+  func [0x00002d8c+18446744073709539956 - 0x00002da1-11681 | sizeof= 21] (FPO) get_DeleteOpenEntry
+  func [0x00002fc3+18446744073709539389 - 0x00002fd8-12248 | sizeof= 21] (FPO) get_UpdateModeCapabilities
+  func [0x000030dc+18446744073709539108 - 0x0000316e-12654 | sizeof=146] (FPO) Write
+  func [0x000004c4+18446744073709550396 - 0x00000569-1385 | sizeof=165] (FPO) Write
+  func [0x000003ac+18446744073709550676 - 0x000003bd-957 | sizeof= 17] (FPO) Write
+  func [0x000001d2+18446744073709551150 - 0x000001ed-493 | sizeof= 27] (FPO) Write
+  func [0x000022e5+18446744073709542683 - 0x000023b2-9138 | sizeof=205] (FPO) GetAndRemoveZip64Block
+  func [0x00002e9d+18446744073709539683 - 0x00002eb2-11954 | sizeof= 21] (FPO) get_FrozenAfterWrite
+  func [0x00002fae+18446744073709539410 - 0x00002fc3-12227 | sizeof= 21] (FPO) get_UnsupportedCompression
+  func [0x000007d7+18446744073709549609 - 0x0000080c-2060 | sizeof= 53] (FPO) AcquireArchiveStream
+  func [0x00001674+18446744073709545868 - 0x00001703-5891 | sizeof=143] (FPO) LoadLocalHeaderExtraFieldAndCompressedBytesIfNeeded
+  func [0x00002a6a+18446744073709540758 - 0x00002a95-10901 | sizeof= 43] (FPO) ReadBytes
+  func [0x00000301+18446744073709550847 - 0x00000315-789 | sizeof= 20] (FPO) ThrowIfCantRead
+  func [0x00000142+18446744073709551294 - 0x00000156-342 | sizeof= 20] (FPO) ThrowIfCantRead
+  func [0x000012c5+18446744073709546811 - 0x000012cc-4812 | sizeof=  7] (FPO) get_EverOpenedForWrite
+  func [0x00001fff+18446744073709543425 - 0x0000200d-8205 | sizeof= 14] (FPO) set_CompressedSize
+  func [0x00001ff8+18446744073709543432 - 0x00001fff-8191 | sizeof=  7] (FPO) get_CompressedSize
+  func [0x00000a99+18446744073709548903 - 0x00000b01-2817 | sizeof=104] (FPO) ReadCentralDirectory
+  func [0x00001e85+18446744073709543803 - 0x00001e91-7825 | sizeof= 12] (FPO) <OpenInWriteMode>b__67_1
+  func [0x00002a95+18446744073709540715 - 0x00002af1-10993 | sizeof= 92] (FPO) DosTimeToDateTime
+  func [0x00002df5+18446744073709539851 - 0x00002e0a-11786 | sizeof= 21] (FPO) get_EOCDNotFound
+  func [0x00002de0+18446744073709539872 - 0x00002df5-11765 | sizeof= 21] (FPO) get_EntryTooLarge
+  func [0x00002b97+18446744073709540457 - 0x00002bd6-11222 | sizeof= 63] (FPO) AdvanceToPosition
+  func [0x00002eb2+18446744073709539662 - 0x00002ec7-11975 | sizeof= 21] (FPO) get_HiddenStreamName
+  func [0x00002d77+18446744073709539977 - 0x00002d8c-11660 | sizeof= 21] (FPO) get_DeleteOnlyInUpdate
+  func [0x00002f6f+18446744073709539473 - 0x00002f84-12164 | sizeof= 21] (FPO) get_SetLengthRequiresSeekingAndWriting
+  func [0x000030a9+18446744073709539159 - 0x000030ba-12474 | sizeof= 17] (FPO) Read
+  func [0x00000491+18446744073709550447 - 0x000004a2-1186 | sizeof= 17] (FPO) Read
+  func [0x00000315+18446744073709550827 - 0x0000038a-906 | sizeof=117] (FPO) Read
+  func [0x0000017e+18446744073709551234 - 0x00000199-409 | sizeof= 27] (FPO) Read
+  func [0x00002da1+18446744073709539935 - 0x00002db6-11702 | sizeof= 21] (FPO) get_EntriesInCreateMode
+  func [0x00001e71+18446744073709543823 - 0x00001e85-7813 | sizeof= 20] (FPO) <OpenInWriteMode>b__67_0
+  func [0x00000711+18446744073709549807 - 0x00000718-1816 | sizeof=  7] (FPO) get_NumberOfThisDisk
+  func [0x0000196e+18446744073709545106 - 0x00001985-6533 | sizeof= 23] (FPO) SizesTooLarge
+  func [0x00003002+18446744073709539326 - 0x00003017-12311 | sizeof= 21] (FPO) get_Zip64EOCDNotWhereExpected
+  func [0x00003083+18446744073709539197 - 0x0000308a-12426 | sizeof=  7] (FPO) get_CanWrite
+  func [0x0000046b+18446744073709550485 - 0x00000472-1138 | sizeof=  7] (FPO) get_CanWrite
+  func [0x000002e0+18446744073709550880 - 0x000002e2-738 | sizeof=  2] (FPO) get_CanWrite
+  func [0x0000010d+18446744073709551347 - 0x00000123-291 | sizeof= 22] (FPO) get_CanWrite
+  func [0x00001ea7+18446744073709543769 - 0x00001eae-7854 | sizeof=  7] (FPO) get_Data
+  func [0x00002f30+18446744073709539536 - 0x00002f45-12101 | sizeof= 21] (FPO) get_ReadModeCapabilities
+  func [0x00002c83+18446744073709540221 - 0x00002c89-11401 | sizeof=  6] (FPO) get_Culture
+  func [0x00002c89+18446744073709540215 - 0x00002c90-11408 | sizeof=  7] (FPO) set_Culture
+  func [0x0000066c+18446744073709549972 - 0x0000067a-1658 | sizeof= 14] (FPO) CreateEntry
+  func [0x0000065b+18446744073709549989 - 0x0000066c-1644 | sizeof= 17] (FPO) CreateEntry
+  func [0x0000083b+18446744073709549509 - 0x00000845-2117 | sizeof= 10] (FPO) IsStillArchiveStreamOwner
+  func [0x00002e5e+18446744073709539746 - 0x00002e73-11891 | sizeof= 21] (FPO) get_FieldTooBigOffsetToZip64EOCD
+  func [0x00002d4d+18446744073709540019 - 0x00002d62-11618 | sizeof= 21] (FPO) get_DateTimeOutOfRange
+  func [0x00002d0e+18446744073709540082 - 0x00002d23-11555 | sizeof= 21] (FPO) get_CreateModeCreateEntryWhileOpen
+  func [0x00000156+18446744073709551274 - 0x0000016a-362 | sizeof= 20] (FPO) ThrowIfCantWrite
+  func [0x00002f84+18446744073709539452 - 0x00002f99-12185 | sizeof= 21] (FPO) get_SplitSpanned
+  func [0x00002029+18446744073709543383 - 0x000020a1-8353 | sizeof=120] (FPO) UpdateSize
+  func [0x00000b01+18446744073709548799 - 0x00000d19-3353 | sizeof=536] (FPO) ReadEndOfCentralDirectory
+  func [0x00002f99+18446744073709539431 - 0x00002fae-12206 | sizeof= 21] (FPO) get_UnexpectedEndOfStream
+  func [0x00002cba+18446744073709540166 - 0x00002ccf-11471 | sizeof= 21] (FPO) get_CDCorrupt
+  func [0x00002119+18446744073709543143 - 0x000022e5-8933 | sizeof=460] (FPO) TryGetZip64BlockFromGenericExtraField
+  func [0x000025f9+18446744073709541895 - 0x0000265a-9818 | sizeof= 97] (FPO) GetExtraFields
+  func [0x00002f5a+18446744073709539494 - 0x00002f6f-12143 | sizeof= 21] (FPO) get_SeekingNotSupported
+  func [0x0000307f+18446744073709539201 - 0x00003081-12417 | sizeof=  2] (FPO) get_CanRead
+  func [0x00000467+18446744073709550489 - 0x00000469-1129 | sizeof=  2] (FPO) get_CanRead
+  func [0x000002c8+18446744073709550904 - 0x000002de-734 | sizeof= 22] (FPO) get_CanRead
+  func [0x000000e1+18446744073709551391 - 0x000000f7-247 | sizeof= 22] (FPO) get_CanRead
+  func [0x00000845+18446744073709549499 - 0x0000084d-2125 | sizeof=  8] (FPO) ReleaseArchiveStream
+  func [0x0000188d+18446744073709545331 - 0x0000196e-6510 | sizeof=225] (FPO) IsOpenable
+  func [0x0000308a+18446744073709539190 - 0x000030a9-12457 | sizeof= 31] (FPO) ThrowIfDisposed
+  func [0x00000472+18446744073709550478 - 0x00000491-1169 | sizeof= 31] (FPO) ThrowIfDisposed
+  func [0x000002e2+18446744073709550878 - 0x00000301-769 | sizeof= 31] (FPO) ThrowIfDisposed
+  func [0x0000086d+18446744073709549459 - 0x00000887-2183 | sizeof= 26] (FPO) ThrowIfDisposed
+  func [0x00000123+18446744073709551325 - 0x00000142-322 | sizeof= 31] (FPO) ThrowIfDisposed
+  func [0x00002ef1+18446744073709539599 - 0x00002f06-12038 | sizeof= 21] (FPO) get_NumEntriesWrong
+  func [0x000013c3+18446744073709546557 - 0x0000140c-5132 | sizeof= 73] (FPO) DecodeEntryName
+  func [0x00002c90+18446744073709540208 - 0x00002ca5-11429 | sizeof= 21] (FPO) get_ArgumentNeedNonNegative
+---EXTERNALS---
+  
+  

@@ -1,0 +1,43 @@
+Summary for C:\temp\symbols\System.Web.ApplicationServices.pdb\9287C50BE562455A9BD3E243DD3E5E9D1\System.Web.ApplicationServices.pdb
+  Size: 69632 bytes
+  Guid: {0BC58792-62E5-5A45-9BD3-E243DD3E5E9D}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.Web.ApplicationServicesStrings
+  System.Web.Util.SystemWebProxy
+  System.Web.Util.SecurityServices
+  System.Web.Security.MembershipCreateUserException
+  System.Web.Security.MembershipUserCollection
+  System.Web.Security.MembershipProviderCollection
+  System.Web.Security.ValidatePasswordEventArgs
+  System.Web.Security.DefaultMembershipAdapter
+  System.Web.Security.MembershipProvider
+  System.Web.Security.MembershipPasswordException
+  System.Web.Security.MembershipUser
+  System.Web.Hosting.CustomLoaderHelper
+  System.Web.Hosting.CustomLoaderAttribute
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.Web.ApplicationServicesStrings
+  System.Web.Util.SystemWebProxy
+  System.Web.Util.SecurityServices
+  System.Web.Security.MembershipCreateUserException
+  System.Web.Security.MembershipUserCollection
+  System.Web.Security.MembershipProviderCollection
+  System.Web.Security.ValidatePasswordEventArgs
+  System.Web.Security.DefaultMembershipAdapter
+  System.Web.Security.MembershipProvider
+  System.Web.Security.MembershipPasswordException
+  System.Web.Security.MembershipUser
+  System.Web.Hosting.CustomLoaderHelper
+  System.Web.Hosting.CustomLoaderAttribute
+---GLOBALS---
+---EXTERNALS---
+  
+  

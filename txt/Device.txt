@@ -1,0 +1,55 @@
+Summary for C:\temp\symbols\System.Device.pdb\A8A289F41BE740668A9BE80F67E25D791\System.Device.pdb
+  Size: 69632 bytes
+  Guid: {F489A2A8-E71B-6640-8A9B-E80F67E25D79}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.SR
+  System.Device.Location.CivicAddress
+  System.Device.Location.ResolveAddressCompletedEventArgs
+  System.Device.Location.CivicAddressResolver
+  System.Device.Location.GeoPosition`1
+  System.Device.Location.GeoCoordinate
+  System.Device.Location.GeoCoordinateWatcherBase
+  System.Device.Location.GeoCoordinateWatcher
+  System.Device.Location.GeoPositionChangedEventArgs`1
+  System.Device.Location.GeoPositionStatusChangedEventArgs
+  System.Device.Location.GeoPermissionChangedEventArgs
+  System.Device.Location.GeoCoordinateWatcherInternal
+  System.Device.Location.Internal.Utility
+  System.Device.Location.Internal.PROPVARIANT
+  System.Device.Location.Internal.PROPERTYKEY
+  System.Device.Location.Internal.LocationPropertyKey
+  System.Device.Location.Internal.LocationReportKey
+  System.Device.Location.CivicAddressResolver.<>c__DisplayClass9_0`1
+  System.Device.Location.GeoCoordinateWatcher.<>c__DisplayClass53_0`1
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.SR
+  System.Device.Location.CivicAddress
+  System.Device.Location.ResolveAddressCompletedEventArgs
+  System.Device.Location.CivicAddressResolver
+  System.Device.Location.GeoPosition`1
+  System.Device.Location.GeoCoordinate
+  System.Device.Location.GeoCoordinateWatcherBase
+  System.Device.Location.GeoCoordinateWatcher
+  System.Device.Location.GeoPositionChangedEventArgs`1
+  System.Device.Location.GeoPositionStatusChangedEventArgs
+  System.Device.Location.GeoPermissionChangedEventArgs
+  System.Device.Location.GeoCoordinateWatcherInternal
+  System.Device.Location.Internal.Utility
+  System.Device.Location.Internal.PROPVARIANT
+  System.Device.Location.Internal.PROPERTYKEY
+  System.Device.Location.Internal.LocationPropertyKey
+  System.Device.Location.Internal.LocationReportKey
+  System.Device.Location.CivicAddressResolver.<>c__DisplayClass9_0`1
+  System.Device.Location.GeoCoordinateWatcher.<>c__DisplayClass53_0`1
+---GLOBALS---
+---EXTERNALS---
+  
+  

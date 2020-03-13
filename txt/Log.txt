@@ -1,0 +1,151 @@
+Summary for C:\temp\symbols\System.IO.Log.pdb\98309DA73F4340EEA7207901E3DD1C601\System.IO.Log.pdb
+  Size: 94208 bytes
+  Guid: {A79D3098-433F-EE40-A720-7901E3DD1C60}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.IO.Log.DiagnosticUtility
+  System.IO.Log.AppendHelper
+  System.IO.Log.CoTaskMemHandle
+  System.IO.Log.Error
+  System.IO.Log.FileLogRecordHeader
+  System.IO.Log.FileLogRecordEnumerable
+  System.IO.Log.FileLogRecordEnumerator
+  System.IO.Log.FileLogRecordStream
+  System.IO.Log.FileLogRecord
+  System.IO.Log.FileRecordSequence
+  System.IO.Log.FileRecordSequenceCompletedAsyncResult
+  System.IO.Log.FileRecordSequenceHelper
+  System.IO.Log.FileRegion
+  System.IO.Log.FileReservationCollection
+  System.IO.Log.LogAppendAsyncResult
+  System.IO.Log.LogArchiveSnapshot
+  System.IO.Log.LogExtent
+  System.IO.Log.LogExtentCollection
+  System.IO.Log.LogFlushAsyncResult
+  System.IO.Log.LogLogRecord
+  System.IO.Log.LogLogRecordEnumerator
+  System.IO.Log.LogLogRecordHeader
+  System.IO.Log.LogManagementAsyncResult
+  System.IO.Log.LogPolicy
+  System.IO.Log.LogRecordSequence
+  System.IO.Log.LogReservationCollection
+  System.IO.Log.LogReserveAndAppendState
+  System.IO.Log.LogRestartAreaEnumerator
+  System.IO.Log.LogStore
+  System.IO.Log.LogWriteRestartAreaAsyncResult
+  System.IO.Log.LogWriteRestartAreaState
+  System.IO.Log.OverlappedAsyncResult
+  System.IO.Log.PolicyUnit
+  System.IO.Log.ReservationCollection
+  System.IO.Log.ReservationNotFoundException
+  System.IO.Log.SafeArchiveContext
+  System.IO.Log.SafeMarshalContext
+  System.IO.Log.SafeReadContext
+  System.IO.Log.SequenceNumber
+  System.IO.Log.SequenceFullException
+  System.IO.Log.SimpleFileLog
+  System.IO.Log.SmuggledIUnknown
+  System.IO.Log.TailPinnedEventArgs
+  System.IO.Log.SECURITY_ATTRIBUTES
+  System.IO.Log.CLFS_CONTAINER_INFORMATION
+  System.IO.Log.CLFS_SCAN_CONTEXT
+  System.IO.Log.CLFS_MGMT_POLICY_COMMON
+  System.IO.Log.CLFS_MGMT_POLICY_MAXIMUMSIZE
+  System.IO.Log.CLFS_MGMT_POLICY_MINIMUMSIZE
+  System.IO.Log.CLFS_MGMT_POLICY_GROWTHRATE
+  System.IO.Log.CLFS_MGMT_POLICY_LOGTAIL
+  System.IO.Log.CLFS_MGMT_POLICY_AUTOSHRINK
+  System.IO.Log.CLFS_MGMT_POLICY_AUTOGROW
+  System.IO.Log.CLFS_MGMT_POLICY_NEWCONTAINERPREFIX
+  System.IO.Log.CLFS_MGMT_POLICY_NEXTCONTAINERSUFFIX
+  System.IO.Log.CLFS_MGMT_NOTIFICATION
+  System.IO.Log.UnsafeNativeMethods
+  System.IO.Log.SRDescriptionAttribute
+  System.IO.Log.SRCategoryAttribute
+  System.IO.Log.SR
+  System.IO.Log.FileRegion.Substream
+  System.IO.Log.LogExtentCollection.LogExtentEnumerator
+  System.IO.Log.LogLogRecord.RecordStream
+  System.IO.Log.LogManagementAsyncResult.<>c__DisplayClass15_0
+  System.IO.Log.LogRecordSequence.RecordEnumerable
+  System.IO.Log.LogRecordSequence.RestartAreaEnumerable
+  System.IO.Log.ReservationCollection.Enumerator
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.IO.Log.DiagnosticUtility
+  System.IO.Log.AppendHelper
+  System.IO.Log.CoTaskMemHandle
+  System.IO.Log.Error
+  System.IO.Log.FileLogRecordHeader
+  System.IO.Log.FileLogRecordEnumerable
+  System.IO.Log.FileLogRecordEnumerator
+  System.IO.Log.FileLogRecordStream
+  System.IO.Log.FileLogRecord
+  System.IO.Log.FileRecordSequence
+  System.IO.Log.FileRecordSequenceCompletedAsyncResult
+  System.IO.Log.FileRecordSequenceHelper
+  System.IO.Log.FileRegion
+  System.IO.Log.FileReservationCollection
+  System.IO.Log.LogAppendAsyncResult
+  System.IO.Log.LogArchiveSnapshot
+  System.IO.Log.LogExtent
+  System.IO.Log.LogExtentCollection
+  System.IO.Log.LogFlushAsyncResult
+  System.IO.Log.LogLogRecord
+  System.IO.Log.LogLogRecordEnumerator
+  System.IO.Log.LogLogRecordHeader
+  System.IO.Log.LogManagementAsyncResult
+  System.IO.Log.LogPolicy
+  System.IO.Log.LogRecordSequence
+  System.IO.Log.LogReservationCollection
+  System.IO.Log.LogReserveAndAppendState
+  System.IO.Log.LogRestartAreaEnumerator
+  System.IO.Log.LogStore
+  System.IO.Log.LogWriteRestartAreaAsyncResult
+  System.IO.Log.LogWriteRestartAreaState
+  System.IO.Log.OverlappedAsyncResult
+  System.IO.Log.PolicyUnit
+  System.IO.Log.ReservationCollection
+  System.IO.Log.ReservationNotFoundException
+  System.IO.Log.SafeArchiveContext
+  System.IO.Log.SafeMarshalContext
+  System.IO.Log.SafeReadContext
+  System.IO.Log.SequenceNumber
+  System.IO.Log.SequenceFullException
+  System.IO.Log.SimpleFileLog
+  System.IO.Log.SmuggledIUnknown
+  System.IO.Log.TailPinnedEventArgs
+  System.IO.Log.SECURITY_ATTRIBUTES
+  System.IO.Log.CLFS_CONTAINER_INFORMATION
+  System.IO.Log.CLFS_SCAN_CONTEXT
+  System.IO.Log.CLFS_MGMT_POLICY_COMMON
+  System.IO.Log.CLFS_MGMT_POLICY_MAXIMUMSIZE
+  System.IO.Log.CLFS_MGMT_POLICY_MINIMUMSIZE
+  System.IO.Log.CLFS_MGMT_POLICY_GROWTHRATE
+  System.IO.Log.CLFS_MGMT_POLICY_LOGTAIL
+  System.IO.Log.CLFS_MGMT_POLICY_AUTOSHRINK
+  System.IO.Log.CLFS_MGMT_POLICY_AUTOGROW
+  System.IO.Log.CLFS_MGMT_POLICY_NEWCONTAINERPREFIX
+  System.IO.Log.CLFS_MGMT_POLICY_NEXTCONTAINERSUFFIX
+  System.IO.Log.CLFS_MGMT_NOTIFICATION
+  System.IO.Log.UnsafeNativeMethods
+  System.IO.Log.SRDescriptionAttribute
+  System.IO.Log.SRCategoryAttribute
+  System.IO.Log.SR
+  System.IO.Log.FileRegion.Substream
+  System.IO.Log.LogExtentCollection.LogExtentEnumerator
+  System.IO.Log.LogLogRecord.RecordStream
+  System.IO.Log.LogManagementAsyncResult.<>c__DisplayClass15_0
+  System.IO.Log.LogRecordSequence.RecordEnumerable
+  System.IO.Log.LogRecordSequence.RestartAreaEnumerable
+  System.IO.Log.ReservationCollection.Enumerator
+---GLOBALS---
+---EXTERNALS---
+  
+  

@@ -1,0 +1,37 @@
+Summary for C:\temp\symbols\PresentationFramework.Classic.pdb\9143C684A4CB4F789321776D857DACB71\PresentationFramework.Classic.pdb
+  Size: 69632 bytes
+  Guid: {84C64391-CBA4-784F-9321-776D857DACB7}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  Microsoft.Windows.Themes.DataGridHeaderBorder
+  Microsoft.Windows.Themes.KnownTypeHelper
+  Microsoft.Windows.Themes.PlatformCulture
+  Microsoft.Windows.Themes.SystemDropShadowChrome
+  Microsoft.Windows.Themes.ProgressBarBrushConverter
+  Microsoft.Windows.Themes.ClassicBorderDecorator
+  Microsoft.Windows.Themes.KnownTypeHelper.ThemesKnownType
+  Microsoft.Windows.Themes.KnownTypeHelper.<>c
+  Microsoft.Windows.Themes.ClassicBorderDecorator.RgbColor
+  Microsoft.Windows.Themes.ClassicBorderDecorator.HlsColor
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  Microsoft.Windows.Themes.DataGridHeaderBorder
+  Microsoft.Windows.Themes.KnownTypeHelper
+  Microsoft.Windows.Themes.PlatformCulture
+  Microsoft.Windows.Themes.SystemDropShadowChrome
+  Microsoft.Windows.Themes.ProgressBarBrushConverter
+  Microsoft.Windows.Themes.ClassicBorderDecorator
+  Microsoft.Windows.Themes.KnownTypeHelper.ThemesKnownType
+  Microsoft.Windows.Themes.KnownTypeHelper.<>c
+  Microsoft.Windows.Themes.ClassicBorderDecorator.RgbColor
+  Microsoft.Windows.Themes.ClassicBorderDecorator.HlsColor
+---GLOBALS---
+---EXTERNALS---
+  
+  

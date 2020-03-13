@@ -1,0 +1,177 @@
+Summary for C:\temp\symbols\Microsoft.VisualBasic.Compatibility.pdb\3B03B195C95A48BAA4285A3420D49D051\Microsoft.VisualBasic.Compatibility.pdb
+  Size: 94208 bytes
+  Guid: {95B1033B-5AC9-BA48-A428-5A3420D49D05}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  My.MyComputer
+  My.MyProject
+  Microsoft.VisualBasic.Compatibility.VB6.SafeNativeMethods
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods
+  Microsoft.VisualBasic.Compatibility.VB6.DriveComboBoxItem
+  Microsoft.VisualBasic.Compatibility.VB6.DriveListBox
+  Microsoft.VisualBasic.Compatibility.VB6.DirDriveDrawing
+  Microsoft.VisualBasic.Compatibility.VB6.DirListBox
+  Microsoft.VisualBasic.Compatibility.VB6.FileListBox
+  Microsoft.VisualBasic.Compatibility.VB6.Resources
+  Microsoft.VisualBasic.Compatibility.VB6.VB6Errors
+  Microsoft.VisualBasic.Compatibility.VB6.ListBoxItem
+  Microsoft.VisualBasic.Compatibility.VB6.FixedLengthString
+  Microsoft.VisualBasic.Compatibility.VB6.Support
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemNameNotOptional
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemAssociatedWebClassNotOptional
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemCouldNotLoadEmbeddedResource
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemCouldNotLoadTemplateFile
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemUnexpectedErrorReadingTemplateFile
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemTooManyNestedTags
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemClosingTagNotFound
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemNoTemplateSpecified
+  Microsoft.VisualBasic.Compatibility.VB6.WebItem
+  Microsoft.VisualBasic.Compatibility.VB6.WebClassNextItemCannotBeCurrentWebItem
+  Microsoft.VisualBasic.Compatibility.VB6.WebClassUserWebClassNameNotOptional
+  Microsoft.VisualBasic.Compatibility.VB6.WebClassWebClassFileNameNotOptional
+  Microsoft.VisualBasic.Compatibility.VB6.WebClassContainingClassNotOptional
+  Microsoft.VisualBasic.Compatibility.VB6.WebClassNextItemRespondNotFound
+  Microsoft.VisualBasic.Compatibility.VB6.WebClassCouldNotFindEvent
+  Microsoft.VisualBasic.Compatibility.VB6.WebClassWebItemNotValid
+  Microsoft.VisualBasic.Compatibility.VB6.WebClass
+  Microsoft.VisualBasic.Compatibility.VB6.BaseControlArray
+  Microsoft.VisualBasic.Compatibility.VB6.CompatibilityListBoxDesigner
+  Microsoft.VisualBasic.Compatibility.VB6.CompatibilityComboBoxDesigner
+  Microsoft.VisualBasic.Compatibility.VB6.DriveListBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.DirListBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.FileListBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.BaseOcxArray
+  Microsoft.VisualBasic.Compatibility.VB6.ButtonArray
+  Microsoft.VisualBasic.Compatibility.VB6.CheckBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.CheckedListBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.ColorDialogArray
+  Microsoft.VisualBasic.Compatibility.VB6.ComboBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.FontDialogArray
+  Microsoft.VisualBasic.Compatibility.VB6.GroupBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.HScrollBarArray
+  Microsoft.VisualBasic.Compatibility.VB6.ImageListArray
+  Microsoft.VisualBasic.Compatibility.VB6.LabelArray
+  Microsoft.VisualBasic.Compatibility.VB6.ListBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.ListViewArray
+  Microsoft.VisualBasic.Compatibility.VB6.MaskedTextBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.MenuItemArray
+  Microsoft.VisualBasic.Compatibility.VB6.ToolStripMenuItemArray
+  Microsoft.VisualBasic.Compatibility.VB6.OpenFileDialogArray
+  Microsoft.VisualBasic.Compatibility.VB6.PanelArray
+  Microsoft.VisualBasic.Compatibility.VB6.PictureBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.ProgressBarArray
+  Microsoft.VisualBasic.Compatibility.VB6.PrintDialogArray
+  Microsoft.VisualBasic.Compatibility.VB6.RadioButtonArray
+  Microsoft.VisualBasic.Compatibility.VB6.RichTextBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.SaveFileDialogArray
+  Microsoft.VisualBasic.Compatibility.VB6.StatusBarArray
+  Microsoft.VisualBasic.Compatibility.VB6.StatusStripArray
+  Microsoft.VisualBasic.Compatibility.VB6.TabControlArray
+  Microsoft.VisualBasic.Compatibility.VB6.TextBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.TimerArray
+  Microsoft.VisualBasic.Compatibility.VB6.ToolBarArray
+  Microsoft.VisualBasic.Compatibility.VB6.ToolStripArray
+  Microsoft.VisualBasic.Compatibility.VB6.TreeViewArray
+  Microsoft.VisualBasic.Compatibility.VB6.VScrollBarArray
+  Microsoft.VisualBasic.Compatibility.VB6.WebBrowserArray
+  My.MyProject.MyWebServices
+  My.MyProject.ThreadSafeObjectProvider`1
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods.CommonHandles
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods.Ole
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods.PICTDESCbmp
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods.PICTDESCicon
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods.PICTDESCemf
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods.HandleCollector
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods.HandleCollector.HandleType
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  My.MyComputer
+  My.MyProject
+  Microsoft.VisualBasic.Compatibility.VB6.SafeNativeMethods
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods
+  Microsoft.VisualBasic.Compatibility.VB6.DriveComboBoxItem
+  Microsoft.VisualBasic.Compatibility.VB6.DriveListBox
+  Microsoft.VisualBasic.Compatibility.VB6.DirDriveDrawing
+  Microsoft.VisualBasic.Compatibility.VB6.DirListBox
+  Microsoft.VisualBasic.Compatibility.VB6.FileListBox
+  Microsoft.VisualBasic.Compatibility.VB6.Resources
+  Microsoft.VisualBasic.Compatibility.VB6.VB6Errors
+  Microsoft.VisualBasic.Compatibility.VB6.ListBoxItem
+  Microsoft.VisualBasic.Compatibility.VB6.FixedLengthString
+  Microsoft.VisualBasic.Compatibility.VB6.Support
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemNameNotOptional
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemAssociatedWebClassNotOptional
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemCouldNotLoadEmbeddedResource
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemCouldNotLoadTemplateFile
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemUnexpectedErrorReadingTemplateFile
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemTooManyNestedTags
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemClosingTagNotFound
+  Microsoft.VisualBasic.Compatibility.VB6.WebItemNoTemplateSpecified
+  Microsoft.VisualBasic.Compatibility.VB6.WebItem
+  Microsoft.VisualBasic.Compatibility.VB6.WebClassNextItemCannotBeCurrentWebItem
+  Microsoft.VisualBasic.Compatibility.VB6.WebClassUserWebClassNameNotOptional
+  Microsoft.VisualBasic.Compatibility.VB6.WebClassWebClassFileNameNotOptional
+  Microsoft.VisualBasic.Compatibility.VB6.WebClassContainingClassNotOptional
+  Microsoft.VisualBasic.Compatibility.VB6.WebClassNextItemRespondNotFound
+  Microsoft.VisualBasic.Compatibility.VB6.WebClassCouldNotFindEvent
+  Microsoft.VisualBasic.Compatibility.VB6.WebClassWebItemNotValid
+  Microsoft.VisualBasic.Compatibility.VB6.WebClass
+  Microsoft.VisualBasic.Compatibility.VB6.BaseControlArray
+  Microsoft.VisualBasic.Compatibility.VB6.CompatibilityListBoxDesigner
+  Microsoft.VisualBasic.Compatibility.VB6.CompatibilityComboBoxDesigner
+  Microsoft.VisualBasic.Compatibility.VB6.DriveListBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.DirListBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.FileListBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.BaseOcxArray
+  Microsoft.VisualBasic.Compatibility.VB6.ButtonArray
+  Microsoft.VisualBasic.Compatibility.VB6.CheckBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.CheckedListBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.ColorDialogArray
+  Microsoft.VisualBasic.Compatibility.VB6.ComboBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.FontDialogArray
+  Microsoft.VisualBasic.Compatibility.VB6.GroupBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.HScrollBarArray
+  Microsoft.VisualBasic.Compatibility.VB6.ImageListArray
+  Microsoft.VisualBasic.Compatibility.VB6.LabelArray
+  Microsoft.VisualBasic.Compatibility.VB6.ListBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.ListViewArray
+  Microsoft.VisualBasic.Compatibility.VB6.MaskedTextBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.MenuItemArray
+  Microsoft.VisualBasic.Compatibility.VB6.ToolStripMenuItemArray
+  Microsoft.VisualBasic.Compatibility.VB6.OpenFileDialogArray
+  Microsoft.VisualBasic.Compatibility.VB6.PanelArray
+  Microsoft.VisualBasic.Compatibility.VB6.PictureBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.ProgressBarArray
+  Microsoft.VisualBasic.Compatibility.VB6.PrintDialogArray
+  Microsoft.VisualBasic.Compatibility.VB6.RadioButtonArray
+  Microsoft.VisualBasic.Compatibility.VB6.RichTextBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.SaveFileDialogArray
+  Microsoft.VisualBasic.Compatibility.VB6.StatusBarArray
+  Microsoft.VisualBasic.Compatibility.VB6.StatusStripArray
+  Microsoft.VisualBasic.Compatibility.VB6.TabControlArray
+  Microsoft.VisualBasic.Compatibility.VB6.TextBoxArray
+  Microsoft.VisualBasic.Compatibility.VB6.TimerArray
+  Microsoft.VisualBasic.Compatibility.VB6.ToolBarArray
+  Microsoft.VisualBasic.Compatibility.VB6.ToolStripArray
+  Microsoft.VisualBasic.Compatibility.VB6.TreeViewArray
+  Microsoft.VisualBasic.Compatibility.VB6.VScrollBarArray
+  Microsoft.VisualBasic.Compatibility.VB6.WebBrowserArray
+  My.MyProject.MyWebServices
+  My.MyProject.ThreadSafeObjectProvider`1
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods.CommonHandles
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods.Ole
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods.PICTDESCbmp
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods.PICTDESCicon
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods.PICTDESCemf
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods.HandleCollector
+  Microsoft.VisualBasic.Compatibility.VB6.NativeMethods.HandleCollector.HandleType
+---GLOBALS---
+---EXTERNALS---
+  
+  

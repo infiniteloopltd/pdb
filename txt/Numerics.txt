@@ -1,0 +1,49 @@
+Summary for C:\temp\symbols\System.Numerics.pdb\6668EFB9F74F461D9E482CBD25D0A56C2\System.Numerics.pdb
+  Size: 86016 bytes
+  Guid: {B9EF6866-4FF7-1D46-9E48-2CBD25D0A56C}
+  Age: 2
+  Attributes: 
+---COMPILANDS---
+  System.SR
+  System.Numerics.BigInteger
+  System.Numerics.BigIntegerBuilder
+  System.Numerics.BigNumber
+  System.Numerics.NumericsHelpers
+  System.Numerics.Complex
+  System.Numerics.HashCodeHelper
+  System.Numerics.Matrix3x2
+  System.Numerics.Matrix4x4
+  System.Numerics.Plane
+  System.Numerics.Quaternion
+  System.Numerics.Vector2
+  System.Numerics.Vector3
+  System.Numerics.Vector4
+  System.Numerics.Vector
+  System.Numerics.BigNumber.BigNumberBuffer
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.SR
+  System.Numerics.BigInteger
+  System.Numerics.BigIntegerBuilder
+  System.Numerics.BigNumber
+  System.Numerics.NumericsHelpers
+  System.Numerics.Complex
+  System.Numerics.HashCodeHelper
+  System.Numerics.Matrix3x2
+  System.Numerics.Matrix4x4
+  System.Numerics.Plane
+  System.Numerics.Quaternion
+  System.Numerics.Vector2
+  System.Numerics.Vector3
+  System.Numerics.Vector4
+  System.Numerics.Vector
+  System.Numerics.BigNumber.BigNumberBuffer
+---GLOBALS---
+---EXTERNALS---
+  
+  

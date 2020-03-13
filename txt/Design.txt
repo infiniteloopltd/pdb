@@ -1,0 +1,81 @@
+Summary for C:\temp\symbols\System.Windows.Forms.DataVisualization.Design.pdb\1D99142912F642D7B24CB7E901C9035E1\System.Windows.Forms.DataVisualization.Design.pdb
+  Size: 77824 bytes
+  Guid: {2914991D-F612-D742-B24C-B7E901C9035E}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.Windows.Forms.Design.DataVisualization.Charting.AnnotationCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.AnchorPointUITypeEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.AnchorPointNameTreeView
+  System.Windows.Forms.Design.DataVisualization.Charting.AnnotationAxisUITypeEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.AnnotationAxisNameTreeView
+  System.Windows.Forms.Design.DataVisualization.Charting.AreaCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.DesignerMessageBoxDialog
+  System.Windows.Forms.Design.DataVisualization.Charting.AxesArrayEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.DataPointCustomPropertiesConverter
+  System.Windows.Forms.Design.DataVisualization.Charting.DataPointConverter
+  System.Windows.Forms.Design.DataVisualization.Charting.ColorPaletteEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.SeriesDataSourceMemberValueAxisUITypeEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.SeriesDataSourceMemberYCheckedListBox
+  System.Windows.Forms.Design.DataVisualization.Charting.ChartTypeEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.DataPointCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.ChartCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.SeriesCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.FlagsEnumUITypeEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.FlagsEnumCheckedListBox
+  System.Windows.Forms.Design.DataVisualization.Charting.GradientEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.HatchStyleEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.ImageValueEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.KeywordEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.KeywordsStringEditorForm
+  System.Windows.Forms.Design.DataVisualization.Charting.KeywordsStringEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.LegendItemCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.LegendCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.LegendCellColumnCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.LegendCellCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.MarkerStyleEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.ChartWinDesigner
+  System.Windows.Forms.Design.DataVisualization.Charting.ChartWinDesignerSerializer
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.Windows.Forms.Design.DataVisualization.Charting.AnnotationCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.AnchorPointUITypeEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.AnchorPointNameTreeView
+  System.Windows.Forms.Design.DataVisualization.Charting.AnnotationAxisUITypeEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.AnnotationAxisNameTreeView
+  System.Windows.Forms.Design.DataVisualization.Charting.AreaCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.DesignerMessageBoxDialog
+  System.Windows.Forms.Design.DataVisualization.Charting.AxesArrayEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.DataPointCustomPropertiesConverter
+  System.Windows.Forms.Design.DataVisualization.Charting.DataPointConverter
+  System.Windows.Forms.Design.DataVisualization.Charting.ColorPaletteEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.SeriesDataSourceMemberValueAxisUITypeEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.SeriesDataSourceMemberYCheckedListBox
+  System.Windows.Forms.Design.DataVisualization.Charting.ChartTypeEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.DataPointCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.ChartCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.SeriesCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.FlagsEnumUITypeEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.FlagsEnumCheckedListBox
+  System.Windows.Forms.Design.DataVisualization.Charting.GradientEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.HatchStyleEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.ImageValueEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.KeywordEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.KeywordsStringEditorForm
+  System.Windows.Forms.Design.DataVisualization.Charting.KeywordsStringEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.LegendItemCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.LegendCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.LegendCellColumnCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.LegendCellCollectionEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.MarkerStyleEditor
+  System.Windows.Forms.Design.DataVisualization.Charting.ChartWinDesigner
+  System.Windows.Forms.Design.DataVisualization.Charting.ChartWinDesignerSerializer
+---GLOBALS---
+---EXTERNALS---
+  
+  

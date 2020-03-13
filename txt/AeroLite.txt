@@ -1,0 +1,33 @@
+Summary for C:\temp\symbols\PresentationFramework.AeroLite.pdb\A9C5B4A8DF364A028FD4986ABA20F2841\PresentationFramework.AeroLite.pdb
+  Size: 69632 bytes
+  Guid: {A8B4C5A9-36DF-024A-8FD4-986ABA20F284}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  Microsoft.Windows.Themes.DataGridHeaderBorder
+  Microsoft.Windows.Themes.KnownTypeHelper
+  Microsoft.Windows.Themes.PlatformCulture
+  Microsoft.Windows.Themes.SystemDropShadowChrome
+  Microsoft.Windows.Themes.ProgressBarBrushConverter
+  Microsoft.Windows.Themes.ScrollChrome
+  Microsoft.Windows.Themes.KnownTypeHelper.ThemesKnownType
+  Microsoft.Windows.Themes.KnownTypeHelper.<>c
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  Microsoft.Windows.Themes.DataGridHeaderBorder
+  Microsoft.Windows.Themes.KnownTypeHelper
+  Microsoft.Windows.Themes.PlatformCulture
+  Microsoft.Windows.Themes.SystemDropShadowChrome
+  Microsoft.Windows.Themes.ProgressBarBrushConverter
+  Microsoft.Windows.Themes.ScrollChrome
+  Microsoft.Windows.Themes.KnownTypeHelper.ThemesKnownType
+  Microsoft.Windows.Themes.KnownTypeHelper.<>c
+---GLOBALS---
+---EXTERNALS---
+  
+  

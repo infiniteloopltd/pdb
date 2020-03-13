@@ -1,0 +1,45 @@
+Summary for C:\temp\symbols\System.Web.WebPages.Deployment.pdb\C0D6739CFC9E4C04A21B38C8DA7E9ED21\System.Web.WebPages.Deployment.pdb
+  Size: 27648 bytes
+  Guid: {9C73D6C0-9EFC-044C-A21B-38C8DA7E9ED2}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  Microsoft.Internal.Web.Utils.CommonResources
+  Microsoft.Internal.Web.Utils.ExceptionHelper
+  System.Web.WebPages.Deployment.AppDomainHelper
+  System.Web.WebPages.Deployment.AppDomainHelper.<>c__DisplayClass4
+  System.Web.WebPages.Deployment.AppDomainHelper.RemoteAssemblyLoader
+  System.Web.WebPages.Deployment.AssemblyUtils
+  System.Web.WebPages.Deployment.AssemblyUtils.<>c__DisplayClass3
+  System.Web.WebPages.Deployment.AssemblyUtils.<>c__DisplayClass11
+  System.Web.WebPages.Deployment.AssemblyUtils.<>c__DisplayClass1e
+  System.Web.WebPages.Deployment.BuildManagerWrapper
+  Microsoft.Internal.Web.Utils.PhysicalFileSystem
+  System.Web.WebPages.Deployment.Resources.ConfigurationResources
+  System.Web.WebPages.Deployment.WebPagesDeployment
+  System.Web.WebPages.Deployment.PreApplicationStartCode
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  Microsoft.Internal.Web.Utils.CommonResources
+  Microsoft.Internal.Web.Utils.ExceptionHelper
+  System.Web.WebPages.Deployment.AppDomainHelper
+  System.Web.WebPages.Deployment.AppDomainHelper.<>c__DisplayClass4
+  System.Web.WebPages.Deployment.AppDomainHelper.RemoteAssemblyLoader
+  System.Web.WebPages.Deployment.AssemblyUtils
+  System.Web.WebPages.Deployment.AssemblyUtils.<>c__DisplayClass3
+  System.Web.WebPages.Deployment.AssemblyUtils.<>c__DisplayClass11
+  System.Web.WebPages.Deployment.AssemblyUtils.<>c__DisplayClass1e
+  System.Web.WebPages.Deployment.BuildManagerWrapper
+  Microsoft.Internal.Web.Utils.PhysicalFileSystem
+  System.Web.WebPages.Deployment.Resources.ConfigurationResources
+  System.Web.WebPages.Deployment.WebPagesDeployment
+  System.Web.WebPages.Deployment.PreApplicationStartCode
+---GLOBALS---
+---EXTERNALS---
+  
+  

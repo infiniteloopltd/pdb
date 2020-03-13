@@ -1,0 +1,77 @@
+Summary for C:\temp\symbols\Microsoft.Web.Infrastructure.pdb\FA5ED91CD82B409587754FA39245241D2\Microsoft.Web.Infrastructure.pdb
+  Size: 27648 bytes
+  Guid: {1CD95EFA-2BD8-9540-8775-4FA39245241D}
+  Age: 2
+  Attributes: 
+---COMPILANDS---
+  0x 6000001
+  Microsoft.Web.Infrastructure.CommonReflectionUtil
+  Microsoft.Web.Infrastructure.CommonAssemblies
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.FieldAccessor`1
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.LazilyEvaluatedNameObjectEntry
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.DeferredCountArrayList
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.ReadOnlyNameValueCollection
+  Microsoft.Web.Infrastructure.ModuleInitializer
+  Microsoft.Web.Infrastructure.ModuleInitializer.CriticalInitializer
+  Microsoft.Web.Infrastructure.KillBitHelper
+  Microsoft.Web.Infrastructure.RegistryKeyWrapper
+  Microsoft.Web.Infrastructure.DynamicModuleHelper.DynamicModuleRegistryEntry
+  Microsoft.Web.Infrastructure.DynamicModuleHelper.DynamicModuleReflectionUtil
+  Microsoft.Web.Infrastructure.DynamicModuleHelper.DynamicModuleUtility
+  Microsoft.Web.Infrastructure.DynamicModuleHelper.DynamicModuleUtility.LegacyModuleRegistrar
+  Microsoft.Web.Infrastructure.DynamicModuleHelper.IntegratedDynamicModule
+  Microsoft.Web.Infrastructure.DynamicModuleHelper.IntegratedDynamicModule.CriticalStatics
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.DynamicValidationShimReflectionUtil
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.GranularValidationReflectionUtil
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.NameObjectEntryWrapper
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.LazilyValidatingArrayList
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.LazilyValidatingHashtable
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.ValidationUtility
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.ValidationUtility.CollectionReplacer
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.ValidationUtility.UnvalidatedCollections
+  Microsoft.Web.Infrastructure.HttpContextHelper
+  Microsoft.Web.Infrastructure.InfrastructureHelper
+  Microsoft.Web.Infrastructure.InfrastructureHelper.HttpRuntimeReflectionUtil
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.ValidationUtility.CollectionReplacer.<>c__DisplayClass8
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.ValidationUtility.CollectionReplacer.<>c__DisplayClass12
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  0x 6000001
+  Microsoft.Web.Infrastructure.CommonReflectionUtil
+  Microsoft.Web.Infrastructure.CommonAssemblies
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.FieldAccessor`1
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.LazilyEvaluatedNameObjectEntry
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.DeferredCountArrayList
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.ReadOnlyNameValueCollection
+  Microsoft.Web.Infrastructure.ModuleInitializer
+  Microsoft.Web.Infrastructure.ModuleInitializer.CriticalInitializer
+  Microsoft.Web.Infrastructure.KillBitHelper
+  Microsoft.Web.Infrastructure.RegistryKeyWrapper
+  Microsoft.Web.Infrastructure.DynamicModuleHelper.DynamicModuleRegistryEntry
+  Microsoft.Web.Infrastructure.DynamicModuleHelper.DynamicModuleReflectionUtil
+  Microsoft.Web.Infrastructure.DynamicModuleHelper.DynamicModuleUtility
+  Microsoft.Web.Infrastructure.DynamicModuleHelper.DynamicModuleUtility.LegacyModuleRegistrar
+  Microsoft.Web.Infrastructure.DynamicModuleHelper.IntegratedDynamicModule
+  Microsoft.Web.Infrastructure.DynamicModuleHelper.IntegratedDynamicModule.CriticalStatics
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.DynamicValidationShimReflectionUtil
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.GranularValidationReflectionUtil
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.NameObjectEntryWrapper
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.LazilyValidatingArrayList
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.LazilyValidatingHashtable
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.ValidationUtility
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.ValidationUtility.CollectionReplacer
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.ValidationUtility.UnvalidatedCollections
+  Microsoft.Web.Infrastructure.HttpContextHelper
+  Microsoft.Web.Infrastructure.InfrastructureHelper
+  Microsoft.Web.Infrastructure.InfrastructureHelper.HttpRuntimeReflectionUtil
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.ValidationUtility.CollectionReplacer.<>c__DisplayClass8
+  Microsoft.Web.Infrastructure.DynamicValidationHelper.ValidationUtility.CollectionReplacer.<>c__DisplayClass12
+---GLOBALS---
+---EXTERNALS---
+  
+  

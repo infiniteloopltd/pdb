@@ -1,0 +1,63 @@
+Summary for C:\temp\symbols\SMDiagnostics.pdb\6B3B3E8522D94821872B959DCBFD941B1\SMDiagnostics.pdb
+  Size: 77824 bytes
+  Guid: {853E3B6B-D922-2148-872B-959DCBFD941B}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.ServiceModel.Configuration.MachineSettingsSection
+  System.ServiceModel.Diagnostics.Activity
+  System.ServiceModel.Diagnostics.DiagnosticTraceSource
+  System.ServiceModel.Diagnostics.DiagnosticStrings
+  System.ServiceModel.Diagnostics.EventLogger
+  System.ServiceModel.Diagnostics.ExceptionUtility
+  System.ServiceModel.Diagnostics.LegacyDiagnosticTrace
+  System.ServiceModel.Diagnostics.PiiTraceSource
+  System.ServiceModel.Diagnostics.PlainXmlWriter
+  System.ServiceModel.Diagnostics.SafeEventLogWriteHandle
+  System.ServiceModel.Diagnostics.TraceXPathNavigator
+  System.ServiceModel.Diagnostics.EncodingFallbackAwareXmlTextWriter
+  System.ServiceModel.Diagnostics.Utility
+  System.ServiceModel.Diagnostics.TraceSRDescriptionAttribute
+  System.ServiceModel.Diagnostics.TraceSRCategoryAttribute
+  System.ServiceModel.Diagnostics.TraceSR
+  System.ServiceModel.Diagnostics.TraceXPathNavigator.TraceNode
+  System.ServiceModel.Diagnostics.TraceXPathNavigator.CommentNode
+  System.ServiceModel.Diagnostics.TraceXPathNavigator.ElementNode
+  System.ServiceModel.Diagnostics.TraceXPathNavigator.AttributeNode
+  System.ServiceModel.Diagnostics.TraceXPathNavigator.ProcessingInstructionNode
+  System.ServiceModel.Diagnostics.TraceXPathNavigator.TextNode
+  System.ServiceModel.Diagnostics.TraceXPathNavigator.ElementNode.<FindSubnodes>d__11
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.ServiceModel.Configuration.MachineSettingsSection
+  System.ServiceModel.Diagnostics.Activity
+  System.ServiceModel.Diagnostics.DiagnosticTraceSource
+  System.ServiceModel.Diagnostics.DiagnosticStrings
+  System.ServiceModel.Diagnostics.EventLogger
+  System.ServiceModel.Diagnostics.ExceptionUtility
+  System.ServiceModel.Diagnostics.LegacyDiagnosticTrace
+  System.ServiceModel.Diagnostics.PiiTraceSource
+  System.ServiceModel.Diagnostics.PlainXmlWriter
+  System.ServiceModel.Diagnostics.SafeEventLogWriteHandle
+  System.ServiceModel.Diagnostics.TraceXPathNavigator
+  System.ServiceModel.Diagnostics.EncodingFallbackAwareXmlTextWriter
+  System.ServiceModel.Diagnostics.Utility
+  System.ServiceModel.Diagnostics.TraceSRDescriptionAttribute
+  System.ServiceModel.Diagnostics.TraceSRCategoryAttribute
+  System.ServiceModel.Diagnostics.TraceSR
+  System.ServiceModel.Diagnostics.TraceXPathNavigator.TraceNode
+  System.ServiceModel.Diagnostics.TraceXPathNavigator.CommentNode
+  System.ServiceModel.Diagnostics.TraceXPathNavigator.ElementNode
+  System.ServiceModel.Diagnostics.TraceXPathNavigator.AttributeNode
+  System.ServiceModel.Diagnostics.TraceXPathNavigator.ProcessingInstructionNode
+  System.ServiceModel.Diagnostics.TraceXPathNavigator.TextNode
+  System.ServiceModel.Diagnostics.TraceXPathNavigator.ElementNode.<FindSubnodes>d__11
+---GLOBALS---
+---EXTERNALS---
+  
+  

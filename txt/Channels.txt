@@ -1,0 +1,163 @@
+Summary for C:\temp\symbols\System.ServiceModel.Channels.pdb\B87D3FEAC0074164AB94DD297DDE59BF1\System.ServiceModel.Channels.pdb
+  Size: 102400 bytes
+  Guid: {EA3F7DB8-07C0-6441-AB94-DD297DDE59BF}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.ServiceModel.UdpBinding
+  System.ServiceModel.Configuration.UdpBindingCollectionElement
+  System.ServiceModel.Configuration.UdpBindingElement
+  System.ServiceModel.Configuration.ByteStreamMessageEncodingElement
+  System.ServiceModel.Configuration.UdpTransportElement
+  System.ServiceModel.Configuration.UdpRetransmissionSettingsElement
+  System.ServiceModel.Channels.ByteStreamBufferedMessageData
+  System.ServiceModel.Channels.ByteStreamMessage
+  System.ServiceModel.Channels.ByteStreamMessageEncoder
+  System.ServiceModel.Channels.ByteStreamMessageEncoderFactory
+  System.ServiceModel.Channels.ByteStreamMessageEncodingBindingElement
+  System.ServiceModel.Channels.ByteStreamMessageUtility
+  System.ServiceModel.Channels.ClientUdpOutputChannel
+  System.ServiceModel.Channels.DuplicateMessageDetector
+  System.ServiceModel.Channels.ServerUdpOutputChannel
+  System.ServiceModel.Channels.SynchronizedRandom
+  System.ServiceModel.Channels.UdpChannelBase`1
+  System.ServiceModel.Channels.UdpChannelFactory`1
+  System.ServiceModel.Channels.UdpChannelListener`3
+  System.ServiceModel.Channels.UdpDuplexChannelListener
+  System.ServiceModel.Channels.UdpReplyChannelListener
+  System.ServiceModel.Channels.ServerUdpDuplexChannel
+  System.ServiceModel.Channels.UdpDuplexChannel
+  System.ServiceModel.Channels.UdpOutputChannel
+  System.ServiceModel.Channels.NetworkInterfaceMessageProperty
+  System.ServiceModel.Channels.UdpReplyChannel
+  System.ServiceModel.Channels.UdpRetransmissionSettings
+  System.ServiceModel.Channels.UdpRequestContext
+  System.ServiceModel.Channels.UdpSocket
+  System.ServiceModel.Channels.UdpSocketReceiveManager
+  System.ServiceModel.Channels.UdpTransportBindingElement
+  System.ServiceModel.Channels.UdpTransportBindingElementPolicy
+  System.ServiceModel.Channels.UdpTransportImporter
+  System.ServiceModel.Channels.UdpUtility
+  System.ServiceModel.Channels.XmlByteStreamReader
+  System.ServiceModel.Channels.XmlByteStreamWriter
+  System.ServiceModel.Channels.XmlBufferedByteStreamReader
+  System.ServiceModel.Channels.XmlStreamedByteStreamReader
+  System.ServiceModel.Channels.HttpResponseMessageExtensionMethods
+  System.ServiceModel.Channels.HttpRequestMessageExtensionMethods
+  System.ServiceModel.Channels.MessageExtensionMethods
+  System.ServiceModel.Channels.SR
+  System.ServiceModel.Channels.TD
+  System.ServiceModel.Channels.FxTrace
+  System.ServiceModel.Channels.ByteStreamBufferedMessageData.ByteStreamBufferedMessageDataStream
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage
+  System.ServiceModel.Channels.ByteStreamMessageEncoder.WriteMessageAsyncResult
+  System.ServiceModel.Channels.UdpChannelBase`1.CloseAsyncResult`1
+  System.ServiceModel.Channels.UdpChannelBase`1.<>c__DisplayClass54_0
+  System.ServiceModel.Channels.UdpChannelFactory`1.ClientUdpDuplexChannel
+  System.ServiceModel.Channels.UdpConstants.Defaults
+  System.ServiceModel.Channels.UdpOutputChannel.RetransmitIterator
+  System.ServiceModel.Channels.UdpOutputChannel.SynchronousRetransmissionHelper
+  System.ServiceModel.Channels.UdpOutputChannel.SendAsyncResult
+  System.ServiceModel.Channels.UdpOutputChannel.CloseAsyncResult
+  System.ServiceModel.Channels.UdpReplyChannel.HelpReceiveRequestAsyncResult
+  System.ServiceModel.Channels.UdpSocket.SendToAsyncResult
+  System.ServiceModel.Channels.UdpSocket.ReceiveFromAsyncResult
+  System.ServiceModel.Channels.UdpSocketReceiveManager.UdpSocketReceiveState
+  System.ServiceModel.Channels.XmlByteStreamWriter.WriteBase64AsyncResult
+  System.ServiceModel.Channels.XmlStreamedByteStreamReader.StreamXmlStreamedByteStreamReader
+  System.ServiceModel.Channels.XmlStreamedByteStreamReader.HttpRequestMessageStreamedBodyReader
+  System.ServiceModel.Channels.XmlStreamedByteStreamReader.HttpResponseMessageStreamedBodyReader
+  System.ServiceModel.Channels.FxTrace.<>c
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.OnWriteMessageAsyncResult
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.BufferedBodyWriter
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.StreamedBodyWriter
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.ByteStreamMessageBuffer
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.StreamedBodyWriter.ByteStreamStreamProvider
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.StreamedBodyWriter.WriteBodyContentsAsyncResult
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.StreamedBodyWriter.StreamBasedStreamedBodyWriter
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.StreamedBodyWriter.HttpRequestMessageStreamedBodyWriter
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.StreamedBodyWriter.HttpResponseMessageStreamedBodyWriter
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.ServiceModel.UdpBinding
+  System.ServiceModel.Configuration.UdpBindingCollectionElement
+  System.ServiceModel.Configuration.UdpBindingElement
+  System.ServiceModel.Configuration.ByteStreamMessageEncodingElement
+  System.ServiceModel.Configuration.UdpTransportElement
+  System.ServiceModel.Configuration.UdpRetransmissionSettingsElement
+  System.ServiceModel.Channels.ByteStreamBufferedMessageData
+  System.ServiceModel.Channels.ByteStreamMessage
+  System.ServiceModel.Channels.ByteStreamMessageEncoder
+  System.ServiceModel.Channels.ByteStreamMessageEncoderFactory
+  System.ServiceModel.Channels.ByteStreamMessageEncodingBindingElement
+  System.ServiceModel.Channels.ByteStreamMessageUtility
+  System.ServiceModel.Channels.ClientUdpOutputChannel
+  System.ServiceModel.Channels.DuplicateMessageDetector
+  System.ServiceModel.Channels.ServerUdpOutputChannel
+  System.ServiceModel.Channels.SynchronizedRandom
+  System.ServiceModel.Channels.UdpChannelBase`1
+  System.ServiceModel.Channels.UdpChannelFactory`1
+  System.ServiceModel.Channels.UdpChannelListener`3
+  System.ServiceModel.Channels.UdpDuplexChannelListener
+  System.ServiceModel.Channels.UdpReplyChannelListener
+  System.ServiceModel.Channels.ServerUdpDuplexChannel
+  System.ServiceModel.Channels.UdpDuplexChannel
+  System.ServiceModel.Channels.UdpOutputChannel
+  System.ServiceModel.Channels.NetworkInterfaceMessageProperty
+  System.ServiceModel.Channels.UdpReplyChannel
+  System.ServiceModel.Channels.UdpRetransmissionSettings
+  System.ServiceModel.Channels.UdpRequestContext
+  System.ServiceModel.Channels.UdpSocket
+  System.ServiceModel.Channels.UdpSocketReceiveManager
+  System.ServiceModel.Channels.UdpTransportBindingElement
+  System.ServiceModel.Channels.UdpTransportBindingElementPolicy
+  System.ServiceModel.Channels.UdpTransportImporter
+  System.ServiceModel.Channels.UdpUtility
+  System.ServiceModel.Channels.XmlByteStreamReader
+  System.ServiceModel.Channels.XmlByteStreamWriter
+  System.ServiceModel.Channels.XmlBufferedByteStreamReader
+  System.ServiceModel.Channels.XmlStreamedByteStreamReader
+  System.ServiceModel.Channels.HttpResponseMessageExtensionMethods
+  System.ServiceModel.Channels.HttpRequestMessageExtensionMethods
+  System.ServiceModel.Channels.MessageExtensionMethods
+  System.ServiceModel.Channels.SR
+  System.ServiceModel.Channels.TD
+  System.ServiceModel.Channels.FxTrace
+  System.ServiceModel.Channels.ByteStreamBufferedMessageData.ByteStreamBufferedMessageDataStream
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage
+  System.ServiceModel.Channels.ByteStreamMessageEncoder.WriteMessageAsyncResult
+  System.ServiceModel.Channels.UdpChannelBase`1.CloseAsyncResult`1
+  System.ServiceModel.Channels.UdpChannelBase`1.<>c__DisplayClass54_0
+  System.ServiceModel.Channels.UdpChannelFactory`1.ClientUdpDuplexChannel
+  System.ServiceModel.Channels.UdpConstants.Defaults
+  System.ServiceModel.Channels.UdpOutputChannel.RetransmitIterator
+  System.ServiceModel.Channels.UdpOutputChannel.SynchronousRetransmissionHelper
+  System.ServiceModel.Channels.UdpOutputChannel.SendAsyncResult
+  System.ServiceModel.Channels.UdpOutputChannel.CloseAsyncResult
+  System.ServiceModel.Channels.UdpReplyChannel.HelpReceiveRequestAsyncResult
+  System.ServiceModel.Channels.UdpSocket.SendToAsyncResult
+  System.ServiceModel.Channels.UdpSocket.ReceiveFromAsyncResult
+  System.ServiceModel.Channels.UdpSocketReceiveManager.UdpSocketReceiveState
+  System.ServiceModel.Channels.XmlByteStreamWriter.WriteBase64AsyncResult
+  System.ServiceModel.Channels.XmlStreamedByteStreamReader.StreamXmlStreamedByteStreamReader
+  System.ServiceModel.Channels.XmlStreamedByteStreamReader.HttpRequestMessageStreamedBodyReader
+  System.ServiceModel.Channels.XmlStreamedByteStreamReader.HttpResponseMessageStreamedBodyReader
+  System.ServiceModel.Channels.FxTrace.<>c
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.OnWriteMessageAsyncResult
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.BufferedBodyWriter
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.StreamedBodyWriter
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.ByteStreamMessageBuffer
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.StreamedBodyWriter.ByteStreamStreamProvider
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.StreamedBodyWriter.WriteBodyContentsAsyncResult
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.StreamedBodyWriter.StreamBasedStreamedBodyWriter
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.StreamedBodyWriter.HttpRequestMessageStreamedBodyWriter
+  System.ServiceModel.Channels.ByteStreamMessage.InternalByteStreamMessage.StreamedBodyWriter.HttpResponseMessageStreamedBodyWriter
+---GLOBALS---
+---EXTERNALS---
+  
+  

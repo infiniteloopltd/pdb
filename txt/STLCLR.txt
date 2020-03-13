@@ -1,0 +1,55 @@
+Summary for C:\temp\symbols\Microsoft.VisualC.STLCLR.pdb\17D2B379C75B413499EA1B01403E662D1\Microsoft.VisualC.STLCLR.pdb
+  Size: 35840 bytes
+  Guid: {79B3D217-5BC7-3441-99EA-1B01403E662D}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  Microsoft.VisualC.StlClr.Generic.ReverseBidirectionalIterator`1
+  Microsoft.VisualC.StlClr.Generic.ConstReverseBidirectionalIterator`1
+  Microsoft.VisualC.StlClr.Generic.ReverseRandomAccessIterator`1
+  Microsoft.VisualC.StlClr.Generic.ConstReverseRandomAccessIterator`1
+  Microsoft.VisualC.StlClr.Generic.ContainerBidirectionalIterator`1
+  Microsoft.VisualC.StlClr.Generic.ConstContainerBidirectionalIterator`1
+  Microsoft.VisualC.StlClr.Generic.ContainerRandomAccessIterator`1
+  Microsoft.VisualC.StlClr.Generic.ConstContainerRandomAccessIterator`1
+  Microsoft.VisualC.StlClr.DequeEnumeratorBase`1
+  Microsoft.VisualC.StlClr.DequeEnumerator`1
+  Microsoft.VisualC.StlClr.ListEnumeratorBase`1
+  Microsoft.VisualC.StlClr.ListEnumerator`1
+  Microsoft.VisualC.StlClr.GenericPair`2
+  Microsoft.VisualC.StlClr.VectorEnumeratorBase`1
+  Microsoft.VisualC.StlClr.VectorEnumerator`1
+  Microsoft.VisualC.StlClr.HashEnumeratorBase`2
+  Microsoft.VisualC.StlClr.HashEnumerator`2
+  Microsoft.VisualC.StlClr.TreeEnumeratorBase`2
+  Microsoft.VisualC.StlClr.TreeEnumerator`2
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  Microsoft.VisualC.StlClr.Generic.ReverseBidirectionalIterator`1
+  Microsoft.VisualC.StlClr.Generic.ConstReverseBidirectionalIterator`1
+  Microsoft.VisualC.StlClr.Generic.ReverseRandomAccessIterator`1
+  Microsoft.VisualC.StlClr.Generic.ConstReverseRandomAccessIterator`1
+  Microsoft.VisualC.StlClr.Generic.ContainerBidirectionalIterator`1
+  Microsoft.VisualC.StlClr.Generic.ConstContainerBidirectionalIterator`1
+  Microsoft.VisualC.StlClr.Generic.ContainerRandomAccessIterator`1
+  Microsoft.VisualC.StlClr.Generic.ConstContainerRandomAccessIterator`1
+  Microsoft.VisualC.StlClr.DequeEnumeratorBase`1
+  Microsoft.VisualC.StlClr.DequeEnumerator`1
+  Microsoft.VisualC.StlClr.ListEnumeratorBase`1
+  Microsoft.VisualC.StlClr.ListEnumerator`1
+  Microsoft.VisualC.StlClr.GenericPair`2
+  Microsoft.VisualC.StlClr.VectorEnumeratorBase`1
+  Microsoft.VisualC.StlClr.VectorEnumerator`1
+  Microsoft.VisualC.StlClr.HashEnumeratorBase`2
+  Microsoft.VisualC.StlClr.HashEnumerator`2
+  Microsoft.VisualC.StlClr.TreeEnumeratorBase`2
+  Microsoft.VisualC.StlClr.TreeEnumerator`2
+---GLOBALS---
+---EXTERNALS---
+  
+  

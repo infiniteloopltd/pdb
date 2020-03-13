@@ -1,0 +1,37 @@
+Summary for C:\temp\symbols\PresentationFramework.Luna.pdb\7D78EFED436140399047DC442DB6A4731\PresentationFramework.Luna.pdb
+  Size: 77824 bytes
+  Guid: {EDEF787D-6143-3940-9047-DC442DB6A473}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  Microsoft.Windows.Themes.DataGridHeaderBorder
+  Microsoft.Windows.Themes.KnownTypeHelper
+  Microsoft.Windows.Themes.PlatformCulture
+  Microsoft.Windows.Themes.SystemDropShadowChrome
+  Microsoft.Windows.Themes.ProgressBarBrushConverter
+  Microsoft.Windows.Themes.BulletChrome
+  Microsoft.Windows.Themes.ScrollChrome
+  Microsoft.Windows.Themes.ButtonChrome
+  Microsoft.Windows.Themes.KnownTypeHelper.ThemesKnownType
+  Microsoft.Windows.Themes.KnownTypeHelper.<>c
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  Microsoft.Windows.Themes.DataGridHeaderBorder
+  Microsoft.Windows.Themes.KnownTypeHelper
+  Microsoft.Windows.Themes.PlatformCulture
+  Microsoft.Windows.Themes.SystemDropShadowChrome
+  Microsoft.Windows.Themes.ProgressBarBrushConverter
+  Microsoft.Windows.Themes.BulletChrome
+  Microsoft.Windows.Themes.ScrollChrome
+  Microsoft.Windows.Themes.ButtonChrome
+  Microsoft.Windows.Themes.KnownTypeHelper.ThemesKnownType
+  Microsoft.Windows.Themes.KnownTypeHelper.<>c
+---GLOBALS---
+---EXTERNALS---
+  
+  

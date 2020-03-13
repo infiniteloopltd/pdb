@@ -1,0 +1,33 @@
+Summary for C:\temp\symbols\System.Windows.Presentation.pdb\268F864F599B4C20B8332D602B5136171\System.Windows.Presentation.pdb
+  Size: 69632 bytes
+  Guid: {4F868F26-9B59-204C-B833-2D602B513617}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.Windows.Presentation.SR
+  System.Windows.Threading.DispatcherExtensions
+  System.Windows.Threading.TaskExtensions
+  System.AddIn.Pipeline.FrameworkElementAdapters
+  System.AddIn.Pipeline.AddInHwndSourceWrapper
+  System.AddIn.Pipeline.AddInKeyboardInputSite
+  MS.Internal.Controls.AddInHost
+  MS.Internal.Controls.AddInHostSite
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.Windows.Presentation.SR
+  System.Windows.Threading.DispatcherExtensions
+  System.Windows.Threading.TaskExtensions
+  System.AddIn.Pipeline.FrameworkElementAdapters
+  System.AddIn.Pipeline.AddInHwndSourceWrapper
+  System.AddIn.Pipeline.AddInKeyboardInputSite
+  MS.Internal.Controls.AddInHost
+  MS.Internal.Controls.AddInHostSite
+---GLOBALS---
+---EXTERNALS---
+  
+  

@@ -1,0 +1,177 @@
+Summary for C:\temp\symbols\System.ServiceModel.Activation.pdb\F253556F829D4462ABF25D73DCBEA0261\System.ServiceModel.Activation.pdb
+  Size: 102400 bytes
+  Guid: {6F5553F2-9D82-6244-ABF2-5D73DCBEA026}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.ServiceModel.ServiceHostingEnvironment
+  System.ServiceModel.AspNetPartialTrustHelpers
+  System.ServiceModel.HostingEnvironmentWrapper
+  System.ServiceModel.Activities.Activation.WorkflowServiceHostFactory
+  System.ServiceModel.Activities.Activation.ServiceModelActivitiesActivationHandler
+  System.ServiceModel.Activities.Activation.ServiceModelActivitiesActivationHandlerAsync
+  System.ServiceModel.Activities.Activation.XamlBuildProviderExtension
+  System.ServiceModel.Channels.MsmqHostedTransportManager
+  System.ServiceModel.Diagnostics.HttpRequestTraceRecord
+  System.ServiceModel.Activation.AspNetRouteServiceHttpHandler
+  System.ServiceModel.Activation.ApplyHostConfigurationBehavior
+  System.ServiceModel.Activation.CollectibleLRUCache`2
+  System.ServiceModel.Activation.HttpHandler
+  System.ServiceModel.Activation.HttpModule
+  System.ServiceModel.Activation.HostedAspNetEnvironment
+  System.ServiceModel.Activation.HostedBindingBehavior
+  System.ServiceModel.Activation.HostedHttpContext
+  System.ServiceModel.Activation.HostedHttpRequestAsyncResult
+  System.ServiceModel.Activation.HostedHttpTransportManager
+  System.ServiceModel.Activation.HostedThreadData
+  System.ServiceModel.Activation.HostedImpersonationContext
+  System.ServiceModel.Activation.HostedNamedPipeTransportManager
+  System.ServiceModel.Activation.HostedTcpTransportManager
+  System.ServiceModel.Activation.HostedTransportConfigurationBase
+  System.ServiceModel.Activation.HostedTransportConfigurationManager
+  System.ServiceModel.Activation.HostingMessageProperty
+  System.ServiceModel.Activation.HttpHostedTransportConfiguration
+  System.ServiceModel.Activation.HttpsHostedTransportConfiguration
+  System.ServiceModel.Activation.MsmqHostedTransportConfiguration
+  System.ServiceModel.Activation.MsmqIntegrationHostedTransportConfiguration
+  System.ServiceModel.Activation.NamedPipeHostedTransportConfiguration
+  System.ServiceModel.Activation.MetabaseReader
+  System.ServiceModel.Activation.MetabaseSettings
+  System.ServiceModel.Activation.MetabaseSettingsCassini
+  System.ServiceModel.Activation.MetabaseSettingsIis
+  System.ServiceModel.Activation.MetabaseSettingsIis6
+  System.ServiceModel.Activation.HostedServiceTransportSettings
+  System.ServiceModel.Activation.ServiceBuildProvider
+  System.ServiceModel.Activation.ServiceDeploymentInfo
+  System.ServiceModel.Activation.ServiceHostFactory
+  System.ServiceModel.Activation.ServiceHttpHandlerFactory
+  System.ServiceModel.Activation.ServiceHttpModule
+  System.ServiceModel.Activation.ServiceMemoryGates
+  System.ServiceModel.Activation.ServiceParser
+  System.ServiceModel.Activation.ServiceRoute
+  System.ServiceModel.Activation.ServiceRouteHandler
+  System.ServiceModel.Activation.TcpHostedTransportConfiguration
+  System.ServiceModel.Activation.SR
+  System.ServiceModel.Activation.TD
+  System.ServiceModel.Activation.FxTrace
+  System.ServiceModel.Activation.Diagnostics.TraceUtility
+  System.ServiceModel.Activation.Interop.SafeCloseHandleCritical
+  System.ServiceModel.Activation.Interop.SafeHGlobalHandleCritical
+  System.ServiceModel.Activation.Interop.SafeNativeMethods
+  System.ServiceModel.Activation.Configuration.AppSettings
+  System.ServiceModel.ServiceHostingEnvironment.HostingManager
+  System.ServiceModel.ServiceHostingEnvironment.BuildProviderInfo
+  System.ServiceModel.ServiceHostingEnvironment.PathCache
+  System.ServiceModel.ServiceHostingEnvironment.PathInfo
+  System.ServiceModel.ServiceHostingEnvironment.<>c
+  System.ServiceModel.Channels.MsmqHostedTransportManager.HostedBindingFilter
+  System.ServiceModel.Activation.CollectibleLRUCache`2.CollectibleNode
+  System.ServiceModel.Activation.CollectibleLRUCache`2.WriterLockScope
+  System.ServiceModel.Activation.CollectibleLRUCache`2.CollectibleBatch
+  System.ServiceModel.Activation.HostedAspNetEnvironment.HostedMetadataExchangeEndpointBehavior
+  System.ServiceModel.Activation.HostedAspNetEnvironment.ReceiveContextBusyCountWrapper
+  System.ServiceModel.Activation.HostedHttpContext.HostedHttpInput
+  System.ServiceModel.Activation.HostedHttpContext.HostedRequestHttpOutput
+  System.ServiceModel.Activation.HostedHttpContext.HostedRequestContainer
+  System.ServiceModel.Activation.HostedThreadData.HostedAspNetContext
+  System.ServiceModel.Activation.HostedImpersonationContext.HostedInnerImpersonationContext
+  System.ServiceModel.Activation.MetabaseSettingsIis6.IISConstants
+  System.ServiceModel.Activation.ServiceHttpHandlerFactory.ServiceHttpHandler
+  System.ServiceModel.Activation.ServiceParser.ServiceParserUtilities
+  System.ServiceModel.Activation.FxTrace.<>c
+  System.ServiceModel.ServiceHostingEnvironment.HostingManager.ExtensionHelper
+  System.ServiceModel.ServiceHostingEnvironment.HostingManager.ServiceActivationInfo
+  System.ServiceModel.Activation.HostedAspNetEnvironment.ReceiveContextBusyCountWrapper.ReceiveContextEnlistmentNotification
+  System.ServiceModel.Activation.HostedHttpContext.HostedHttpInput.HostedInputStream
+  System.ServiceModel.Activation.HostedHttpContext.HostedRequestHttpOutput.HostedResponseOutputStream
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.ServiceModel.ServiceHostingEnvironment
+  System.ServiceModel.AspNetPartialTrustHelpers
+  System.ServiceModel.HostingEnvironmentWrapper
+  System.ServiceModel.Activities.Activation.WorkflowServiceHostFactory
+  System.ServiceModel.Activities.Activation.ServiceModelActivitiesActivationHandler
+  System.ServiceModel.Activities.Activation.ServiceModelActivitiesActivationHandlerAsync
+  System.ServiceModel.Activities.Activation.XamlBuildProviderExtension
+  System.ServiceModel.Channels.MsmqHostedTransportManager
+  System.ServiceModel.Diagnostics.HttpRequestTraceRecord
+  System.ServiceModel.Activation.AspNetRouteServiceHttpHandler
+  System.ServiceModel.Activation.ApplyHostConfigurationBehavior
+  System.ServiceModel.Activation.CollectibleLRUCache`2
+  System.ServiceModel.Activation.HttpHandler
+  System.ServiceModel.Activation.HttpModule
+  System.ServiceModel.Activation.HostedAspNetEnvironment
+  System.ServiceModel.Activation.HostedBindingBehavior
+  System.ServiceModel.Activation.HostedHttpContext
+  System.ServiceModel.Activation.HostedHttpRequestAsyncResult
+  System.ServiceModel.Activation.HostedHttpTransportManager
+  System.ServiceModel.Activation.HostedThreadData
+  System.ServiceModel.Activation.HostedImpersonationContext
+  System.ServiceModel.Activation.HostedNamedPipeTransportManager
+  System.ServiceModel.Activation.HostedTcpTransportManager
+  System.ServiceModel.Activation.HostedTransportConfigurationBase
+  System.ServiceModel.Activation.HostedTransportConfigurationManager
+  System.ServiceModel.Activation.HostingMessageProperty
+  System.ServiceModel.Activation.HttpHostedTransportConfiguration
+  System.ServiceModel.Activation.HttpsHostedTransportConfiguration
+  System.ServiceModel.Activation.MsmqHostedTransportConfiguration
+  System.ServiceModel.Activation.MsmqIntegrationHostedTransportConfiguration
+  System.ServiceModel.Activation.NamedPipeHostedTransportConfiguration
+  System.ServiceModel.Activation.MetabaseReader
+  System.ServiceModel.Activation.MetabaseSettings
+  System.ServiceModel.Activation.MetabaseSettingsCassini
+  System.ServiceModel.Activation.MetabaseSettingsIis
+  System.ServiceModel.Activation.MetabaseSettingsIis6
+  System.ServiceModel.Activation.HostedServiceTransportSettings
+  System.ServiceModel.Activation.ServiceBuildProvider
+  System.ServiceModel.Activation.ServiceDeploymentInfo
+  System.ServiceModel.Activation.ServiceHostFactory
+  System.ServiceModel.Activation.ServiceHttpHandlerFactory
+  System.ServiceModel.Activation.ServiceHttpModule
+  System.ServiceModel.Activation.ServiceMemoryGates
+  System.ServiceModel.Activation.ServiceParser
+  System.ServiceModel.Activation.ServiceRoute
+  System.ServiceModel.Activation.ServiceRouteHandler
+  System.ServiceModel.Activation.TcpHostedTransportConfiguration
+  System.ServiceModel.Activation.SR
+  System.ServiceModel.Activation.TD
+  System.ServiceModel.Activation.FxTrace
+  System.ServiceModel.Activation.Diagnostics.TraceUtility
+  System.ServiceModel.Activation.Interop.SafeCloseHandleCritical
+  System.ServiceModel.Activation.Interop.SafeHGlobalHandleCritical
+  System.ServiceModel.Activation.Interop.SafeNativeMethods
+  System.ServiceModel.Activation.Configuration.AppSettings
+  System.ServiceModel.ServiceHostingEnvironment.HostingManager
+  System.ServiceModel.ServiceHostingEnvironment.BuildProviderInfo
+  System.ServiceModel.ServiceHostingEnvironment.PathCache
+  System.ServiceModel.ServiceHostingEnvironment.PathInfo
+  System.ServiceModel.ServiceHostingEnvironment.<>c
+  System.ServiceModel.Channels.MsmqHostedTransportManager.HostedBindingFilter
+  System.ServiceModel.Activation.CollectibleLRUCache`2.CollectibleNode
+  System.ServiceModel.Activation.CollectibleLRUCache`2.WriterLockScope
+  System.ServiceModel.Activation.CollectibleLRUCache`2.CollectibleBatch
+  System.ServiceModel.Activation.HostedAspNetEnvironment.HostedMetadataExchangeEndpointBehavior
+  System.ServiceModel.Activation.HostedAspNetEnvironment.ReceiveContextBusyCountWrapper
+  System.ServiceModel.Activation.HostedHttpContext.HostedHttpInput
+  System.ServiceModel.Activation.HostedHttpContext.HostedRequestHttpOutput
+  System.ServiceModel.Activation.HostedHttpContext.HostedRequestContainer
+  System.ServiceModel.Activation.HostedThreadData.HostedAspNetContext
+  System.ServiceModel.Activation.HostedImpersonationContext.HostedInnerImpersonationContext
+  System.ServiceModel.Activation.MetabaseSettingsIis6.IISConstants
+  System.ServiceModel.Activation.ServiceHttpHandlerFactory.ServiceHttpHandler
+  System.ServiceModel.Activation.ServiceParser.ServiceParserUtilities
+  System.ServiceModel.Activation.FxTrace.<>c
+  System.ServiceModel.ServiceHostingEnvironment.HostingManager.ExtensionHelper
+  System.ServiceModel.ServiceHostingEnvironment.HostingManager.ServiceActivationInfo
+  System.ServiceModel.Activation.HostedAspNetEnvironment.ReceiveContextBusyCountWrapper.ReceiveContextEnlistmentNotification
+  System.ServiceModel.Activation.HostedHttpContext.HostedHttpInput.HostedInputStream
+  System.ServiceModel.Activation.HostedHttpContext.HostedRequestHttpOutput.HostedResponseOutputStream
+---GLOBALS---
+---EXTERNALS---
+  
+  

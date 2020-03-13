@@ -1,0 +1,151 @@
+Summary for C:\temp\symbols\System.Messaging.pdb\33BC30E7CE704FA6984D77582BB9AFF91\System.Messaging.pdb
+  Size: 94208 bytes
+  Guid: {E730BC33-70CE-A64F-984D-77582BB9AFF9}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.AppContextDefaultValues
+  System.InvariantComparer
+  System.TelemetryEventSource
+  System.LocalAppContext
+  System.Messaging.LocalAppContextSwitches
+  System.Messaging.AccessControlEntry
+  System.Messaging.AccessControlList
+  System.Messaging.ActiveXMessageFormatter
+  System.Messaging.BinaryMessageFormatter
+  System.Messaging.Cursor
+  System.Messaging.DefaultPropertiesToSend
+  System.Messaging.Message
+  System.Messaging.MessageEnumerator
+  System.Messaging.MessagePropertyFilter
+  System.Messaging.MessageQueue
+  System.Messaging.MessageQueueAccessControlEntry
+  System.Messaging.MessageQueueCriteria
+  System.Messaging.MessageQueueEnumerator
+  System.Messaging.MessageQueueException
+  System.Messaging.MessageQueueInstaller
+  System.Messaging.MessageQueuePermission
+  System.Messaging.MessageQueuePermissionAttribute
+  System.Messaging.MessageQueuePermissionEntry
+  System.Messaging.MessageQueuePermissionEntryCollection
+  System.Messaging.MessageQueueTransaction
+  System.Messaging.MessagingDescriptionAttribute
+  System.Messaging.PeekCompletedEventArgs
+  System.Messaging.QueueAccessModeHolder
+  System.Messaging.ReceiveCompletedEventArgs
+  System.Messaging.SecurityContext
+  System.Messaging.Trustee
+  System.Messaging.ValidationUtility
+  System.Messaging.XmlMessageFormatter
+  System.Messaging.ResDescriptionAttribute
+  System.Messaging.ResCategoryAttribute
+  System.Messaging.Res
+  System.Messaging.Design.MessageFormatterConverter
+  System.Messaging.Design.MessageQueueConverter
+  System.Messaging.Design.QueuePathDialog
+  System.Messaging.Design.QueuePathEditor
+  System.Messaging.Design.SizeConverter
+  System.Messaging.Design.TimeoutConverter
+  System.Messaging.Interop.Columns
+  System.Messaging.Interop.MachinePropertyVariants
+  System.Messaging.Interop.MessagePropertyVariants
+  System.Messaging.Interop.NativeMethods
+  System.Messaging.Interop.QueuePropertyVariants
+  System.Messaging.Interop.Restrictions
+  System.Messaging.Interop.MessageQueueHandle
+  System.Messaging.Interop.CursorHandle
+  System.Messaging.Interop.LocatorHandle
+  System.Messaging.Interop.SecurityContextHandle
+  System.Messaging.Interop.SafeNativeMethods
+  System.Messaging.Interop.UnsafeNativeMethods
+  System.Messaging.ActiveXMessageFormatter.ComStreamFromDataStream
+  System.Messaging.MessageQueue.QueuePropertyFilter
+  System.Messaging.MessageQueue.AsynchronousRequest
+  System.Messaging.MessageQueue.CacheTable`2
+  System.Messaging.MessageQueue.MQCacheableInfo
+  System.Messaging.MessageQueue.QueueInfoKeyHolder
+  System.Messaging.MessageQueueCriteria.CriteriaPropertyFilter
+  System.Messaging.Interop.Columns.MQCOLUMNSET
+  System.Messaging.Interop.NativeMethods.SECURITY_DESCRIPTOR
+  System.Messaging.Interop.Restrictions.MQRESTRICTION
+  System.Messaging.Interop.MessageQueueHandle.InvalidMessageQueueHandle
+  System.Messaging.Interop.CursorHandle.InvalidCursorHandle
+  System.Messaging.Interop.LocatorHandle.InvalidLocatorHandle
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.AppContextDefaultValues
+  System.InvariantComparer
+  System.TelemetryEventSource
+  System.LocalAppContext
+  System.Messaging.LocalAppContextSwitches
+  System.Messaging.AccessControlEntry
+  System.Messaging.AccessControlList
+  System.Messaging.ActiveXMessageFormatter
+  System.Messaging.BinaryMessageFormatter
+  System.Messaging.Cursor
+  System.Messaging.DefaultPropertiesToSend
+  System.Messaging.Message
+  System.Messaging.MessageEnumerator
+  System.Messaging.MessagePropertyFilter
+  System.Messaging.MessageQueue
+  System.Messaging.MessageQueueAccessControlEntry
+  System.Messaging.MessageQueueCriteria
+  System.Messaging.MessageQueueEnumerator
+  System.Messaging.MessageQueueException
+  System.Messaging.MessageQueueInstaller
+  System.Messaging.MessageQueuePermission
+  System.Messaging.MessageQueuePermissionAttribute
+  System.Messaging.MessageQueuePermissionEntry
+  System.Messaging.MessageQueuePermissionEntryCollection
+  System.Messaging.MessageQueueTransaction
+  System.Messaging.MessagingDescriptionAttribute
+  System.Messaging.PeekCompletedEventArgs
+  System.Messaging.QueueAccessModeHolder
+  System.Messaging.ReceiveCompletedEventArgs
+  System.Messaging.SecurityContext
+  System.Messaging.Trustee
+  System.Messaging.ValidationUtility
+  System.Messaging.XmlMessageFormatter
+  System.Messaging.ResDescriptionAttribute
+  System.Messaging.ResCategoryAttribute
+  System.Messaging.Res
+  System.Messaging.Design.MessageFormatterConverter
+  System.Messaging.Design.MessageQueueConverter
+  System.Messaging.Design.QueuePathDialog
+  System.Messaging.Design.QueuePathEditor
+  System.Messaging.Design.SizeConverter
+  System.Messaging.Design.TimeoutConverter
+  System.Messaging.Interop.Columns
+  System.Messaging.Interop.MachinePropertyVariants
+  System.Messaging.Interop.MessagePropertyVariants
+  System.Messaging.Interop.NativeMethods
+  System.Messaging.Interop.QueuePropertyVariants
+  System.Messaging.Interop.Restrictions
+  System.Messaging.Interop.MessageQueueHandle
+  System.Messaging.Interop.CursorHandle
+  System.Messaging.Interop.LocatorHandle
+  System.Messaging.Interop.SecurityContextHandle
+  System.Messaging.Interop.SafeNativeMethods
+  System.Messaging.Interop.UnsafeNativeMethods
+  System.Messaging.ActiveXMessageFormatter.ComStreamFromDataStream
+  System.Messaging.MessageQueue.QueuePropertyFilter
+  System.Messaging.MessageQueue.AsynchronousRequest
+  System.Messaging.MessageQueue.CacheTable`2
+  System.Messaging.MessageQueue.MQCacheableInfo
+  System.Messaging.MessageQueue.QueueInfoKeyHolder
+  System.Messaging.MessageQueueCriteria.CriteriaPropertyFilter
+  System.Messaging.Interop.Columns.MQCOLUMNSET
+  System.Messaging.Interop.NativeMethods.SECURITY_DESCRIPTOR
+  System.Messaging.Interop.Restrictions.MQRESTRICTION
+  System.Messaging.Interop.MessageQueueHandle.InvalidMessageQueueHandle
+  System.Messaging.Interop.CursorHandle.InvalidCursorHandle
+  System.Messaging.Interop.LocatorHandle.InvalidLocatorHandle
+---GLOBALS---
+---EXTERNALS---
+  
+  

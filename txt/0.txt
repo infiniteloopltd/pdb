@@ -1,0 +1,167 @@
+Summary for C:\temp\symbols\Microsoft.Build.Utilities.v4.0.pdb\A9D6699ED3D34C8888A26E2BD4365E971\Microsoft.Build.Utilities.v4.0.pdb
+  Size: 102400 bytes
+  Guid: {9E69D6A9-D3D3-884C-88A2-6E2BD4365E97}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  Microsoft.Build.Internal.Tracing
+  Microsoft.Build.Utilities.TaskLoggingHelper
+  Microsoft.Build.Utilities.AppDomainIsolatedTask
+  Microsoft.Build.Utilities.AssemblyFoldersExInfo
+  Microsoft.Build.Utilities.CommandLineBuilder
+  Microsoft.Build.Utilities.Logger
+  Microsoft.Build.Utilities.MuxLogger
+  Microsoft.Build.Utilities.ProcessorArchitecture
+  Microsoft.Build.Utilities.TargetPlatformSDK
+  Microsoft.Build.Utilities.Task
+  Microsoft.Build.Utilities.TaskItem
+  Microsoft.Build.Utilities.ToolLocationHelper
+  Microsoft.Build.Utilities.ToolTask
+  Microsoft.Build.Utilities.CanonicalTrackedInputFiles
+  Microsoft.Build.Utilities.DependencyTableCache
+  Microsoft.Build.Utilities.DependencyTableCacheEntry
+  Microsoft.Build.Utilities.FlatTrackingData
+  Microsoft.Build.Utilities.NativeMethods
+  Microsoft.Build.Utilities.FileTracker
+  Microsoft.Build.Utilities.CanonicalTrackedOutputFiles
+  Microsoft.Build.Utilities.TrackedDependencies
+  Microsoft.Build.Utilities.CanonicalTrackedFilesHelper
+  Microsoft.Build.Collections.CopyOnWriteDictionary`2
+  Microsoft.Build.Collections.HybridDictionary`2
+  Microsoft.Build.Collections.MSBuildNameIgnoreCaseComparer
+  Microsoft.Build.Collections.ReadOnlyEmptyCollection`1
+  Microsoft.Build.Collections.ReadOnlyEmptyDictionary`2
+  Microsoft.Build.Collections.ReadOnlyEmptyList`1
+  Microsoft.Build.Shared.AssemblyFoldersEx
+  Microsoft.Build.Shared.CanonicalError
+  Microsoft.Build.Shared.ExtensionFoldersRegistryKey
+  Microsoft.Build.Shared.EncodingUtilities
+  Microsoft.Build.Shared.ErrorUtilities
+  Microsoft.Build.Shared.EscapingUtilities
+  Microsoft.Build.Shared.EventArgsFormatting
+  Microsoft.Build.Shared.ExceptionHandling
+  Microsoft.Build.Shared.FileUtilities
+  Microsoft.Build.Shared.FileMatcher
+  Microsoft.Build.Shared.FileUtilitiesRegex
+  Microsoft.Build.Shared.FrameworkLocationHelper
+  Microsoft.Build.Shared.InternalErrorException
+  Microsoft.Build.Shared.NativeMethodsShared
+  Microsoft.Build.Shared.InprocTrackingNativeMethods
+  Microsoft.Build.Shared.RegistryHelper
+  Microsoft.Build.Shared.ResourceUtilities
+  Microsoft.Build.Shared.VersionUtilities
+  Microsoft.Build.Shared.ReverseStringGenericComparer
+  Microsoft.Build.Shared.ReverseVersionGenericComparer
+  Microsoft.Build.Shared.AssemblyResources
+  Microsoft.Build.Utilities.MuxLogger.SubmissionRecord
+  Microsoft.Build.Utilities.ToolLocationHelper.VersionComparer
+  Microsoft.Build.Utilities.ToolLocationHelper.<>c__DisplayClass35_0
+  Microsoft.Build.Utilities.ToolLocationHelper.<>c
+  Microsoft.Build.Utilities.ToolLocationHelper.<>c__DisplayClass37_0
+  Microsoft.Build.Utilities.ToolLocationHelper.<>c__DisplayClass50_0
+  Microsoft.Build.Utilities.CanonicalTrackedInputFiles.<>c__DisplayClass28_0
+  Microsoft.Build.Utilities.DependencyTableCache.TaskItemItemSpecIgnoreCaseComparer
+  Microsoft.Build.Utilities.FlatTrackingData.<>c__DisplayClass78_0
+  Microsoft.Build.Utilities.FileTracker.<>c__DisplayClass19_0
+  Microsoft.Build.Collections.CopyOnWriteDictionary`2.CopyOnWriteBackingDictionary`2
+  Microsoft.Build.Collections.HybridDictionary`2.SingleEnumerator
+  Microsoft.Build.Collections.HybridDictionary`2.SingleDictionaryEntryEnumerator
+  Microsoft.Build.Collections.HybridDictionary`2.ListDictionaryEntryEnumerator`2
+  Microsoft.Build.Collections.ReadOnlyEmptyCollection`1.<GetEnumerator>d__17
+  Microsoft.Build.Collections.ReadOnlyEmptyList`1.<GetEnumerator>d__17
+  Microsoft.Build.Shared.CanonicalError.Parts
+  Microsoft.Build.Shared.ExceptionHandling.LineAndColumn
+  Microsoft.Build.Shared.FileUtilities.ItemSpecModifiers
+  Microsoft.Build.Shared.FileMatcher.Result
+  Microsoft.Build.Shared.NativeMethodsShared.SafeProcessHandle
+  Microsoft.Build.Shared.NativeMethodsShared.MemoryStatus
+  Microsoft.Build.Shared.NativeMethodsShared.PROCESS_BASIC_INFORMATION
+  Microsoft.Build.Shared.NativeMethodsShared.SecurityAttributes
+  Microsoft.Build.Shared.InprocTrackingNativeMethods.FileTrackerDllStub
+  Microsoft.Build.Shared.InprocTrackingNativeMethods.FileTrackerDllStub.SafeLibraryHandle
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  Microsoft.Build.Internal.Tracing
+  Microsoft.Build.Utilities.TaskLoggingHelper
+  Microsoft.Build.Utilities.AppDomainIsolatedTask
+  Microsoft.Build.Utilities.AssemblyFoldersExInfo
+  Microsoft.Build.Utilities.CommandLineBuilder
+  Microsoft.Build.Utilities.Logger
+  Microsoft.Build.Utilities.MuxLogger
+  Microsoft.Build.Utilities.ProcessorArchitecture
+  Microsoft.Build.Utilities.TargetPlatformSDK
+  Microsoft.Build.Utilities.Task
+  Microsoft.Build.Utilities.TaskItem
+  Microsoft.Build.Utilities.ToolLocationHelper
+  Microsoft.Build.Utilities.ToolTask
+  Microsoft.Build.Utilities.CanonicalTrackedInputFiles
+  Microsoft.Build.Utilities.DependencyTableCache
+  Microsoft.Build.Utilities.DependencyTableCacheEntry
+  Microsoft.Build.Utilities.FlatTrackingData
+  Microsoft.Build.Utilities.NativeMethods
+  Microsoft.Build.Utilities.FileTracker
+  Microsoft.Build.Utilities.CanonicalTrackedOutputFiles
+  Microsoft.Build.Utilities.TrackedDependencies
+  Microsoft.Build.Utilities.CanonicalTrackedFilesHelper
+  Microsoft.Build.Collections.CopyOnWriteDictionary`2
+  Microsoft.Build.Collections.HybridDictionary`2
+  Microsoft.Build.Collections.MSBuildNameIgnoreCaseComparer
+  Microsoft.Build.Collections.ReadOnlyEmptyCollection`1
+  Microsoft.Build.Collections.ReadOnlyEmptyDictionary`2
+  Microsoft.Build.Collections.ReadOnlyEmptyList`1
+  Microsoft.Build.Shared.AssemblyFoldersEx
+  Microsoft.Build.Shared.CanonicalError
+  Microsoft.Build.Shared.ExtensionFoldersRegistryKey
+  Microsoft.Build.Shared.EncodingUtilities
+  Microsoft.Build.Shared.ErrorUtilities
+  Microsoft.Build.Shared.EscapingUtilities
+  Microsoft.Build.Shared.EventArgsFormatting
+  Microsoft.Build.Shared.ExceptionHandling
+  Microsoft.Build.Shared.FileUtilities
+  Microsoft.Build.Shared.FileMatcher
+  Microsoft.Build.Shared.FileUtilitiesRegex
+  Microsoft.Build.Shared.FrameworkLocationHelper
+  Microsoft.Build.Shared.InternalErrorException
+  Microsoft.Build.Shared.NativeMethodsShared
+  Microsoft.Build.Shared.InprocTrackingNativeMethods
+  Microsoft.Build.Shared.RegistryHelper
+  Microsoft.Build.Shared.ResourceUtilities
+  Microsoft.Build.Shared.VersionUtilities
+  Microsoft.Build.Shared.ReverseStringGenericComparer
+  Microsoft.Build.Shared.ReverseVersionGenericComparer
+  Microsoft.Build.Shared.AssemblyResources
+  Microsoft.Build.Utilities.MuxLogger.SubmissionRecord
+  Microsoft.Build.Utilities.ToolLocationHelper.VersionComparer
+  Microsoft.Build.Utilities.ToolLocationHelper.<>c__DisplayClass35_0
+  Microsoft.Build.Utilities.ToolLocationHelper.<>c
+  Microsoft.Build.Utilities.ToolLocationHelper.<>c__DisplayClass37_0
+  Microsoft.Build.Utilities.ToolLocationHelper.<>c__DisplayClass50_0
+  Microsoft.Build.Utilities.CanonicalTrackedInputFiles.<>c__DisplayClass28_0
+  Microsoft.Build.Utilities.DependencyTableCache.TaskItemItemSpecIgnoreCaseComparer
+  Microsoft.Build.Utilities.FlatTrackingData.<>c__DisplayClass78_0
+  Microsoft.Build.Utilities.FileTracker.<>c__DisplayClass19_0
+  Microsoft.Build.Collections.CopyOnWriteDictionary`2.CopyOnWriteBackingDictionary`2
+  Microsoft.Build.Collections.HybridDictionary`2.SingleEnumerator
+  Microsoft.Build.Collections.HybridDictionary`2.SingleDictionaryEntryEnumerator
+  Microsoft.Build.Collections.HybridDictionary`2.ListDictionaryEntryEnumerator`2
+  Microsoft.Build.Collections.ReadOnlyEmptyCollection`1.<GetEnumerator>d__17
+  Microsoft.Build.Collections.ReadOnlyEmptyList`1.<GetEnumerator>d__17
+  Microsoft.Build.Shared.CanonicalError.Parts
+  Microsoft.Build.Shared.ExceptionHandling.LineAndColumn
+  Microsoft.Build.Shared.FileUtilities.ItemSpecModifiers
+  Microsoft.Build.Shared.FileMatcher.Result
+  Microsoft.Build.Shared.NativeMethodsShared.SafeProcessHandle
+  Microsoft.Build.Shared.NativeMethodsShared.MemoryStatus
+  Microsoft.Build.Shared.NativeMethodsShared.PROCESS_BASIC_INFORMATION
+  Microsoft.Build.Shared.NativeMethodsShared.SecurityAttributes
+  Microsoft.Build.Shared.InprocTrackingNativeMethods.FileTrackerDllStub
+  Microsoft.Build.Shared.InprocTrackingNativeMethods.FileTrackerDllStub.SafeLibraryHandle
+---GLOBALS---
+---EXTERNALS---
+  
+  

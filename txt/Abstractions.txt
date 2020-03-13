@@ -1,0 +1,17 @@
+Summary for C:\temp\symbols\System.Web.Abstractions.pdb\F6EEFE5A1FF64DEB8272312664D7AE7F1\System.Web.Abstractions.pdb
+  Size: 61440 bytes
+  Guid: {5AFEEEF6-F61F-EB4D-8272-312664D7AE7F}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+---GLOBALS---
+---EXTERNALS---
+  
+  

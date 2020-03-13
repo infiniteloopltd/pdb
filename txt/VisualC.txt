@@ -1,0 +1,37 @@
+Summary for C:\temp\symbols\Microsoft.VisualC.pdb\00FE05B8A81B458E81EAA805D57E51B01\Microsoft.VisualC.pdb
+  Size: 19456 bytes
+  Guid: {B805FE00-1BA8-8E45-81EA-A805D57E51B0}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  Microsoft.VisualC.IsCXXReferenceModifier
+  Microsoft.VisualC.IsConstModifier
+  Microsoft.VisualC.IsLongModifier
+  Microsoft.VisualC.IsVolatileModifier
+  Microsoft.VisualC.IsSignedModifier
+  Microsoft.VisualC.NoSignSpecifiedModifier
+  Microsoft.VisualC.NeedsCopyConstructorModifier
+  Microsoft.VisualC.DecoratedNameAttribute
+  Microsoft.VisualC.MiscellaneousBitsAttribute
+  Microsoft.VisualC.DebugInfoInPDBAttribute
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  Microsoft.VisualC.IsCXXReferenceModifier
+  Microsoft.VisualC.IsConstModifier
+  Microsoft.VisualC.IsLongModifier
+  Microsoft.VisualC.IsVolatileModifier
+  Microsoft.VisualC.IsSignedModifier
+  Microsoft.VisualC.NoSignSpecifiedModifier
+  Microsoft.VisualC.NeedsCopyConstructorModifier
+  Microsoft.VisualC.DecoratedNameAttribute
+  Microsoft.VisualC.MiscellaneousBitsAttribute
+  Microsoft.VisualC.DebugInfoInPDBAttribute
+---GLOBALS---
+---EXTERNALS---
+  
+  

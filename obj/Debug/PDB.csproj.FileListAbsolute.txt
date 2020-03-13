@@ -1,0 +1,6 @@
+C:\projects\PDB\bin\PDB.dll.config
+C:\projects\PDB\bin\PDB.dll
+C:\projects\PDB\bin\PDB.pdb
+C:\projects\PDB\obj\Debug\PDB.csprojResolveAssemblyReference.cache
+C:\projects\PDB\obj\Debug\PDB.dll
+C:\projects\PDB\obj\Debug\PDB.pdb

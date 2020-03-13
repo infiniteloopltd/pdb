@@ -1,0 +1,127 @@
+Summary for C:\temp\symbols\System.Runtime.DurableInstancing.pdb\3FC7774CDE6B41E9BDB055CF042E64001\System.Runtime.DurableInstancing.pdb
+  Size: 94208 bytes
+  Guid: {4C77C73F-6BDE-E941-BDB0-55CF042E6400}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.Runtime.PersistenceMetadataNamespace
+  System.Runtime.PersistencePipeline
+  System.Runtime.TransactedAsyncResult
+  System.Runtime.TransactionHelper
+  System.Runtime.Workflow45Namespace
+  System.Runtime.WorkflowNamespace
+  System.Runtime.WorkflowServiceNamespace
+  System.Runtime.SRCore
+  System.Runtime.DurableInstancing.InstanceCollisionException
+  System.Runtime.DurableInstancing.InstanceCompleteException
+  System.Runtime.DurableInstancing.InstanceHandle
+  System.Runtime.DurableInstancing.InstanceHandleConflictException
+  System.Runtime.DurableInstancing.InstanceHandleReference
+  System.Runtime.DurableInstancing.InstanceKey
+  System.Runtime.DurableInstancing.InstanceKeyCollisionException
+  System.Runtime.DurableInstancing.InstanceKeyCompleteException
+  System.Runtime.DurableInstancing.InstanceKeyNotReadyException
+  System.Runtime.DurableInstancing.InstanceKeyView
+  System.Runtime.DurableInstancing.InstanceLockedException
+  System.Runtime.DurableInstancing.InstanceLockLostException
+  System.Runtime.DurableInstancing.InstanceLockQueryResult
+  System.Runtime.DurableInstancing.InstanceNormalEvent
+  System.Runtime.DurableInstancing.InstanceNotReadyException
+  System.Runtime.DurableInstancing.InstanceOwner
+  System.Runtime.DurableInstancing.InstanceOwnerException
+  System.Runtime.DurableInstancing.InstanceOwnerQueryResult
+  System.Runtime.DurableInstancing.InstancePersistence
+  System.Runtime.DurableInstancing.InstancePersistenceCommand
+  System.Runtime.DurableInstancing.InstancePersistenceCommandException
+  System.Runtime.DurableInstancing.InstancePersistenceContext
+  System.Runtime.DurableInstancing.InstancePersistenceEvent
+  System.Runtime.DurableInstancing.InstancePersistenceEvent`1
+  System.Runtime.DurableInstancing.InstancePersistenceException
+  System.Runtime.DurableInstancing.InstanceStore
+  System.Runtime.DurableInstancing.InstanceStoreQueryResult
+  System.Runtime.DurableInstancing.InstanceValue
+  System.Runtime.DurableInstancing.InstanceView
+  System.Runtime.DurableInstancing.DisassociateInstanceKeysExtension
+  System.Runtime.PersistenceMetadataNamespace.ActivationTypes
+  System.Runtime.PersistencePipeline.ValueDictionaryView
+  System.Runtime.PersistencePipeline.IOAsyncResult
+  System.Runtime.PersistencePipeline.<>c
+  System.Runtime.TransactedAsyncResult.TransactionSignalScope
+  System.Runtime.DurableInstancing.InstanceHandle.AcquireContextAsyncResult
+  System.Runtime.DurableInstancing.InstanceHandle.WaitForEventsAsyncResult
+  System.Runtime.DurableInstancing.InstanceHandle.<>c
+  System.Runtime.DurableInstancing.InstanceOwner.LockResolutionMarker
+  System.Runtime.DurableInstancing.InstancePersistenceContext.ExecuteAsyncResult
+  System.Runtime.DurableInstancing.InstancePersistenceContext.BindReclaimedLockAsyncResult
+  System.Runtime.DurableInstancing.InstancePersistenceContext.BindReclaimedLockException
+  System.Runtime.DurableInstancing.InstanceStore.<>c
+  System.Runtime.DurableInstancing.InstanceStore.<>c__DisplayClass32_0
+  System.Runtime.DurableInstancing.InstanceStore.<>c__DisplayClass33_0
+  System.Runtime.PersistencePipeline.ValueDictionaryView.<>c
+  System.Runtime.PersistencePipeline.IOAsyncResult.<>c
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.Runtime.PersistenceMetadataNamespace
+  System.Runtime.PersistencePipeline
+  System.Runtime.TransactedAsyncResult
+  System.Runtime.TransactionHelper
+  System.Runtime.Workflow45Namespace
+  System.Runtime.WorkflowNamespace
+  System.Runtime.WorkflowServiceNamespace
+  System.Runtime.SRCore
+  System.Runtime.DurableInstancing.InstanceCollisionException
+  System.Runtime.DurableInstancing.InstanceCompleteException
+  System.Runtime.DurableInstancing.InstanceHandle
+  System.Runtime.DurableInstancing.InstanceHandleConflictException
+  System.Runtime.DurableInstancing.InstanceHandleReference
+  System.Runtime.DurableInstancing.InstanceKey
+  System.Runtime.DurableInstancing.InstanceKeyCollisionException
+  System.Runtime.DurableInstancing.InstanceKeyCompleteException
+  System.Runtime.DurableInstancing.InstanceKeyNotReadyException
+  System.Runtime.DurableInstancing.InstanceKeyView
+  System.Runtime.DurableInstancing.InstanceLockedException
+  System.Runtime.DurableInstancing.InstanceLockLostException
+  System.Runtime.DurableInstancing.InstanceLockQueryResult
+  System.Runtime.DurableInstancing.InstanceNormalEvent
+  System.Runtime.DurableInstancing.InstanceNotReadyException
+  System.Runtime.DurableInstancing.InstanceOwner
+  System.Runtime.DurableInstancing.InstanceOwnerException
+  System.Runtime.DurableInstancing.InstanceOwnerQueryResult
+  System.Runtime.DurableInstancing.InstancePersistence
+  System.Runtime.DurableInstancing.InstancePersistenceCommand
+  System.Runtime.DurableInstancing.InstancePersistenceCommandException
+  System.Runtime.DurableInstancing.InstancePersistenceContext
+  System.Runtime.DurableInstancing.InstancePersistenceEvent
+  System.Runtime.DurableInstancing.InstancePersistenceEvent`1
+  System.Runtime.DurableInstancing.InstancePersistenceException
+  System.Runtime.DurableInstancing.InstanceStore
+  System.Runtime.DurableInstancing.InstanceStoreQueryResult
+  System.Runtime.DurableInstancing.InstanceValue
+  System.Runtime.DurableInstancing.InstanceView
+  System.Runtime.DurableInstancing.DisassociateInstanceKeysExtension
+  System.Runtime.PersistenceMetadataNamespace.ActivationTypes
+  System.Runtime.PersistencePipeline.ValueDictionaryView
+  System.Runtime.PersistencePipeline.IOAsyncResult
+  System.Runtime.PersistencePipeline.<>c
+  System.Runtime.TransactedAsyncResult.TransactionSignalScope
+  System.Runtime.DurableInstancing.InstanceHandle.AcquireContextAsyncResult
+  System.Runtime.DurableInstancing.InstanceHandle.WaitForEventsAsyncResult
+  System.Runtime.DurableInstancing.InstanceHandle.<>c
+  System.Runtime.DurableInstancing.InstanceOwner.LockResolutionMarker
+  System.Runtime.DurableInstancing.InstancePersistenceContext.ExecuteAsyncResult
+  System.Runtime.DurableInstancing.InstancePersistenceContext.BindReclaimedLockAsyncResult
+  System.Runtime.DurableInstancing.InstancePersistenceContext.BindReclaimedLockException
+  System.Runtime.DurableInstancing.InstanceStore.<>c
+  System.Runtime.DurableInstancing.InstanceStore.<>c__DisplayClass32_0
+  System.Runtime.DurableInstancing.InstanceStore.<>c__DisplayClass33_0
+  System.Runtime.PersistencePipeline.ValueDictionaryView.<>c
+  System.Runtime.PersistencePipeline.IOAsyncResult.<>c
+---GLOBALS---
+---EXTERNALS---
+  
+  

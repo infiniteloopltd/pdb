@@ -1,0 +1,39 @@
+Summary for C:\temp\symbols\sysglobl.pdb\4FDFA0C44EF2485CAF5B31AC521FB3501\sysglobl.pdb
+  Size: 77824 bytes
+  Guid: {C4A0DF4F-F24E-5C48-AF5B-31AC521FB350}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.Globalization.CultureDefinition
+  System.Globalization.CultureAndRegionInfoBuilder
+  System.Globalization.LocaleSignature
+  System.Globalization.CultureXmlWriter
+  System.Globalization.CultureXmlReader
+  System.Globalization.Tags
+  System.Globalization.PosixFormatConverter
+  System.Globalization.DateTimeFormatInfoScanner
+  System.IO.EndianBinaryWriter
+  System.Globalization.LocaleSignature.<GetCodePages>d__26
+  System.Globalization.CultureXmlReader.<ReadSpecificCodePages>d__22
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.Globalization.CultureDefinition
+  System.Globalization.CultureAndRegionInfoBuilder
+  System.Globalization.LocaleSignature
+  System.Globalization.CultureXmlWriter
+  System.Globalization.CultureXmlReader
+  System.Globalization.Tags
+  System.Globalization.PosixFormatConverter
+  System.Globalization.DateTimeFormatInfoScanner
+  System.IO.EndianBinaryWriter
+  System.Globalization.LocaleSignature.<GetCodePages>d__26
+  System.Globalization.CultureXmlReader.<ReadSpecificCodePages>d__22
+---GLOBALS---
+---EXTERNALS---
+  
+  

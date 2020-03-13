@@ -1,0 +1,61 @@
+Summary for C:\temp\symbols\System.Data.DataSetExtensions.pdb\B64E4650485F402EB1CFFE7F0A250F9D1\System.Data.DataSetExtensions.pdb
+  Size: 69632 bytes
+  Guid: {50464EB6-5F48-2E40-B1CF-FE7F0A250F9D}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  DataSetUtil
+  System.Data.DataRowComparer
+  System.Data.DataRowComparer`1
+  System.Data.DataTableExtensions
+  System.Data.EnumerableRowCollection
+  System.Data.EnumerableRowCollection`1
+  System.Data.OrderedEnumerableRowCollection`1
+  System.Data.EnumerableRowCollectionExtensions
+  System.Data.LinqDataView
+  System.Data.SortExpressionBuilder`1
+  System.Data.DataRowExtensions
+  System.Data.TypedTableBase`1
+  System.Data.TypedTableBaseExtensions
+  System.Data.DataSetResDescriptionAttribute
+  System.Data.DataSetResCategoryAttribute
+  System.Data.DataSetRes
+  System.Data.DataSetExtensions.Strings
+  System.Data.DataSetExtensions.Error
+  System.Data.EnumerableRowCollection`1.<>c__DisplayClass16_0
+  System.Data.EnumerableRowCollection`1.<>c__DisplayClass19_0`1
+  System.Data.SortExpressionBuilder`1.<>c__DisplayClass10_0`1
+  System.Data.DataRowExtensions.UnboxT`1
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  DataSetUtil
+  System.Data.DataRowComparer
+  System.Data.DataRowComparer`1
+  System.Data.DataTableExtensions
+  System.Data.EnumerableRowCollection
+  System.Data.EnumerableRowCollection`1
+  System.Data.OrderedEnumerableRowCollection`1
+  System.Data.EnumerableRowCollectionExtensions
+  System.Data.LinqDataView
+  System.Data.SortExpressionBuilder`1
+  System.Data.DataRowExtensions
+  System.Data.TypedTableBase`1
+  System.Data.TypedTableBaseExtensions
+  System.Data.DataSetResDescriptionAttribute
+  System.Data.DataSetResCategoryAttribute
+  System.Data.DataSetRes
+  System.Data.DataSetExtensions.Strings
+  System.Data.DataSetExtensions.Error
+  System.Data.EnumerableRowCollection`1.<>c__DisplayClass16_0
+  System.Data.EnumerableRowCollection`1.<>c__DisplayClass19_0`1
+  System.Data.SortExpressionBuilder`1.<>c__DisplayClass10_0`1
+  System.Data.DataRowExtensions.UnboxT`1
+---GLOBALS---
+---EXTERNALS---
+  
+  

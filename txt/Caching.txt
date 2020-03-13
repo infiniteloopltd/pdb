@@ -1,0 +1,101 @@
+Summary for C:\temp\symbols\System.Runtime.Caching.pdb\74EDD5A0F59849E1A6776DBB931777651\System.Runtime.Caching.pdb
+  Size: 86016 bytes
+  Guid: {A0D5ED74-98F5-E149-A677-6DBB93177765}
+  Age: 1
+  Attributes: 
+---COMPILANDS---
+  System.Runtime.Caching.CacheItem
+  System.Runtime.Caching.CacheItemPolicy
+  System.Runtime.Caching.CacheEntryRemovedArguments
+  System.Runtime.Caching.CacheEntryUpdateArguments
+  System.Runtime.Caching.CacheMemoryMonitor
+  System.Runtime.Caching.ChangeMonitor
+  System.Runtime.Caching.Dbg
+  System.Runtime.Caching.FileChangeNotificationSystem
+  System.Runtime.Caching.HostFileChangeMonitor
+  System.Runtime.Caching.MemoryCache
+  System.Runtime.Caching.MemoryCacheEntryChangeMonitor
+  System.Runtime.Caching.MemoryCacheEntry
+  System.Runtime.Caching.MemoryCacheKey
+  System.Runtime.Caching.MemoryCacheEqualityComparer
+  System.Runtime.Caching.MemoryCacheStatistics
+  System.Runtime.Caching.MemoryCacheStore
+  System.Runtime.Caching.MemoryMonitor
+  System.Runtime.Caching.ObjectCache
+  System.Runtime.Caching.PerfCounters
+  System.Runtime.Caching.PhysicalMemoryMonitor
+  System.Runtime.Caching.SafeRegistryHandle
+  System.Runtime.Caching.SafeBitVector32
+  System.Runtime.Caching.SqlChangeMonitor
+  System.Runtime.Caching.SRef
+  System.Runtime.Caching.SRefMultiple
+  System.Runtime.Caching.GCHandleRef`1
+  System.Runtime.Caching.MEMORYSTATUSEX
+  System.Runtime.Caching.ExpiresEntryRef
+  System.Runtime.Caching.ExpiresBucket
+  System.Runtime.Caching.CacheExpires
+  System.Runtime.Caching.UsageEntryRef
+  System.Runtime.Caching.UsageBucket
+  System.Runtime.Caching.CacheUsage
+  System.Runtime.Caching.Configuration.CachingSectionGroup
+  System.Runtime.Caching.Configuration.ConfigUtil
+  System.Runtime.Caching.Configuration.MemoryCacheElement
+  System.Runtime.Caching.Configuration.MemoryCacheSection
+  System.Runtime.Caching.Configuration.MemoryCacheSettingsCollection
+  System.Runtime.Caching.Resources.R
+  System.Runtime.Caching.Resources.RH
+  System.Runtime.Caching.FileChangeNotificationSystem.FileChangeEventTarget
+  System.Runtime.Caching.MemoryCache.SentinelEntry
+---TYPES---
+  Enums: (0 items)
+  Function Signatures: (0 items)
+  Typedefs: (0 items)
+  Pointers: (0 items)
+  Classes: (Showing 0 items)
+---SYMBOLS---
+  System.Runtime.Caching.CacheItem
+  System.Runtime.Caching.CacheItemPolicy
+  System.Runtime.Caching.CacheEntryRemovedArguments
+  System.Runtime.Caching.CacheEntryUpdateArguments
+  System.Runtime.Caching.CacheMemoryMonitor
+  System.Runtime.Caching.ChangeMonitor
+  System.Runtime.Caching.Dbg
+  System.Runtime.Caching.FileChangeNotificationSystem
+  System.Runtime.Caching.HostFileChangeMonitor
+  System.Runtime.Caching.MemoryCache
+  System.Runtime.Caching.MemoryCacheEntryChangeMonitor
+  System.Runtime.Caching.MemoryCacheEntry
+  System.Runtime.Caching.MemoryCacheKey
+  System.Runtime.Caching.MemoryCacheEqualityComparer
+  System.Runtime.Caching.MemoryCacheStatistics
+  System.Runtime.Caching.MemoryCacheStore
+  System.Runtime.Caching.MemoryMonitor
+  System.Runtime.Caching.ObjectCache
+  System.Runtime.Caching.PerfCounters
+  System.Runtime.Caching.PhysicalMemoryMonitor
+  System.Runtime.Caching.SafeRegistryHandle
+  System.Runtime.Caching.SafeBitVector32
+  System.Runtime.Caching.SqlChangeMonitor
+  System.Runtime.Caching.SRef
+  System.Runtime.Caching.SRefMultiple
+  System.Runtime.Caching.GCHandleRef`1
+  System.Runtime.Caching.MEMORYSTATUSEX
+  System.Runtime.Caching.ExpiresEntryRef
+  System.Runtime.Caching.ExpiresBucket
+  System.Runtime.Caching.CacheExpires
+  System.Runtime.Caching.UsageEntryRef
+  System.Runtime.Caching.UsageBucket
+  System.Runtime.Caching.CacheUsage
+  System.Runtime.Caching.Configuration.CachingSectionGroup
+  System.Runtime.Caching.Configuration.ConfigUtil
+  System.Runtime.Caching.Configuration.MemoryCacheElement
+  System.Runtime.Caching.Configuration.MemoryCacheSection
+  System.Runtime.Caching.Configuration.MemoryCacheSettingsCollection
+  System.Runtime.Caching.Resources.R
+  System.Runtime.Caching.Resources.RH
+  System.Runtime.Caching.FileChangeNotificationSystem.FileChangeEventTarget
+  System.Runtime.Caching.MemoryCache.SentinelEntry
+---GLOBALS---
+---EXTERNALS---
+  
+  
